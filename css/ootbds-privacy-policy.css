@@ -1,0 +1,382 @@
+.version.ootbds_privacy_policy /* version checker */
+{
+	color: #0000FE;
+	background-color: #C4209F;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 960px;
+	min-height: 3449px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#u8769
+{
+	z-index: 2;
+	width: 200px;
+	min-height: 100px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 452px;
+	left: 479px;
+}
+
+#u8755-5
+{
+	z-index: 3;
+	width: 70px;
+	min-height: 22px;
+	background-color: transparent;
+	font-family: advent-pro, sans-serif;
+	font-weight: 600;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 37px;
+	left: 750px;
+}
+
+#u8756-5
+{
+	z-index: 8;
+	width: 70px;
+	min-height: 22px;
+	background-color: transparent;
+	font-family: advent-pro, sans-serif;
+	font-weight: 600;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 37px;
+	left: 820px;
+}
+
+#u8755-3,#u8756-3
+{
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u8755-3  span,#u8755-3  a,#u8756-3  span,#u8756-3  a /* line-height set on spans of mixed font sized paras */
+{
+	line-height: 1.2;
+}
+
+#u8755,#u8756
+{
+	font-size: 18px;
+	font-family: advent-pro, sans-serif;
+	font-weight: 700;
+}
+
+#top
+{
+	position: relative;
+	width: 22px;
+	margin-right: -10000px;
+	left: 501px;
+}
+
+#u8713
+{
+	z-index: 14;
+	min-height: 3236px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #EBEBEB;
+}
+
+#u8713_align_to_page
+{
+	margin-left: auto;
+	margin-right: auto;
+	width: 960px;
+	position: relative;
+	left: -100px;
+	padding-top: 129px;
+	padding-bottom: 35px;
+}
+
+#u8714-4
+{
+	z-index: 239;
+	width: 374px;
+	min-height: 48px;
+	background-color: transparent;
+	font-size: 36px;
+	left: 151px;
+	position: relative;
+}
+
+#u8715-5
+{
+	z-index: 258;
+	width: 160px;
+	min-height: 27px;
+	background-color: transparent;
+	font-size: 18px;
+	text-align: center;
+	font-family: open-sans, sans-serif;
+	font-weight: 600;
+	left: 151px;
+	margin-top: 26px;
+	position: relative;
+}
+
+#u8715-5:hover
+{
+	background-color: #D3D3D3;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 27px;
+	width: 160px;
+	margin: 26px 0px 0px;
+}
+
+#u8716-223
+{
+	z-index: 16;
+	width: 856px;
+	min-height: 2943px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	left: 151px;
+	margin-top: 27px;
+	position: relative;
+}
+
+#u8716-2,#u8716-3
+{
+	font-size: 30px;
+}
+
+#u8713-bw
+{
+	z-index: 14;
+	min-height: 3236px;
+	margin-top: 77px;
+}
+
+#u8719
+{
+	z-index: 15;
+	width: 165px;
+	height: 154px;
+	border-style: none;
+	border-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 17px;
+	background: transparent url("../images/ootbdslogo1.png") no-repeat center center;
+}
+
+#u8721
+{
+	z-index: 243;
+	min-height: 153px;
+	border-color: #000000;
+	background-color: #00BFF3;
+	padding-bottom: 4px;
+}
+
+#u8721_align_to_page
+{
+	margin-left: auto;
+	margin-right: auto;
+	width: 960px;
+	position: relative;
+	left: -100px;
+}
+
+#u9441-17
+{
+	z-index: 268;
+	width: 119px;
+	min-height: 90px;
+	background-color: transparent;
+	color: #FFFFFF;
+	font-family: open-sans, sans-serif;
+	font-weight: 300;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 26px;
+	left: 184px;
+}
+
+#pu8717-5
+{
+	width: 0.01px;
+	padding-bottom: 0px;
+	margin-right: -10000px;
+	margin-top: 26px;
+	margin-left: 342px;
+}
+
+#u8717-5
+{
+	z-index: 248;
+	width: 178px;
+	min-height: 18px;
+	background-color: transparent;
+	font-size: 12px;
+	color: #25C4AA;
+	line-height: 1.4;
+	text-align: center;
+	font-family: open-sans, sans-serif;
+	font-weight: 300;
+	margin-left: 147px;
+	position: relative;
+}
+
+#u9441,#u9441-4,#u9441-7,#u9441-10,#u9441-13,#u8717
+{
+	font-family: open-sans, sans-serif;
+	font-weight: 600;
+}
+
+#u8720-4
+{
+	z-index: 244;
+	width: 475px;
+	min-height: 18px;
+	background-color: transparent;
+	color: #081631;
+	line-height: 1.4;
+	font-size: 12px;
+	text-align: center;
+	font-family: open-sans, sans-serif;
+	font-weight: 600;
+	margin-top: 8px;
+	position: relative;
+}
+
+#u8722
+{
+	z-index: 257;
+	width: 75px;
+	height: 75px;
+	border-style: none;
+	border-color: transparent;
+	margin-left: 200px;
+	margin-top: 8px;
+	position: relative;
+	background: transparent url("../images/logotrns1.png") no-repeat center center;
+	background-size: contain;
+}
+
+#u8721-bw
+{
+	z-index: 243;
+	min-height: 153px;
+	margin-top: 3311px;
+}
+
+#u8718-4
+{
+	z-index: 253;
+	width: 18px;
+	min-height: 27px;
+	border-width: 4px;
+	border-style: solid;
+	border-color: #00BFF3;
+	background-color: #FFFFFF;
+	border-radius: 100px;
+	padding-left: 13px;
+	padding-top: 4px;
+	color: #00BFF3;
+	font-size: 18px;
+	font-family: advent-pro, sans-serif;
+	font-weight: 700;
+	-webkit-transform: matrix(0,-1,1,0,0,39);
+	-ms-transform: matrix(0,-1,1,0,0,39);
+	transform: matrix(0,-1,1,0,0,39);
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 3292px;
+	left: 460px;
+}
+
+#u8718-4:hover
+{
+	border-color: #FFFFFF;
+	background-color: #00BFF3;
+	padding-top: 4px;
+	padding-bottom: 0px;
+	min-height: 27px;
+	width: 18px;
+	margin: 3292px -10000px 0px 0px;
+}
+
+#u8718-4:active
+{
+	border-color: #FFFFFF;
+	background-color: #00BFF3;
+	padding-top: 4px;
+	padding-bottom: 0px;
+	min-height: 27px;
+	width: 18px;
+	margin: 3292px -10000px 0px 0px;
+}
+
+#u8718-4:hover p
+{
+	color: #FFFFFF;
+	visibility: inherit;
+}
+
+#u8718-4:active p
+{
+	color: #FFFFFF;
+	visibility: inherit;
+}
+
+#u8712-5
+{
+	z-index: 263;
+	width: 160px;
+	min-height: 27px;
+	background-color: transparent;
+	font-size: 18px;
+	text-align: center;
+	font-family: open-sans, sans-serif;
+	font-weight: 600;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 280px;
+	left: 211px;
+}
+
+#u8712-5:hover
+{
+	background-color: #D3D3D3;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 27px;
+	width: 160px;
+	margin: 280px -10000px 0px 0px;
+}
+
+body
+{
+	position: relative;
+	min-width: 960px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+
