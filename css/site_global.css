@@ -177,6 +177,12 @@ a.nontext /* used to override default properties of 'a' tag */
 	text-decoration: none;
 }
 
+a,.OoTBDS-com a,.Style3 a
+{
+	color: inherit;
+	text-decoration: inherit;
+}
+
 .Style3 a:link
 {
 	color: #FFFFFF;
@@ -199,12 +205,6 @@ a.nontext /* used to override default properties of 'a' tag */
 	font-style: normal;
 	font-weight: normal;
 	text-decoration: none;
-}
-
-.OoTBDS-com a,.Style3 a,.OoTBDS-com-Bottom a
-{
-	color: inherit;
-	text-decoration: inherit;
 }
 
 .Style3 a:active,.OoTBDS-com-Bottom a:link

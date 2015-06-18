@@ -1,22 +1,22 @@
-<manifest alg="2" build="11" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1434016797390">
+<manifest alg="2" build="11" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1434622850209">
   <folder name="phone">
     <folder name="css">
-      <file name="out-of-the-box-data-security-enterprise-cloud.css" crc="4262727320" ref="phone>out-of-the-box-data-security-enterprise-cloud"/>
+      <file name="out-of-the-box-data-security-enterprise-cloud.css" crc="3877097247" ref="phone>out-of-the-box-data-security-enterprise-cloud"/>
       <file name="iefonts_out-of-the-box-data-security-enterprise-cloud.css" crc="4247488837" ref="phone>out-of-the-box-data-security-enterprise-cloud"/>
-      <file name="index.css" crc="3900560028" ref="phone>index"/>
+      <file name="index.css" crc="3845242513" ref="phone>index"/>
       <file name="iefonts_index.css" crc="197521404" ref="phone>index"/>
-      <file name="contact-us.css" crc="4051820160" ref="phone>contact-us"/>
+      <file name="contact-us.css" crc="178643321" ref="phone>contact-us"/>
       <file name="iefonts_contact-us.css" crc="3936047561" ref="phone>contact-us"/>
     </folder>
-    <file name="index.html" crc="426590341" mt="1434016759884" redirect="true"/>
-    <file name="out-of-the-box-data-security-enterprise-cloud.html" crc="4002622871" mt="1434016767341" redirect="true"/>
-    <file name="contact-us.html" crc="3941393453" mt="1433758858052" redirect="true"/>
+    <file name="index.html" crc="91989342" mt="1434622094805" redirect="true"/>
+    <file name="out-of-the-box-data-security-enterprise-cloud.html" crc="4217913413" mt="1434622482253" redirect="true"/>
+    <file name="contact-us.html" crc="4120208101" mt="1434620863980" redirect="true"/>
   </folder>
   <folder name="css">
-    <file name="site_global.css" crc="4214942073"/>
+    <file name="site_global.css" crc="3966675220"/>
     <file name="ootbds-privacy-policy.css" crc="4274266271" ref="ootbds-privacy-policy"/>
     <file name="iefonts_ootbds-privacy-policy.css" crc="4215066639" ref="ootbds-privacy-policy"/>
-    <file name="index.css" crc="4184718936" ref="index"/>
+    <file name="index.css" crc="3805007847" ref="index"/>
     <file name="iefonts_index.css" crc="4219496796" ref="index"/>
     <file name="ootbds-terms-of-service.css" crc="3982854330" ref="ootbds-terms-of-service"/>
     <file name="iefonts_ootbds-terms-of-service.css" crc="419902815" ref="ootbds-terms-of-service"/>
@@ -25,7 +25,7 @@
     <file name="iefonts_contact-us.css" crc="97850645" ref="contact-us"/>
     <file name="support.css" crc="4143226691" ref="support"/>
     <file name="iefonts_support.css" crc="49467874" ref="support"/>
-    <file name="out-of-the-box-data-secuirty-enterprise-cloud.css" crc="3903276053" ref="out-of-the-box-data-secuirty-enterprise-cloud"/>
+    <file name="out-of-the-box-data-secuirty-enterprise-cloud.css" crc="422793187" ref="out-of-the-box-data-secuirty-enterprise-cloud"/>
     <file name="iefonts_out-of-the-box-data-secuirty-enterprise-cloud.css" crc="4228772970" ref="out-of-the-box-data-secuirty-enterprise-cloud"/>
   </folder>
   <folder name="scripts">
@@ -98,14 +98,18 @@
     <file name="u9545-17-m.png" crc="3764187930" ref="support"/>
     <file name="u9545-17-fs.png" crc="367417684" ref="support"/>
     <file name="ootbdslogoalpha-u9530-fr.png" crc="3981659640" ref="ootbds-account-activated"/>
-    <file name="appstore coming soon.png" crc="3876549053" ref="index:phone>index"/>
     <file name="support-favicon.ico" crc="4054335753" ref="support"/>
     <file name="ootbds-account-activated-favicon.ico" crc="4054335753" ref="ootbds-account-activated"/>
+    <file name="appstore-u9634-fr.png" crc="396331306" ref="phone>index"/>
+    <file name="icon-speed.png" crc="350336355" ref="phone>out-of-the-box-data-security-enterprise-cloud:out-of-the-box-data-secuirty-enterprise-cloud"/>
+    <file name="1.png" crc="3804113872" ref="phone>out-of-the-box-data-security-enterprise-cloud:out-of-the-box-data-secuirty-enterprise-cloud"/>
+    <file name="appstore-u8659-fr.png" crc="168154782" ref="index"/>
+    <file name="appstore-u9621-fr.png" crc="4282475170" ref="index"/>
   </folder>
-  <file name="index.html" crc="299786072" mt="1434016735518" redirect="true"/>
+  <file name="index.html" crc="436423892" mt="1434622080453" redirect="true"/>
   <file name="ootbds-privacy-policy.html" crc="352444349" mt="1433758821433" redirect="true"/>
   <file name="ootbds-terms-of-service.html" crc="3928439730" mt="1433758814379" redirect="true"/>
-  <file name="out-of-the-box-data-secuirty-enterprise-cloud.html" crc="4175357176" mt="1434016744929" redirect="true"/>
+  <file name="out-of-the-box-data-secuirty-enterprise-cloud.html" crc="163367945" mt="1434622393045" redirect="true"/>
   <file name="contact-us.html" crc="3996531715" mt="1433758780707" redirect="true"/>
   <file name="support.html" crc="350050167" mt="1433758791760" redirect="true"/>
   <file name="ootbds-account-activated.html" crc="308979550" mt="1433758806239" redirect="true"/>

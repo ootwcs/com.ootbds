@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000E8;
-	background-color: #7DD29C;
+	color: #0000E5;
+	background-color: #31BE91;
 }
 
 @-ms-viewport
@@ -462,7 +462,7 @@
 	margin-right: -10000px;
 	margin-top: 212px;
 	left: 221px;
-	background: transparent url("../../images/appstore%20coming%20soon.png") no-repeat center center;
+	background: transparent url("../../images/appstore-u9634-fr.png") no-repeat center center;
 	background-size: contain;
 }
 

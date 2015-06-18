@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000F9;
-	background-color: #6DBE58;
+	color: #0000E2;
+	background-color: #CBCFE7;
 }
 
 .html
@@ -51,7 +51,7 @@
 
 #u245
 {
-	z-index: 109;
+	z-index: 111;
 	height: 633px;
 	border-width: 1px;
 	border-style: solid;
@@ -61,7 +61,7 @@
 
 #u245-bw
 {
-	z-index: 109;
+	z-index: 111;
 	margin-bottom: -1px;
 	margin-top: 77px;
 	height: 635px;
@@ -69,7 +69,7 @@
 
 #u706-4
 {
-	z-index: 110;
+	z-index: 112;
 	width: 32px;
 	min-height: 52px;
 	border-width: 4px;
@@ -105,7 +105,7 @@
 
 #u6195-5
 {
-	z-index: 114;
+	z-index: 116;
 	width: 70px;
 	min-height: 22px;
 	background-color: transparent;
@@ -119,7 +119,7 @@
 
 #u6196-5
 {
-	z-index: 119;
+	z-index: 121;
 	width: 70px;
 	min-height: 22px;
 	background-color: transparent;
@@ -150,7 +150,7 @@
 
 #pamphletu442
 {
-	z-index: 124;
+	z-index: 126;
 	width: 0.01px;
 	height: 487px;
 	position: relative;
@@ -161,7 +161,7 @@
 
 #u445
 {
-	z-index: 125;
+	z-index: 127;
 	width: 98px;
 	position: relative;
 	margin-right: -10000px;
@@ -321,12 +321,12 @@
 
 #u452popup
 {
-	z-index: 129;
+	z-index: 131;
 }
 
 #u646
 {
-	z-index: 130;
+	z-index: 132;
 	width: 857px;
 	height: 298px;
 	border-color: #FFFFFF;
@@ -345,7 +345,7 @@
 
 #u652-10
 {
-	z-index: 131;
+	z-index: 133;
 	width: 449px;
 	min-height: 226px;
 	background-color: transparent;
@@ -361,7 +361,7 @@
 
 #u653
 {
-	z-index: 141;
+	z-index: 143;
 	width: 430px;
 	background-color: transparent;
 	position: relative;
@@ -385,7 +385,7 @@
 
 #u655-4
 {
-	z-index: 143;
+	z-index: 145;
 	width: 232px;
 	min-height: 36px;
 	padding-top: 20px;
@@ -421,7 +421,7 @@
 
 #u461
 {
-	z-index: 147;
+	z-index: 149;
 	width: 960px;
 	height: 393px;
 	border-color: #FFFFFF;
@@ -442,7 +442,7 @@
 
 #u491-4
 {
-	z-index: 148;
+	z-index: 150;
 	width: 444px;
 	min-height: 230px;
 	background-color: transparent;
@@ -456,7 +456,7 @@
 
 #u631-4
 {
-	z-index: 152;
+	z-index: 154;
 	width: 232px;
 	min-height: 36px;
 	background-color: #25C4AA;
@@ -485,7 +485,7 @@
 
 #u578
 {
-	z-index: 156;
+	z-index: 158;
 	width: 458px;
 	background-color: transparent;
 	position: relative;
@@ -508,20 +508,19 @@
 
 #u8659
 {
-	z-index: 158;
+	z-index: 160;
 	width: 960px;
 	height: 393px;
 	border-color: #FFFFFF;
-	background-color: #FDFDFD;
-	background-color: rgba(107,107,107,0.01);
 	margin-right: -10000px;
 	position: relative;
-	-pie-background: rgba(107,107,107,0.01);
+	background: #FDFDFD url("../images/appstore-u8659-fr.png") no-repeat left top;
+	background-color: rgba(107,107,107,0.01);
 }
 
 #u8665-6
 {
-	z-index: 159;
+	z-index: 161;
 	width: 610px;
 	min-height: 170px;
 	background-color: transparent;
@@ -538,7 +537,7 @@
 
 #u8666-4
 {
-	z-index: 165;
+	z-index: 167;
 	width: 249px;
 	min-height: 36px;
 	background-color: #25C4AA;
@@ -568,7 +567,7 @@
 
 #u8667
 {
-	z-index: 169;
+	z-index: 171;
 	width: 285px;
 	height: 290px;
 	position: relative;
@@ -581,7 +580,7 @@
 
 #u9617
 {
-	z-index: 170;
+	z-index: 172;
 	width: 220px;
 	height: 57px;
 	position: relative;
@@ -594,14 +593,14 @@
 
 #u9621
 {
-	z-index: 171;
+	z-index: 173;
 	width: 220px;
 	height: 57px;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 246px;
 	left: 328px;
-	background: transparent url("../images/appstore%20coming%20soon.png") no-repeat center center;
+	background: transparent url("../images/appstore-u9621-fr.png") no-repeat center center;
 	background-size: contain;
 }
 
@@ -641,7 +640,7 @@
 
 #u466-4
 {
-	z-index: 173;
+	z-index: 175;
 	width: 36px;
 	min-height: 48px;
 	border-style: none;
@@ -704,7 +703,7 @@
 
 #u444-4
 {
-	z-index: 178;
+	z-index: 180;
 	width: 26px;
 	min-height: 48px;
 	border-style: none;
@@ -744,7 +743,7 @@
 
 #u6149
 {
-	z-index: 182;
+	z-index: 184;
 	width: 165px;
 	height: 154px;
 	border-style: none;
@@ -890,7 +889,7 @@
 	position: relative;
 	left: -100px;
 	padding-top: 46px;
-	padding-bottom: 31px;
+	padding-bottom: 13px;
 }
 
 #pu6204
@@ -1340,6 +1339,25 @@
 	visibility: inherit;
 }
 
+#pu9647
+{
+	width: 0.01px;
+	left: 252px;
+	margin-top: 15px;
+	position: relative;
+}
+
+#u9647
+{
+	z-index: 109;
+	width: 220px;
+	height: 57px;
+	position: relative;
+	margin-right: -10000px;
+	background: transparent url("../images/playstore.png") no-repeat center center;
+	background-size: contain;
+}
+
 #u6207-4
 {
 	z-index: 54;
@@ -1350,9 +1368,22 @@
 	text-align: center;
 	font-family: advent-pro, sans-serif;
 	font-weight: 300;
-	left: 516px;
-	margin-top: 33px;
 	position: relative;
+	margin-right: -10000px;
+	margin-top: 18px;
+	left: 264px;
+}
+
+#u9648
+{
+	z-index: 110;
+	width: 220px;
+	height: 57px;
+	position: relative;
+	margin-right: -10000px;
+	left: 426px;
+	background: transparent url("../images/appstore-u9621-fr.png") no-repeat center center;
+	background-size: contain;
 }
 
 #u304-bw

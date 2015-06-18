@@ -1,7 +1,7 @@
 .version.contact_us /* version checker */
 {
-	color: #0000F1;
-	background-color: #81DE80;
+	color: #00000A;
+	background-color: #A5E179;
 }
 
 @-ms-viewport
@@ -201,17 +201,24 @@
 	left: 148px;
 }
 
+#pu9469
+{
+	width: 0.01px;
+	margin-left: 15px;
+	margin-top: 16px;
+}
+
 #u9469
 {
 	z-index: 51;
-	width: 318px;
-	min-height: 32px;
+	width: 730px;
+	min-height: 70px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	margin-left: 31px;
-	margin-top: 16px;
 	position: relative;
+	margin-right: -10000px;
+	left: 16px;
 }
 
 #u9471
@@ -222,9 +229,9 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	margin-left: 15px;
-	margin-top: 16px;
 	position: relative;
+	margin-right: -10000px;
+	margin-top: 48px;
 }
 
 #pu9476
@@ -255,8 +262,8 @@
 	min-height: 18px;
 	background-color: transparent;
 	font-size: 12px;
-	color: #25C4AA;
 	line-height: 1.4;
+	color: #25C4AA;
 	text-align: center;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
@@ -277,9 +284,9 @@
 	min-height: 18px;
 	background-color: transparent;
 	color: #081631;
-	line-height: 1.4;
 	font-size: 12px;
 	text-align: center;
+	line-height: 1.4;
 	font-family: open-sans, sans-serif;
 	font-weight: 600;
 	margin-left: 8px;
