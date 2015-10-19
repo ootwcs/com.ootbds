@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000E2;
-	background-color: #CBCFE7;
+	color: #00001E;
+	background-color: #BA84A6;
 }
 
 .html
@@ -349,10 +349,10 @@
 	width: 449px;
 	min-height: 226px;
 	background-color: transparent;
+	line-height: 1.4;
 	color: #FFFFFF;
 	font-size: 38px;
 	text-align: left;
-	line-height: 1.4;
 	font-family: advent-pro, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -646,10 +646,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
+	line-height: 1.4;
 	color: #FFFFFF;
 	font-size: 30px;
 	text-align: center;
-	line-height: 1.4;
 	font-family: advent-pro, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -709,10 +709,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
+	line-height: 1.4;
 	color: #FFFFFF;
 	font-size: 30px;
 	text-align: center;
-	line-height: 1.4;
 	font-family: advent-pro, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -817,10 +817,10 @@
 	width: 180px;
 	min-height: 18px;
 	background-color: transparent;
-	font-size: 12px;
-	line-height: 1.4;
 	color: #25C4AA;
+	font-size: 12px;
 	text-align: center;
+	line-height: 1.4;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
 	margin-left: 148px;
@@ -839,10 +839,10 @@
 	width: 475px;
 	min-height: 18px;
 	background-color: transparent;
+	line-height: 1.4;
 	color: #081631;
 	font-size: 12px;
 	text-align: center;
-	line-height: 1.4;
 	font-family: open-sans, sans-serif;
 	font-weight: 600;
 	margin-top: 8px;
@@ -874,10 +874,9 @@
 #u304
 {
 	z-index: 14;
-	min-height: 719px;
-	border-width: 1px;
-	border-style: solid;
-	border-color: #EBEBEB;
+	min-height: 720px;
+	border-style: none;
+	border-color: transparent;
 	background-color: #EBEBEB;
 }
 
@@ -885,17 +884,17 @@
 {
 	margin-left: auto;
 	margin-right: auto;
-	width: 959px;
+	width: 960px;
 	position: relative;
 	left: -100px;
-	padding-top: 46px;
+	padding-top: 47px;
 	padding-bottom: 13px;
 }
 
 #pu6204
 {
 	width: 0.01px;
-	left: 116px;
+	left: 117px;
 	position: relative;
 }
 
@@ -935,7 +934,7 @@
 #pu8158
 {
 	width: 0.01px;
-	left: 171px;
+	left: 172px;
 	margin-top: 5px;
 	position: relative;
 }
@@ -990,7 +989,7 @@
 #pu800-4
 {
 	width: 0.01px;
-	left: 147px;
+	left: 148px;
 	margin-top: 5px;
 	position: relative;
 }
@@ -1042,7 +1041,7 @@
 #pu835-4
 {
 	width: 0.01px;
-	left: 113px;
+	left: 114px;
 	margin-top: 4px;
 	position: relative;
 }
@@ -1093,7 +1092,7 @@
 #pu8773
 {
 	width: 0.01px;
-	left: 204px;
+	left: 205px;
 	margin-top: 7px;
 	position: relative;
 }
@@ -1116,23 +1115,8 @@
 
 #u8773:hover
 {
-	background-image: none;
 	border-color: #FFFFFF;
-	background-color: transparent;
-	-pie-background: none;
 	border-radius: 10px;
-	width: 311px;
-	min-height: 0px;
-	margin: -2px -10000px -3px 0px;
-}
-
-#u8773.MuseLinkActive
-{
-	background: transparent url("../images/u9099-a-grad.png") repeat-x left top;
-	background: -webkit-gradient(linear, center top, center bottom, color-stop(18%, #FFFFFF),to(rgba(255,255,255,0)));
-	background: -webkit-linear-gradient(top,#FFFFFF 18%,rgba(255,255,255,0) );
-	background: linear-gradient(to bottom,#FFFFFF 18%,rgba(255,255,255,0) );
-	border-color: #EBEBEB;
 	width: 311px;
 	min-height: 0px;
 	margin: -2px -10000px -3px 0px;
@@ -1342,7 +1326,7 @@
 #pu9647
 {
 	width: 0.01px;
-	left: 252px;
+	left: 253px;
 	margin-top: 15px;
 	position: relative;
 }
@@ -1389,7 +1373,7 @@
 #u304-bw
 {
 	z-index: 14;
-	min-height: 719px;
+	min-height: 720px;
 }
 
 #u6076-4

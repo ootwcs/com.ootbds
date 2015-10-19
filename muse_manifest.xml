@@ -1,116 +1,124 @@
-<manifest alg="2" build="11" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1434622850209">
-  <folder name="phone">
-    <folder name="css">
-      <file name="out-of-the-box-data-security-enterprise-cloud.css" crc="3877097247" ref="phone>out-of-the-box-data-security-enterprise-cloud"/>
-      <file name="iefonts_out-of-the-box-data-security-enterprise-cloud.css" crc="4247488837" ref="phone>out-of-the-box-data-security-enterprise-cloud"/>
-      <file name="index.css" crc="3845242513" ref="phone>index"/>
-      <file name="iefonts_index.css" crc="197521404" ref="phone>index"/>
-      <file name="contact-us.css" crc="178643321" ref="phone>contact-us"/>
-      <file name="iefonts_contact-us.css" crc="3936047561" ref="phone>contact-us"/>
-    </folder>
-    <file name="index.html" crc="91989342" mt="1434622094805" redirect="true"/>
-    <file name="out-of-the-box-data-security-enterprise-cloud.html" crc="4217913413" mt="1434622482253" redirect="true"/>
-    <file name="contact-us.html" crc="4120208101" mt="1434620863980" redirect="true"/>
-  </folder>
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="ootbds.com" resolutions="1x" timestamp="1445249252043">
   <folder name="css">
-    <file name="site_global.css" crc="3966675220"/>
-    <file name="ootbds-privacy-policy.css" crc="4274266271" ref="ootbds-privacy-policy"/>
-    <file name="iefonts_ootbds-privacy-policy.css" crc="4215066639" ref="ootbds-privacy-policy"/>
-    <file name="index.css" crc="3805007847" ref="index"/>
-    <file name="iefonts_index.css" crc="4219496796" ref="index"/>
-    <file name="ootbds-terms-of-service.css" crc="3982854330" ref="ootbds-terms-of-service"/>
-    <file name="iefonts_ootbds-terms-of-service.css" crc="419902815" ref="ootbds-terms-of-service"/>
+    <file name="site_global.css" crc="4020208301"/>
     <file name="ootbds-account-activated.css" crc="422158228" ref="ootbds-account-activated"/>
-    <file name="contact-us.css" crc="427762823" ref="contact-us"/>
-    <file name="iefonts_contact-us.css" crc="97850645" ref="contact-us"/>
-    <file name="support.css" crc="4143226691" ref="support"/>
-    <file name="iefonts_support.css" crc="49467874" ref="support"/>
-    <file name="out-of-the-box-data-secuirty-enterprise-cloud.css" crc="422793187" ref="out-of-the-box-data-secuirty-enterprise-cloud"/>
+    <file name="ootbds-upgrade.css" crc="3885588397" ref="ootbds-upgrade"/>
+    <file name="iefonts_ootbds-upgrade.css" crc="4097571083" ref="ootbds-upgrade"/>
+    <file name="out-of-the-box-data-secuirty-enterprise-cloud.css" crc="4255569214" ref="out-of-the-box-data-secuirty-enterprise-cloud"/>
     <file name="iefonts_out-of-the-box-data-secuirty-enterprise-cloud.css" crc="4228772970" ref="out-of-the-box-data-secuirty-enterprise-cloud"/>
+    <file name="index.css" crc="515540134" ref="index"/>
+    <file name="iefonts_index.css" crc="4219496796" ref="index"/>
+    <file name="ootbds-privacy-policy.css" crc="313122876" ref="ootbds-privacy-policy"/>
+    <file name="iefonts_ootbds-privacy-policy.css" crc="4215066639" ref="ootbds-privacy-policy"/>
+    <file name="ootbds-terms-of-service.css" crc="4030058084" ref="ootbds-terms-of-service"/>
+    <file name="iefonts_ootbds-terms-of-service.css" crc="419902815" ref="ootbds-terms-of-service"/>
+    <file name="support.css" crc="4267518958" ref="support"/>
+    <file name="iefonts_support.css" crc="49467874" ref="support"/>
+    <file name="contact-us.css" crc="4224385613" ref="contact-us"/>
+    <file name="iefonts_contact-us.css" crc="97850645" ref="contact-us"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="3880902115" ref="index:ootbds-privacy-policy:ootbds-terms-of-service:phone>index:phone>out-of-the-box-data-security-enterprise-cloud:phone>contact-us:out-of-the-box-data-secuirty-enterprise-cloud:contact-us:support:ootbds-account-activated"/>
-    <file name="museutils.js" crc="521960461" ref="index:ootbds-privacy-policy:ootbds-terms-of-service:phone>index:phone>out-of-the-box-data-security-enterprise-cloud:phone>contact-us:out-of-the-box-data-secuirty-enterprise-cloud:contact-us:support:ootbds-account-activated"/>
-    <file name="jquery.watch.js" crc="56779320" ref="index:ootbds-privacy-policy:ootbds-terms-of-service:phone>index:phone>out-of-the-box-data-security-enterprise-cloud:phone>contact-us:out-of-the-box-data-secuirty-enterprise-cloud:contact-us:support:ootbds-account-activated"/>
-    <file name="pie.js" crc="3827607177" ref="index:ootbds-privacy-policy:ootbds-terms-of-service:phone>index:phone>out-of-the-box-data-security-enterprise-cloud:phone>contact-us:out-of-the-box-data-secuirty-enterprise-cloud:contact-us:support"/>
-    <file name="webpro.js" crc="220831917" ref="index:phone>out-of-the-box-data-security-enterprise-cloud:out-of-the-box-data-secuirty-enterprise-cloud:contact-us:support"/>
-    <file name="musewpslideshow.js" crc="224651946" ref="index"/>
-    <file name="jquery.museoverlay.js" crc="276313855" ref="index"/>
-    <file name="touchswipe.js" crc="325405309" ref="index"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="349594875" ref="index:ootbds-privacy-policy:ootbds-terms-of-service:phone>index:phone>out-of-the-box-data-security-enterprise-cloud:phone>contact-us:out-of-the-box-data-secuirty-enterprise-cloud:contact-us:support:ootbds-account-activated"/>
-    <file name="form_check.php" crc="218543696" ref="phone>out-of-the-box-data-security-enterprise-cloud:out-of-the-box-data-secuirty-enterprise-cloud:contact-us:support"/>
-    <file name="form_throttle.php" crc="3988545917" ref="phone>out-of-the-box-data-security-enterprise-cloud:out-of-the-box-data-secuirty-enterprise-cloud:contact-us:support"/>
-    <file name="form_process.php" crc="4264751530" ref="phone>out-of-the-box-data-security-enterprise-cloud:out-of-the-box-data-secuirty-enterprise-cloud:contact-us:support"/>
-    <file name="recaptchalib.php" crc="385583985" ref="phone>out-of-the-box-data-security-enterprise-cloud:out-of-the-box-data-secuirty-enterprise-cloud:contact-us:support"/>
-    <file name="form-u8394.php" crc="4267288125" ref="out-of-the-box-data-secuirty-enterprise-cloud"/>
-    <file name="form-u9151.php" crc="276654160" ref="phone>out-of-the-box-data-security-enterprise-cloud"/>
-    <file name="museredirect.js" crc="4117159434" ref="index:contact-us"/>
-    <file name="form-u9361.php" crc="4082089763" ref="contact-us"/>
-    <file name="form-u9540.php" crc="247633354" ref="support"/>
+    <file name="jquery-1.8.3.min.js" crc="196614522" ref="phone>index:phone>out-of-the-box-data-security-enterprise-cloud:phone>contact-us:index:ootbds-terms-of-service:out-of-the-box-data-secuirty-enterprise-cloud:ootbds-privacy-policy:contact-us:support:ootbds-account-activated:ootbds-upgrade"/>
+    <file name="museutils.js" crc="275725342" ref="phone>index:phone>out-of-the-box-data-security-enterprise-cloud:phone>contact-us:index:ootbds-terms-of-service:out-of-the-box-data-secuirty-enterprise-cloud:ootbds-privacy-policy:contact-us:support:ootbds-account-activated:ootbds-upgrade"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="185257658" ref="phone>index:phone>out-of-the-box-data-security-enterprise-cloud:phone>contact-us:index:ootbds-terms-of-service:out-of-the-box-data-secuirty-enterprise-cloud:ootbds-privacy-policy:contact-us:support:ootbds-account-activated:ootbds-upgrade"/>
+    <file name="jquery.watch.js" crc="3999102769" ref="phone>index:phone>out-of-the-box-data-security-enterprise-cloud:phone>contact-us:index:ootbds-terms-of-service:out-of-the-box-data-secuirty-enterprise-cloud:ootbds-privacy-policy:contact-us:support:ootbds-account-activated:ootbds-upgrade"/>
+    <file name="pie.js" crc="3827607177" ref="phone>index:phone>out-of-the-box-data-security-enterprise-cloud:phone>contact-us:index:ootbds-terms-of-service:out-of-the-box-data-secuirty-enterprise-cloud:ootbds-privacy-policy:contact-us:support"/>
+    <file name="webpro.js" crc="3883484123" ref="phone>out-of-the-box-data-security-enterprise-cloud:index:out-of-the-box-data-secuirty-enterprise-cloud:contact-us:support:ootbds-upgrade"/>
+    <file name="form_check.php" crc="3849601529" ref="phone>out-of-the-box-data-security-enterprise-cloud:out-of-the-box-data-secuirty-enterprise-cloud:contact-us:support:ootbds-upgrade"/>
+    <file name="form_process.php" crc="3864172277" ref="phone>out-of-the-box-data-security-enterprise-cloud:out-of-the-box-data-secuirty-enterprise-cloud:contact-us:support:ootbds-upgrade"/>
+    <file name="recaptchalib.php" crc="385583985" ref="phone>out-of-the-box-data-security-enterprise-cloud:out-of-the-box-data-secuirty-enterprise-cloud:contact-us:support:ootbds-upgrade"/>
+    <file name="form-u9151.php" crc="84907685" ref="phone>out-of-the-box-data-security-enterprise-cloud"/>
+    <file name="museredirect.js" crc="3899419633" ref="index:contact-us"/>
+    <file name="musewpslideshow.js" crc="360574455" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="342093292" ref="index"/>
+    <file name="touchswipe.js" crc="4218319045" ref="index"/>
+    <file name="form-u8394.php" crc="3945486536" ref="out-of-the-box-data-secuirty-enterprise-cloud"/>
+    <file name="form-u9361.php" crc="4014362579" ref="contact-us"/>
+    <file name="form-u9540.php" crc="3968626107" ref="support"/>
+    <file name="form-u9748.php" crc="146399706" ref="ootbds-upgrade"/>
   </folder>
   <folder name="images">
-    <file name="out-of-the-box-data-security-favicon.ico" crc="4054335753" ref="phone>index"/>
-    <file name="macbook-ipad.png" crc="232156799" ref="index"/>
-    <file name="hdd.png" crc="4168961343" ref="index"/>
-    <file name="ootbdslogo1.png" crc="401882553" ref="index:ootbds-privacy-policy:ootbds-terms-of-service:phone>index:phone>out-of-the-box-data-security-enterprise-cloud:phone>contact-us:out-of-the-box-data-secuirty-enterprise-cloud:contact-us:support"/>
-    <file name="logotrns1.png" crc="4078922060" ref="index:ootbds-privacy-policy:ootbds-terms-of-service:phone>index:phone>out-of-the-box-data-security-enterprise-cloud:phone>contact-us:out-of-the-box-data-secuirty-enterprise-cloud:contact-us:support"/>
-    <file name="versioning.png" crc="535616714" ref="index:phone>index:phone>out-of-the-box-data-security-enterprise-cloud:out-of-the-box-data-secuirty-enterprise-cloud"/>
-    <file name="lock-512.png" crc="368105738" ref="index:phone>index:phone>out-of-the-box-data-security-enterprise-cloud:out-of-the-box-data-secuirty-enterprise-cloud"/>
-    <file name="share.png" crc="483065876" ref="index:phone>index:phone>out-of-the-box-data-security-enterprise-cloud:out-of-the-box-data-secuirty-enterprise-cloud"/>
-    <file name="osi_symbol.png" crc="3984874502" ref="index:phone>index:phone>out-of-the-box-data-security-enterprise-cloud:out-of-the-box-data-secuirty-enterprise-cloud"/>
-    <file name="ootbds-privacy-policy-favicon.ico" crc="3832962663" ref="ootbds-privacy-policy"/>
-    <file name="ootbds-terms-of-service-favicon.ico" crc="3832962663" ref="ootbds-terms-of-service"/>
+    <file name="out-of-the-box-data-security-favicon.ico" crc="4261349706" ref="phone>index"/>
+    <file name="osi_symbol.png" crc="3984874502" ref="phone>index:phone>out-of-the-box-data-security-enterprise-cloud:index:out-of-the-box-data-secuirty-enterprise-cloud"/>
+    <file name="versioning.png" crc="535616714" ref="phone>index:phone>out-of-the-box-data-security-enterprise-cloud:index:out-of-the-box-data-secuirty-enterprise-cloud"/>
+    <file name="lock-512.png" crc="368105738" ref="phone>index:phone>out-of-the-box-data-security-enterprise-cloud:index:out-of-the-box-data-secuirty-enterprise-cloud"/>
+    <file name="share.png" crc="483065876" ref="phone>index:phone>out-of-the-box-data-security-enterprise-cloud:index:out-of-the-box-data-secuirty-enterprise-cloud"/>
+    <file name="ootbdslogo1.png" crc="401882553" ref="phone>index:phone>out-of-the-box-data-security-enterprise-cloud:phone>contact-us:index:ootbds-terms-of-service:out-of-the-box-data-secuirty-enterprise-cloud:ootbds-privacy-policy:contact-us:support"/>
+    <file name="playstore.png" crc="4058202242" ref="phone>index:index"/>
+    <file name="appstore-u9634-fr.png" crc="183927235" ref="phone>index"/>
+    <file name="personal icon-u9101-fr.png" crc="4231355035" ref="phone>index:index"/>
+    <file name="enterprise-business-systems-icon-u9105-fr.png" crc="335566783" ref="phone>index:index"/>
+    <file name="logotrns1.png" crc="4078922060" ref="phone>index:phone>out-of-the-box-data-security-enterprise-cloud:phone>contact-us:index:ootbds-terms-of-service:out-of-the-box-data-secuirty-enterprise-cloud:ootbds-privacy-policy:contact-us:support"/>
+    <file name="out-of-the-box-data-security-enterprise-cloud-favicon.ico" crc="4261349706" ref="phone>out-of-the-box-data-security-enterprise-cloud"/>
+    <file name="icon-speed.png" crc="350336355" ref="phone>out-of-the-box-data-security-enterprise-cloud:out-of-the-box-data-secuirty-enterprise-cloud"/>
+    <file name="1.jpg" crc="226348552" ref="phone>out-of-the-box-data-security-enterprise-cloud:out-of-the-box-data-secuirty-enterprise-cloud"/>
+    <file name="u9171-17.png" crc="280607315" ref="phone>out-of-the-box-data-security-enterprise-cloud"/>
+    <file name="u9171-17-r.png" crc="91416124" ref="phone>out-of-the-box-data-security-enterprise-cloud"/>
+    <file name="u9171-17-m.png" crc="3829259797" ref="phone>out-of-the-box-data-security-enterprise-cloud"/>
+    <file name="u9171-17-fs.png" crc="4205947500" ref="phone>out-of-the-box-data-security-enterprise-cloud"/>
+    <file name="recaptchamodeaudio.png" crc="140711744" ref="phone>out-of-the-box-data-security-enterprise-cloud:out-of-the-box-data-secuirty-enterprise-cloud:contact-us:support:ootbds-upgrade"/>
+    <file name="recaptchamodeaudiorollover.jpg" crc="4012741543" ref="phone>out-of-the-box-data-security-enterprise-cloud:out-of-the-box-data-secuirty-enterprise-cloud:contact-us:support:ootbds-upgrade"/>
+    <file name="recaptchamodeaudiomousedown.jpg" crc="169475968" ref="phone>out-of-the-box-data-security-enterprise-cloud:out-of-the-box-data-secuirty-enterprise-cloud:contact-us:support:ootbds-upgrade"/>
+    <file name="recaptchamodeimage.png" crc="3933454017" ref="phone>out-of-the-box-data-security-enterprise-cloud:out-of-the-box-data-secuirty-enterprise-cloud:contact-us:support:ootbds-upgrade"/>
+    <file name="recaptchamodeimagerollover.jpg" crc="81540066" ref="phone>out-of-the-box-data-security-enterprise-cloud:out-of-the-box-data-secuirty-enterprise-cloud:contact-us:support:ootbds-upgrade"/>
+    <file name="recaptchamodeimagemousedown.jpg" crc="303121703" ref="phone>out-of-the-box-data-security-enterprise-cloud:out-of-the-box-data-secuirty-enterprise-cloud:contact-us:support:ootbds-upgrade"/>
+    <file name="recaptcharefresh.png" crc="249852327" ref="phone>out-of-the-box-data-security-enterprise-cloud:out-of-the-box-data-secuirty-enterprise-cloud:contact-us:support:ootbds-upgrade"/>
+    <file name="recaptcharefreshrollover.jpg" crc="155564821" ref="phone>out-of-the-box-data-security-enterprise-cloud:out-of-the-box-data-secuirty-enterprise-cloud:contact-us:support:ootbds-upgrade"/>
+    <file name="recaptcharefreshmousedown.jpg" crc="4225227046" ref="phone>out-of-the-box-data-security-enterprise-cloud:out-of-the-box-data-secuirty-enterprise-cloud:contact-us:support:ootbds-upgrade"/>
+    <file name="recaptchahelp.png" crc="503944989" ref="phone>out-of-the-box-data-security-enterprise-cloud:out-of-the-box-data-secuirty-enterprise-cloud:contact-us:support:ootbds-upgrade"/>
+    <file name="recaptchahelprollover.jpg" crc="3948161619" ref="phone>out-of-the-box-data-security-enterprise-cloud:out-of-the-box-data-secuirty-enterprise-cloud:contact-us:support:ootbds-upgrade"/>
+    <file name="recaptchahelpmousedown.jpg" crc="47105717" ref="phone>out-of-the-box-data-security-enterprise-cloud:out-of-the-box-data-secuirty-enterprise-cloud:contact-us:support:ootbds-upgrade"/>
+    <file name="contact-us-favicon.ico" crc="500186069" ref="phone>contact-us"/>
+    <file name="macbook-ipad.png" crc="232156799" seo="true" ref="index"/>
+    <file name="hdd.png" crc="4168961343" seo="true" ref="index"/>
+    <file name="appstore-u8659-fr.png" crc="168154782" ref="index"/>
+    <file name="light bulb 3.png" crc="4059507809" ref="index"/>
+    <file name="appstore-u9621-fr.png" crc="3920212265" ref="index"/>
+    <file name="ootbds-terms-of-service-favicon.ico" crc="4206864170" ref="ootbds-terms-of-service"/>
+    <file name="out-of-the-box-data-secuirty-enterprise-cloud-favicon.ico" crc="4261349706" ref="out-of-the-box-data-secuirty-enterprise-cloud"/>
     <file name="enterprise-business-systems-icon.png" crc="534534836" ref="out-of-the-box-data-secuirty-enterprise-cloud"/>
     <file name="u8434-17.png" crc="280607315" ref="out-of-the-box-data-secuirty-enterprise-cloud"/>
     <file name="u8434-17-r.png" crc="91416124" ref="out-of-the-box-data-secuirty-enterprise-cloud"/>
     <file name="u8434-17-m.png" crc="3829259797" ref="out-of-the-box-data-secuirty-enterprise-cloud"/>
     <file name="u8434-17-fs.png" crc="4205947500" ref="out-of-the-box-data-secuirty-enterprise-cloud"/>
-    <file name="recaptchamodeaudio.png" crc="4082011260" ref="phone>out-of-the-box-data-security-enterprise-cloud:out-of-the-box-data-secuirty-enterprise-cloud:contact-us:support"/>
-    <file name="recaptchamodeaudiorollover.jpg" crc="356175670" ref="phone>out-of-the-box-data-security-enterprise-cloud:out-of-the-box-data-secuirty-enterprise-cloud:contact-us:support"/>
-    <file name="recaptchamodeaudiomousedown.jpg" crc="4192655525" ref="phone>out-of-the-box-data-security-enterprise-cloud:out-of-the-box-data-secuirty-enterprise-cloud:contact-us:support"/>
-    <file name="recaptchamodeimage.png" crc="4003859053" ref="phone>out-of-the-box-data-security-enterprise-cloud:out-of-the-box-data-secuirty-enterprise-cloud:contact-us:support"/>
-    <file name="recaptchamodeimagerollover.jpg" crc="163411335" ref="phone>out-of-the-box-data-security-enterprise-cloud:out-of-the-box-data-secuirty-enterprise-cloud:contact-us:support"/>
-    <file name="recaptchamodeimagemousedown.jpg" crc="409832536" ref="phone>out-of-the-box-data-security-enterprise-cloud:out-of-the-box-data-secuirty-enterprise-cloud:contact-us:support"/>
-    <file name="recaptcharefresh.png" crc="3851445761" ref="phone>out-of-the-box-data-security-enterprise-cloud:out-of-the-box-data-secuirty-enterprise-cloud:contact-us:support"/>
-    <file name="recaptcharefreshrollover.jpg" crc="16886981" ref="phone>out-of-the-box-data-security-enterprise-cloud:out-of-the-box-data-secuirty-enterprise-cloud:contact-us:support"/>
-    <file name="recaptcharefreshmousedown.jpg" crc="431838989" ref="phone>out-of-the-box-data-security-enterprise-cloud:out-of-the-box-data-secuirty-enterprise-cloud:contact-us:support"/>
-    <file name="recaptchahelp.png" crc="7417902" ref="phone>out-of-the-box-data-security-enterprise-cloud:out-of-the-box-data-secuirty-enterprise-cloud:contact-us:support"/>
-    <file name="recaptchahelprollover.jpg" crc="450414995" ref="phone>out-of-the-box-data-security-enterprise-cloud:out-of-the-box-data-secuirty-enterprise-cloud:contact-us:support"/>
-    <file name="recaptchahelpmousedown.jpg" crc="101282582" ref="phone>out-of-the-box-data-security-enterprise-cloud:out-of-the-box-data-secuirty-enterprise-cloud:contact-us:support"/>
-    <file name="playstore.png" crc="4058202242" ref="index:phone>index"/>
-    <file name="u9099-a-grad.png" crc="380522312" ref="phone>index:index"/>
-    <file name="personal icon-u9101-fr.png" crc="55660813" ref="phone>index:index"/>
-    <file name="enterprise-business-systems-icon-u9105-fr.png" crc="3892654064" ref="phone>index:index"/>
-    <file name="out-of-the-box-data-security-enterprise-cloud-favicon.ico" crc="4054335753" ref="phone>out-of-the-box-data-security-enterprise-cloud"/>
-    <file name="u9171-17.png" crc="280607315" ref="phone>out-of-the-box-data-security-enterprise-cloud"/>
-    <file name="u9171-17-r.png" crc="91416124" ref="phone>out-of-the-box-data-security-enterprise-cloud"/>
-    <file name="u9171-17-m.png" crc="3829259797" ref="phone>out-of-the-box-data-security-enterprise-cloud"/>
-    <file name="u9171-17-fs.png" crc="4205947500" ref="phone>out-of-the-box-data-security-enterprise-cloud"/>
-    <file name="contact-us-favicon.ico" crc="4203425639" ref="phone>contact-us"/>
-    <file name="light bulb 3.png" crc="4059507809" ref="index"/>
-    <file name="out-of-the-box-data-secuirty-enterprise-cloud-favicon.ico" crc="4054335753" ref="out-of-the-box-data-secuirty-enterprise-cloud"/>
+    <file name="ootbds-privacy-policy-favicon.ico" crc="4206864170" ref="ootbds-privacy-policy"/>
     <file name="u9367-17.png" crc="260392790" ref="contact-us"/>
     <file name="u9367-17-r.png" crc="3812697481" ref="contact-us"/>
     <file name="u9367-17-m.png" crc="3764187930" ref="contact-us"/>
     <file name="u9367-17-fs.png" crc="367417684" ref="contact-us"/>
+    <file name="support-favicon.ico" crc="4261349706" ref="support"/>
     <file name="u9545-17.png" crc="260392790" ref="support"/>
     <file name="u9545-17-r.png" crc="3812697481" ref="support"/>
     <file name="u9545-17-m.png" crc="3764187930" ref="support"/>
     <file name="u9545-17-fs.png" crc="367417684" ref="support"/>
-    <file name="ootbdslogoalpha-u9530-fr.png" crc="3981659640" ref="ootbds-account-activated"/>
-    <file name="support-favicon.ico" crc="4054335753" ref="support"/>
-    <file name="ootbds-account-activated-favicon.ico" crc="4054335753" ref="ootbds-account-activated"/>
-    <file name="appstore-u9634-fr.png" crc="396331306" ref="phone>index"/>
-    <file name="icon-speed.png" crc="350336355" ref="phone>out-of-the-box-data-security-enterprise-cloud:out-of-the-box-data-secuirty-enterprise-cloud"/>
-    <file name="1.png" crc="3804113872" ref="phone>out-of-the-box-data-security-enterprise-cloud:out-of-the-box-data-secuirty-enterprise-cloud"/>
-    <file name="appstore-u8659-fr.png" crc="168154782" ref="index"/>
-    <file name="appstore-u9621-fr.png" crc="4282475170" ref="index"/>
+    <file name="ootbds-account-activated-favicon.ico" crc="4261349706" ref="ootbds-account-activated"/>
+    <file name="ootbdslogoalpha-u9530-fr.png" crc="4049749001" ref="ootbds-account-activated"/>
+    <file name="ootbds-upgrade-favicon.ico" crc="4261349706" ref="ootbds-upgrade"/>
+    <file name="ootbdslogoalpha-u9716-fr.png" crc="434332993" ref="ootbds-upgrade"/>
+    <file name="u9755-17.png" crc="497769743" ref="ootbds-upgrade"/>
+    <file name="u9755-17-r.png" crc="3927200560" ref="ootbds-upgrade"/>
+    <file name="u9755-17-m.png" crc="303545833" ref="ootbds-upgrade"/>
+    <file name="u9755-17-fs.png" crc="3795600905" ref="ootbds-upgrade"/>
   </folder>
-  <file name="index.html" crc="436423892" mt="1434622080453" redirect="true"/>
-  <file name="ootbds-privacy-policy.html" crc="352444349" mt="1433758821433" redirect="true"/>
-  <file name="ootbds-terms-of-service.html" crc="3928439730" mt="1433758814379" redirect="true"/>
-  <file name="out-of-the-box-data-secuirty-enterprise-cloud.html" crc="163367945" mt="1434622393045" redirect="true"/>
-  <file name="contact-us.html" crc="3996531715" mt="1433758780707" redirect="true"/>
-  <file name="support.html" crc="350050167" mt="1433758791760" redirect="true"/>
-  <file name="ootbds-account-activated.html" crc="308979550" mt="1433758806239" redirect="true"/>
+  <folder name="phone">
+    <folder name="css">
+      <file name="contact-us.css" crc="535956365" ref="phone>contact-us"/>
+      <file name="iefonts_contact-us.css" crc="3936047561" ref="phone>contact-us"/>
+      <file name="index.css" crc="114714740" ref="phone>index"/>
+      <file name="iefonts_index.css" crc="197521404" ref="phone>index"/>
+      <file name="out-of-the-box-data-security-enterprise-cloud.css" crc="452547416" ref="phone>out-of-the-box-data-security-enterprise-cloud"/>
+      <file name="iefonts_out-of-the-box-data-security-enterprise-cloud.css" crc="4247488837" ref="phone>out-of-the-box-data-security-enterprise-cloud"/>
+    </folder>
+    <file name="index.html" crc="273183989" seo="true" mt="1445248619883" redirect="true"/>
+    <file name="out-of-the-box-data-security-enterprise-cloud.html" crc="3788607905" seo="true" mt="1445248410414" redirect="true"/>
+    <file name="contact-us.html" crc="386466005" seo="true" mt="1434620863980" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="4157758587" seo="true" mt="1445248714034" redirect="true"/>
+  <file name="ootbds-terms-of-service.html" crc="4287792042" seo="true" mt="1433758814379" redirect="true"/>
+  <file name="out-of-the-box-data-secuirty-enterprise-cloud.html" crc="4276804018" seo="true" mt="1445248410410" redirect="true"/>
+  <file name="ootbds-privacy-policy.html" crc="535829772" seo="true" mt="1433758821433" redirect="true"/>
+  <file name="contact-us.html" crc="198147674" seo="true" mt="1433758780707" redirect="true"/>
+  <file name="support.html" crc="3891304590" seo="true" mt="1433758791760" redirect="true"/>
+  <file name="ootbds-account-activated.html" crc="488425078" seo="true" mt="1433758806239" redirect="true"/>
+  <file name="ootbds-upgrade.html" crc="391428570" seo="true" mt="1445248514883" redirect="true"/>
 </manifest>

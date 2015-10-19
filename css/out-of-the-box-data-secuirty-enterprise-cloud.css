@@ -52,8 +52,8 @@
 
 .version.out_of_the_box_data_secuirty_enterprise_cloud /* version checker */
 {
-	color: #000019;
-	background-color: #334FE3;
+	color: #0000FD;
+	background-color: #A6D53E;
 }
 
 #page
@@ -118,10 +118,10 @@
 	width: 180px;
 	min-height: 18px;
 	background-color: transparent;
-	font-size: 12px;
-	line-height: 1.4;
 	color: #25C4AA;
+	font-size: 12px;
 	text-align: center;
+	line-height: 1.4;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
 	margin-left: 148px;
@@ -140,10 +140,10 @@
 	width: 475px;
 	min-height: 18px;
 	background-color: transparent;
+	line-height: 1.4;
 	color: #081631;
 	font-size: 12px;
 	text-align: center;
-	line-height: 1.4;
 	font-family: open-sans, sans-serif;
 	font-weight: 600;
 	margin-top: 6px;
@@ -403,7 +403,7 @@
 	position: relative;
 	margin-right: -10000px;
 	left: 635px;
-	background: transparent url("../images/1.png") no-repeat center center;
+	background: transparent url("../images/1.jpg") no-repeat center center;
 	background-size: contain;
 }
 

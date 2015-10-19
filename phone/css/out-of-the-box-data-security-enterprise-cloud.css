@@ -52,8 +52,8 @@
 
 .version.out_of_the_box_data_security_enterprise_cloud /* version checker */
 {
-	color: #0000E7;
-	background-color: #17CF1F;
+	color: #00001A;
+	background-color: #F95358;
 }
 
 @-ms-viewport
@@ -409,7 +409,7 @@
 	position: relative;
 	margin-right: -10000px;
 	left: 184px;
-	background: transparent url("../../images/1.png") no-repeat center center;
+	background: transparent url("../../images/1.jpg") no-repeat center center;
 	background-size: contain;
 }
 
@@ -1901,10 +1901,10 @@
 	width: 180px;
 	min-height: 18px;
 	background-color: transparent;
-	font-size: 12px;
-	line-height: 1.4;
 	color: #25C4AA;
+	font-size: 12px;
 	text-align: center;
+	line-height: 1.4;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
 	margin-left: 94px;
@@ -1923,10 +1923,10 @@
 	width: 367px;
 	min-height: 18px;
 	background-color: transparent;
+	line-height: 1.4;
 	color: #081631;
 	font-size: 12px;
 	text-align: center;
-	line-height: 1.4;
 	font-family: open-sans, sans-serif;
 	font-weight: 600;
 	margin-top: 7px;
