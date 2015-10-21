@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="ootbds.com" resolutions="1x" timestamp="1445423257492">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="ootbds.com" resolutions="1x" timestamp="1445423798745">
   <folder name="css">
     <file name="site_global.css" crc="4020208301"/>
     <file name="ootbds-account-activated.css" crc="422158228" ref="ootbds-account-activated"/>
@@ -51,7 +51,6 @@
     <file name="logotrns1.png" crc="4078922060" ref="phone>index:phone>out-of-the-box-data-security-enterprise-cloud:phone>contact-us:index:ootbds-terms-of-service:out-of-the-box-data-secuirty-enterprise-cloud:ootbds-privacy-policy:contact-us:support"/>
     <file name="out-of-the-box-data-security-enterprise-cloud-favicon.ico" crc="4261349706" ref="phone>out-of-the-box-data-security-enterprise-cloud"/>
     <file name="icon-speed.png" crc="350336355" ref="phone>out-of-the-box-data-security-enterprise-cloud:out-of-the-box-data-secuirty-enterprise-cloud"/>
-    <file name="1.jpg" crc="226348552" ref="phone>out-of-the-box-data-security-enterprise-cloud"/>
     <file name="u9171-17.png" crc="280607315" ref="phone>out-of-the-box-data-security-enterprise-cloud"/>
     <file name="u9171-17-r.png" crc="91416124" ref="phone>out-of-the-box-data-security-enterprise-cloud"/>
     <file name="u9171-17-m.png" crc="3829259797" ref="phone>out-of-the-box-data-security-enterprise-cloud"/>
@@ -101,24 +100,24 @@
     <file name="u9755-17-fs.png" crc="3795600905" ref="ootbds-upgrade"/>
     <file name="personal icon-u8775-fr.png" crc="4231355035" ref="index"/>
     <file name="enterprise-business-systems-icon-u8215-fr.png" crc="335566783" ref="index"/>
-    <file name="1.png" crc="3760213973" ref="out-of-the-box-data-secuirty-enterprise-cloud"/>
+    <file name="1.png" crc="3760213973" ref="out-of-the-box-data-secuirty-enterprise-cloud:phone>out-of-the-box-data-security-enterprise-cloud"/>
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="contact-us.css" crc="535956365" ref="phone>contact-us"/>
+      <file name="contact-us.css" crc="165719676" ref="phone>contact-us"/>
       <file name="iefonts_contact-us.css" crc="3936047561" ref="phone>contact-us"/>
-      <file name="index.css" crc="114714740" ref="phone>index"/>
+      <file name="index.css" crc="235361376" ref="phone>index"/>
       <file name="iefonts_index.css" crc="197521404" ref="phone>index"/>
-      <file name="out-of-the-box-data-security-enterprise-cloud.css" crc="452547416" ref="phone>out-of-the-box-data-security-enterprise-cloud"/>
+      <file name="out-of-the-box-data-security-enterprise-cloud.css" crc="3997446836" ref="phone>out-of-the-box-data-security-enterprise-cloud"/>
       <file name="iefonts_out-of-the-box-data-security-enterprise-cloud.css" crc="4247488837" ref="phone>out-of-the-box-data-security-enterprise-cloud"/>
     </folder>
-    <file name="index.html" crc="273183989" seo="true" mt="1445248619883" redirect="true"/>
-    <file name="out-of-the-box-data-security-enterprise-cloud.html" crc="3788607905" seo="true" mt="1445248410414" redirect="true"/>
-    <file name="contact-us.html" crc="386466005" seo="true" mt="1434620863980" redirect="true"/>
+    <file name="index.html" crc="451330781" seo="true" mt="1445423586840" redirect="true"/>
+    <file name="out-of-the-box-data-security-enterprise-cloud.html" crc="59680834" seo="true" mt="1445423794394" redirect="true"/>
+    <file name="contact-us.html" crc="503332775" seo="true" mt="1445423791378" redirect="true"/>
   </folder>
   <file name="index.html" crc="3931943015" seo="true" mt="1445423127973" redirect="true"/>
   <file name="ootbds-terms-of-service.html" crc="3843292545" seo="true" mt="1445422542780" redirect="true"/>
-  <file name="out-of-the-box-data-secuirty-enterprise-cloud.html" crc="4124651124" seo="true" mt="1445422249016" redirect="true"/>
+  <file name="out-of-the-box-data-secuirty-enterprise-cloud.html" crc="475839905" seo="true" mt="1445423794391" redirect="true"/>
   <file name="ootbds-privacy-policy.html" crc="3939732227" seo="true" mt="1445422535574" redirect="true"/>
   <file name="contact-us.html" crc="198147674" seo="true" mt="1433758780707" redirect="true"/>
   <file name="support.html" crc="3891304590" seo="true" mt="1433758791760" redirect="true"/>

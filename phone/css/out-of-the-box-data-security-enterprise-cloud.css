@@ -52,8 +52,8 @@
 
 .version.out_of_the_box_data_security_enterprise_cloud /* version checker */
 {
-	color: #00001A;
-	background-color: #F95358;
+	color: #0000EE;
+	background-color: #4432B4;
 }
 
 @-ms-viewport
@@ -409,7 +409,7 @@
 	position: relative;
 	margin-right: -10000px;
 	left: 184px;
-	background: transparent url("../../images/1.jpg") no-repeat center center;
+	background: transparent url("../../images/1.png") no-repeat center center;
 	background-size: contain;
 }
 
