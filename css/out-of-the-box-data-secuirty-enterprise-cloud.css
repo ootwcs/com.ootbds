@@ -52,8 +52,8 @@
 
 .version.out_of_the_box_data_secuirty_enterprise_cloud /* version checker */
 {
-	color: #0000FD;
-	background-color: #A6D53E;
+	color: #000009;
+	background-color: #DD4512;
 }
 
 #page
@@ -403,7 +403,7 @@
 	position: relative;
 	margin-right: -10000px;
 	left: 635px;
-	background: transparent url("../images/1.jpg") no-repeat center center;
+	background: transparent url("../images/1.png") no-repeat center center;
 	background-size: contain;
 }
 

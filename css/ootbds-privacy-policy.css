@@ -1,7 +1,7 @@
 .version.ootbds_privacy_policy /* version checker */
 {
-	color: #000012;
-	background-color: #A9E03C;
+	color: #000011;
+	background-color: #5FBFD8;
 }
 
 .html
@@ -123,8 +123,8 @@
 #u8715-5
 {
 	z-index: 258;
-	width: 160px;
-	min-height: 27px;
+	width: 159px;
+	min-height: 26px;
 	background-color: transparent;
 	font-size: 18px;
 	text-align: center;
@@ -135,14 +135,22 @@
 	position: relative;
 }
 
-#u8715-5:hover
+#u8715-5.MuseLinkActive
 {
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
 	background-color: #D3D3D3;
 	padding-top: 0px;
 	padding-bottom: 0px;
-	min-height: 27px;
-	width: 160px;
-	margin: 26px 0px 0px;
+	min-height: 25px;
+	width: 158px;
+	margin: 26px -1px -1px 0px;
+}
+
+#u8715-5.MuseLinkActive p
+{
+	text-align: center;
 }
 
 #u8716-223
@@ -154,7 +162,7 @@
 	border-color: transparent;
 	background-color: transparent;
 	left: 151px;
-	margin-top: 27px;
+	margin-top: 26px;
 	position: relative;
 }
 

@@ -1,7 +1,7 @@
 .version.ootbds_terms_of_service /* version checker */
 {
-	color: #0000F0;
-	background-color: #35CE64;
+	color: #00001D;
+	background-color: #852DB7;
 }
 
 .html
@@ -186,8 +186,8 @@
 #u8112-5
 {
 	z-index: 210;
-	width: 160px;
-	min-height: 27px;
+	width: 159px;
+	min-height: 26px;
 	background-color: transparent;
 	font-size: 18px;
 	text-align: center;
@@ -201,12 +201,15 @@
 
 #u8112-5.MuseLinkActive
 {
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
 	background-color: #D3D3D3;
 	padding-top: 0px;
 	padding-bottom: 0px;
-	min-height: 27px;
-	width: 160px;
-	margin: 280px -10000px 0px 0px;
+	min-height: 25px;
+	width: 158px;
+	margin: 280px -10001px -1px 0px;
 }
 
 #u8112-5.MuseLinkActive p,#u8112-5.MuseLinkActive a
