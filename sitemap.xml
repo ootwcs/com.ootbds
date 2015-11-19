@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://ootbds.com/images/macbook-ipad.png</loc>
-    <lastmod>2015-10-21</lastmod>
+    <lastmod>2015-11-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://ootbds.com/images/hdd.png</loc>
-    <lastmod>2015-10-21</lastmod>
+    <lastmod>2015-11-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -20,7 +20,7 @@
   </url>
   <url>
     <loc>http://ootbds.com/index.html</loc>
-    <lastmod>2015-10-21</lastmod>
+    <lastmod>2015-11-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://ootbds.com/phone/index.html"/>
@@ -33,7 +33,7 @@
   </url>
   <url>
     <loc>http://ootbds.com/out-of-the-box-data-secuirty-enterprise-cloud.html</loc>
-    <lastmod>2015-10-21</lastmod>
+    <lastmod>2015-11-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -58,7 +58,7 @@
   </url>
   <url>
     <loc>http://ootbds.com/ootbds-account-activated.html</loc>
-    <lastmod>2015-06-08</lastmod>
+    <lastmod>2015-11-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

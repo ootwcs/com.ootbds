@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000E3;
-	background-color: #8073A3;
+	color: #0000E7;
+	background-color: #56B445;
 }
 
 .html
@@ -446,9 +446,9 @@
 	width: 444px;
 	min-height: 230px;
 	background-color: transparent;
+	line-height: 1.4;
 	color: #FFFFFF;
 	font-size: 38px;
-	line-height: 1.4;
 	font-family: advent-pro, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -524,9 +524,9 @@
 	width: 610px;
 	min-height: 170px;
 	background-color: transparent;
+	line-height: 1.4;
 	color: #FFFFFF;
 	font-size: 38px;
-	line-height: 1.4;
 	font-family: advent-pro, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -819,8 +819,8 @@
 	background-color: transparent;
 	color: #25C4AA;
 	font-size: 12px;
-	text-align: center;
 	line-height: 1.4;
+	text-align: center;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
 	margin-left: 148px;

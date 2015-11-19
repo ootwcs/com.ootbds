@@ -30,7 +30,7 @@ $form = array(
 		'to' => 'admin@ootwcs.com'
 	),
 	'recaptcha' => array(
-		'private_key' => '6LfkkgITAAAAAOAkk34BXXh1D2EyqqgLK9Jg7VH6'
+		'private_key' => '6LeNmRATAAAAAP2FWOJVMZ5S2DjFd708HVLlQnTO'
 	),
 	'fields' => array(
 		'custom_U8395' => array(
