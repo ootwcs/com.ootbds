@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000E7;
-	background-color: #56B445;
+	color: #0000FF;
+	background-color: #98B0AD;
 }
 
 .html
@@ -349,10 +349,10 @@
 	width: 449px;
 	min-height: 226px;
 	background-color: transparent;
-	line-height: 1.4;
 	color: #FFFFFF;
 	font-size: 38px;
 	text-align: left;
+	line-height: 1.4;
 	font-family: advent-pro, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -446,9 +446,9 @@
 	width: 444px;
 	min-height: 230px;
 	background-color: transparent;
-	line-height: 1.4;
 	color: #FFFFFF;
 	font-size: 38px;
+	line-height: 1.4;
 	font-family: advent-pro, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -524,9 +524,9 @@
 	width: 610px;
 	min-height: 170px;
 	background-color: transparent;
-	line-height: 1.4;
 	color: #FFFFFF;
 	font-size: 38px;
+	line-height: 1.4;
 	font-family: advent-pro, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -646,10 +646,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 1.4;
 	color: #FFFFFF;
 	font-size: 30px;
 	text-align: center;
+	line-height: 1.4;
 	font-family: advent-pro, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -709,10 +709,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 1.4;
 	color: #FFFFFF;
 	font-size: 30px;
 	text-align: center;
+	line-height: 1.4;
 	font-family: advent-pro, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -839,10 +839,10 @@
 	width: 475px;
 	min-height: 18px;
 	background-color: transparent;
-	line-height: 1.4;
 	color: #081631;
 	font-size: 12px;
 	text-align: center;
+	line-height: 1.4;
 	font-family: open-sans, sans-serif;
 	font-weight: 600;
 	margin-top: 8px;
@@ -1082,8 +1082,23 @@
 
 #u8773:hover
 {
+	background-image: none;
 	border-color: #FFFFFF;
+	background-color: transparent;
+	-pie-background: none;
 	border-radius: 10px;
+	width: 312px;
+	min-height: 0px;
+	margin: -2px -10000px -3px 0px;
+}
+
+#u8773.MuseLinkActive
+{
+	background: transparent url("../images/u9099-a-grad.png") repeat-x left top;
+	background: -webkit-gradient(linear, center top, center bottom, color-stop(18%, #FFFFFF),to(rgba(255,255,255,0)));
+	background: -webkit-linear-gradient(top,#FFFFFF 18%,rgba(255,255,255,0) );
+	background: linear-gradient(to bottom,#FFFFFF 18%,rgba(255,255,255,0) );
+	border-color: #EBEBEB;
 	width: 312px;
 	min-height: 0px;
 	margin: -2px -10000px -3px 0px;
@@ -1096,7 +1111,7 @@
 	height: 81px;
 	margin-left: 109px;
 	position: relative;
-	background: transparent url("../images/personal%20icon-u8775-fr.png") no-repeat center center;
+	background: transparent url("../images/personal%20icon-u9101-fr.png") no-repeat center center;
 	background-size: cover;
 }
 
@@ -1178,7 +1193,7 @@
 	height: 81px;
 	margin-left: 110px;
 	position: relative;
-	background: transparent url("../images/enterprise-business-systems-icon-u8215-fr.png") no-repeat center center;
+	background: transparent url("../images/enterprise-business-systems-icon-u9105-fr.png") no-repeat center center;
 	background-size: cover;
 }
 

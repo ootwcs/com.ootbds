@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #00000E;
-	background-color: #075460;
+	color: #0000F8;
+	background-color: #4E5BDD;
 }
 
 @-ms-viewport
@@ -489,8 +489,21 @@
 
 #u9099:hover
 {
+	background-image: none;
 	background-color: #EBEBEB;
+	-pie-background: none;
 	border-radius: 10px;
+	width: 326px;
+	min-height: 0px;
+	margin: 6px 0px 0px 22px;
+}
+
+#u9099.MuseLinkActive
+{
+	background: transparent url("../../images/u9099-a-grad.png") repeat-x left top;
+	background: -webkit-gradient(linear, center top, center bottom, color-stop(18%, #FFFFFF),to(rgba(255,255,255,0)));
+	background: -webkit-linear-gradient(top,#FFFFFF 18%,rgba(255,255,255,0) );
+	background: linear-gradient(to bottom,#FFFFFF 18%,rgba(255,255,255,0) );
 	width: 326px;
 	min-height: 0px;
 	margin: 6px 0px 0px 22px;
@@ -729,8 +742,8 @@
 	background-color: transparent;
 	color: #25C4AA;
 	font-size: 12px;
-	text-align: center;
 	line-height: 1.4;
+	text-align: center;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
 	margin-left: 94px;
@@ -749,10 +762,10 @@
 	width: 367px;
 	min-height: 18px;
 	background-color: transparent;
-	line-height: 1.4;
 	color: #081631;
 	font-size: 12px;
 	text-align: center;
+	line-height: 1.4;
 	font-family: open-sans, sans-serif;
 	font-weight: 600;
 	margin-top: 7px;
