@@ -1,7 +1,7 @@
 .version.ootbds_account_activated /* version checker */
 {
-	color: #0000F9;
-	background-color: #13E228;
+	color: #0000F3;
+	background-color: #850FBA;
 }
 
 .html
@@ -31,7 +31,7 @@
 
 #u9530
 {
-	z-index: 34;
+	z-index: 27;
 	width: 335px;
 	height: 320px;
 	margin-left: 313px;
@@ -42,7 +42,7 @@
 
 #u9537-6
 {
-	z-index: 35;
+	z-index: 28;
 	width: 624px;
 	min-height: 101px;
 	background-color: transparent;
@@ -57,7 +57,7 @@
 
 #u9539-5
 {
-	z-index: 41;
+	z-index: 34;
 	width: 508px;
 	min-height: 50px;
 	background-color: transparent;
@@ -93,7 +93,7 @@
 	padding-bottom: 8px;
 }
 
-#u10803-21
+#u10803-14
 {
 	z-index: 13;
 	width: 490px;
