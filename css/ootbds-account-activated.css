@@ -1,7 +1,7 @@
 .version.ootbds_account_activated /* version checker */
 {
-	color: #0000F3;
-	background-color: #850FBA;
+	color: #0000F1;
+	background-color: #B45F5D;
 }
 
 .html
@@ -91,6 +91,7 @@
 	left: -100px;
 	padding-top: 37px;
 	padding-bottom: 8px;
+	margin-bottom: -3px;
 }
 
 #u10803-14
@@ -132,7 +133,7 @@
 {
 	z-index: 2;
 	min-height: 184.63056818311975px;
-	margin-top: 8px;
+	margin-top: -3px;
 }
 
 body

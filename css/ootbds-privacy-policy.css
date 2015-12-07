@@ -1,7 +1,7 @@
 .version.ootbds_privacy_policy /* version checker */
 {
-	color: #0000EB;
-	background-color: #AE7D55;
+	color: #0000E4;
+	background-color: #7D151A;
 }
 
 .html
@@ -753,8 +753,8 @@
 	-ms-transform: matrix(0.7071,-0.7071,0.7071,0.7071,-4,11);
 	transform: matrix(0.7071,-0.7071,0.7071,0.7071,-4,11);
 	margin-left: 469px;
-	top: -11px;
-	margin-bottom: -7px;
+	top: -22px;
+	margin-bottom: -18px;
 	position: relative;
 	border-width: 3px 3px 0px 0px;
 }
@@ -765,7 +765,7 @@
 	width: 18px;
 	height: 18px;
 	min-height: 0px;
-	margin: 0px 0px -7px 469px;
+	margin: 0px 0px -18px 469px;
 }
 
 #u10799
