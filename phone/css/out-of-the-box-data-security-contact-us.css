@@ -1,7 +1,7 @@
 .version.out_of_the_box_data_security_contact_us /* version checker */
 {
-	color: #000011;
-	background-color: #4D73A1;
+	color: #000006;
+	background-color: #FD5DB1;
 }
 
 @-ms-viewport
@@ -38,11 +38,12 @@
 {
 	z-index: 1;
 	width: 380px;
-	min-height: 1099px;
+	min-height: 1098.7628307652267px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
 	background-color: #FFFFFF;
+	padding-bottom: 0px;
 }
 
 #ptop
@@ -143,16 +144,33 @@
 	position: relative;
 }
 
+#u12160
+{
+	z-index: 47;
+	min-height: 679px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+}
+
+#u12160-bw
+{
+	z-index: 47;
+	min-height: 679px;
+	margin-top: -6px;
+	margin-bottom: -6px;
+}
+
 #pu10933
 {
 	width: 0.01px;
-	margin-top: 453px;
+	margin-top: -2px;
 }
 
 #u10933
 {
 	z-index: 5;
-	min-height: 112.88915382610128px;
+	min-height: 112.88915382610116px;
 	padding: 32px 90px 0px;
 }
 
@@ -184,7 +202,7 @@
 #u10933-bw
 {
 	z-index: 5;
-	min-height: 112.88915382610128px;
+	min-height: 112.88915382610116px;
 }
 
 #u10934-4
@@ -210,7 +228,7 @@
 {
 	z-index: 16;
 	min-height: 22px;
-	margin-top: 6px;
+	margin-top: 7px;
 }
 
 body
