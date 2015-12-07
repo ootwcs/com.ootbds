@@ -205,6 +205,12 @@ a.nontext /* used to override default properties of 'a' tag */
 	text-decoration: none;
 }
 
+.OoTBDS-com a,.Style3 a,.OoTBDS-com-Bottom a
+{
+	color: inherit;
+	text-decoration: inherit;
+}
+
 .Style3 a:active,.OoTBDS-com-Bottom a:link
 {
 	color: #FFFFFF;
@@ -344,6 +350,17 @@ a.nontext /* used to override default properties of 'a' tag */
 	font-weight: 300;
 	line-height: 1.4;
 	text-align: left;
+	padding: 0px;
+}
+
+.Title
+{
+	color: #5B5B5B;
+	font-family: josefin, sans-serif;
+	font-size: 35px;
+	font-weight: 300;
+	letter-spacing: 5px;
+	text-align: center;
 	padding: 0px;
 }
 
