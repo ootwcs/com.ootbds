@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="ootbds.com" resolutions="1x" timestamp="1449492163770">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="ootbds.com" resolutions="1x" timestamp="1449498164874">
   <folder name="css">
     <file name="site_global.css" crc="4166169026"/>
     <file name="ootbds-account-activated.css" crc="4055129949" ref="ootbds-account-activated"/>
@@ -8,9 +8,9 @@
     <file name="iefonts_ootbds-account-activated.css" crc="497973488" ref="ootbds-account-activated"/>
     <file name="business-30-day-free-trial.css" crc="3878225723" ref="business-30-day-free-trial"/>
     <file name="iefonts_business-30-day-free-trial.css" crc="219553997" ref="business-30-day-free-trial"/>
-    <file name="out-of-the-box-data-security-business-thank-you.css" crc="4076057" ref="out-of-the-box-data-security-business-thank-you"/>
+    <file name="out-of-the-box-data-security-business-thank-you.css" crc="457287246" ref="out-of-the-box-data-security-business-thank-you"/>
     <file name="iefonts_out-of-the-box-data-security-business-thank-you.css" crc="4077029356" ref="out-of-the-box-data-security-business-thank-you"/>
-    <file name="business.css" crc="3802167724" ref="business"/>
+    <file name="business.css" crc="3890503935" ref="business"/>
     <file name="iefonts_business.css" crc="392813729" ref="business"/>
     <file name="terms-of-service.css" crc="3896185992" ref="terms-of-service"/>
     <file name="iefonts_terms-of-service.css" crc="83433765" ref="terms-of-service"/>
@@ -50,13 +50,13 @@
     <file name="out-of-the-box-data-security-contact-us-favicon.ico" crc="4261349706" ref="phone>out-of-the-box-data-security-contact-us"/>
     <file name="out-of-the-box-data-security-business-free-30-day-trial-favicon.ico" crc="4261349706" ref="phone>out-of-the-box-data-security-business-free-30-day-trial"/>
     <file name="macbook-ipad cloud.png" crc="3831188836" ref="index"/>
-    <file name="appstore-u10767-fr.png" crc="3920212265" ref="index:terms-of-service:business:privacy-policy:business-30-day-free-trial:out-of-the-box-data-security-business-thank-you"/>
+    <file name="appstore-u10767-fr.png" crc="3920212265" ref="index:terms-of-service:privacy-policy:business-30-day-free-trial"/>
     <file name="sharing.jpg" crc="4178608363" ref="index"/>
     <file name="out of the box videos.jpg" crc="474228394" ref="index"/>
     <file name="out of the box files.jpg" crc="3832545381" ref="index"/>
     <file name="collaboration.jpg" crc="3834352471" ref="index:business"/>
     <file name="versioning.jpg" crc="57472196" ref="index:business"/>
-    <file name="ootwcs250x250.png" crc="334981527" ref="index"/>
+    <file name="ootwcs250x250.png" crc="334981527" ref="index:business"/>
     <file name="out of the box sharing.jpg" crc="291583752" ref="business"/>
     <file name="scalable.jpg" crc="289200262" ref="business"/>
     <file name="out of the box solutions.jpg" crc="294252196" ref="business"/>
@@ -65,6 +65,7 @@
     <file name="privacy-policy-favicon.ico" crc="4206864170" ref="privacy-policy"/>
     <file name="business-30-day-free-trial-favicon.ico" crc="4261349706" ref="business-30-day-free-trial"/>
     <file name="out-of-the-box-data-security-business-thank-you-favicon.ico" crc="4261349706" ref="out-of-the-box-data-security-business-thank-you"/>
+    <file name="appstore-u10779-fr.png" crc="3920212265" ref="business:out-of-the-box-data-security-business-thank-you"/>
   </folder>
   <folder name="phone">
     <folder name="css">
@@ -86,8 +87,8 @@
   <file name="index.html" crc="12445409" seo="true" mt="1449492114402" redirect="true"/>
   <file name="ootbds-account-activated.html" crc="4115772911" seo="true" mt="1449492114332" redirect="true"/>
   <file name="terms-of-service.html" crc="3809875096" seo="true" mt="1449492114352" redirect="true"/>
-  <file name="business.html" crc="477358076" seo="true" mt="1449492119480" redirect="true"/>
+  <file name="business.html" crc="400433374" seo="true" mt="1449493904790" redirect="true"/>
   <file name="privacy-policy.html" crc="290043085" seo="true" mt="1449492114342" redirect="true"/>
   <file name="business-30-day-free-trial.html" crc="4155686030" seo="true" mt="1449492119492" redirect="true"/>
-  <file name="out-of-the-box-data-security-business-thank-you.html" crc="73306697" seo="true" mt="1449492114332" redirect="true"/>
+  <file name="out-of-the-box-data-security-business-thank-you.html" crc="4273978111" seo="true" mt="1449498150458" redirect="true"/>
 </manifest>

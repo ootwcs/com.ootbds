@@ -1,7 +1,7 @@
 .version.business /* version checker */
 {
-	color: #0000E2;
-	background-color: #A079AC;
+	color: #0000E7;
+	background-color: #E460FF;
 }
 
 .html
@@ -478,7 +478,7 @@
 	margin-right: -10000px;
 	margin-top: 10px;
 	left: 644px;
-	background: transparent url("../images/appstore-u10767-fr.png") no-repeat center center;
+	background: transparent url("../images/appstore-u10779-fr.png") no-repeat center center;
 	background-size: contain;
 }
 
@@ -1317,7 +1317,7 @@
 	position: relative;
 	margin-right: -10000px;
 	left: 644px;
-	background: transparent url("../images/appstore-u10767-fr.png") no-repeat center center;
+	background: transparent url("../images/appstore-u10779-fr.png") no-repeat center center;
 	background-size: contain;
 }
 
