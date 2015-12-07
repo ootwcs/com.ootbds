@@ -1,7 +1,7 @@
 .version.out_of_the_box_data_security_business_free_30_day_trial /* version checker */
 {
-	color: #000007;
-	background-color: #E47000;
+	color: #00000B;
+	background-color: #0A4168;
 }
 
 @-ms-viewport
@@ -38,16 +38,11 @@
 {
 	z-index: 1;
 	width: 380px;
-	min-height: 1304px;
+	min-height: 1378px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
 	background-color: transparent;
-}
-
-#pu11344
-{
-	width: 0.01px;
 }
 
 #u11344
@@ -157,55 +152,55 @@
 	border-width: 0px 0px 5px 5px;
 }
 
+#pu11344,#pfillinform
+{
+	width: 0.01px;
+}
+
 #fillinform
 {
-	margin-left: 190px;
-	margin-top: 3px;
 	position: relative;
+	width: 22px;
+	margin-right: -10000px;
+	margin-top: 3px;
+	left: 190px;
 }
 
-#u11299-7
+#u12155
 {
 	z-index: 56;
-	width: 340px;
-	min-height: 34px;
+	height: 717px;
+	background-color: #98A2B2;
+	background-color: rgba(45,67,99,0.49);
+	-pie-background: rgba(45,67,99,0.49);
+}
+
+#u12155-bw
+{
+	z-index: 56;
+	height: 717px;
+}
+
+#u12156
+{
+	z-index: 57;
+	min-height: 679px;
+	border-style: none;
+	border-color: transparent;
 	background-color: transparent;
-	line-height: 1.4;
-	font-size: 12px;
-	text-align: center;
-	font-family: open-sans, sans-serif;
-	font-weight: 300;
-	margin-left: 17px;
-	margin-top: 500px;
-	position: relative;
 }
 
-#u11299-2
+#u12156-bw
 {
-	color: #000000;
-}
-
-#u11299
-{
-	font-family: open-sans, sans-serif;
-	font-weight: 400;
-}
-
-#u11299-5
-{
-	color: #25C4AA;
-}
-
-#u11299-3
-{
-	font-family: open-sans, sans-serif;
-	font-weight: 700;
+	z-index: 57;
+	min-height: 679px;
+	margin-top: 29px;
 }
 
 #pu10933
 {
 	width: 0.01px;
-	margin-top: 64px;
+	margin-top: -2px;
 }
 
 #u10933
