@@ -10,7 +10,7 @@ require_once('recaptchalib.php');
 require_once('form_process.php');
 
 $form = array(
-	'subject' => 'Out of The Box Data Secuirty Business Form Submission',
+	'subject' => 'Out of The Box Data Security Contact US Form Submission',
 	'heading' => 'New Form Submission',
 	'success_redirect' => '',
 	'resources' => array(
@@ -33,7 +33,7 @@ $form = array(
 		'private_key' => '6Lc_jRITAAAAAPLCx1Ct3Uovs1M-_9xCCsS--B_J'
 	),
 	'fields' => array(
-		'custom_U10207' => array(
+		'custom_U11096' => array(
 			'order' => 1,
 			'type' => 'string',
 			'label' => 'Name',
@@ -43,7 +43,7 @@ $form = array(
 			)
 		),
 		'Email' => array(
-			'order' => 3,
+			'order' => 2,
 			'type' => 'email',
 			'label' => 'Email',
 			'required' => true,
@@ -52,50 +52,23 @@ $form = array(
 				'format' => 'Field \'Email\' has an invalid email.'
 			)
 		),
-		'custom_U10199' => array(
-			'order' => 2,
+		'custom_U11100' => array(
+			'order' => 3,
 			'type' => 'string',
-			'label' => 'Company  or Organisation',
+			'label' => 'Message',
 			'required' => true,
 			'errors' => array(
-				'required' => 'Field \'Company  or Organisation\' is required.'
-			)
-		),
-		'custom_U10193' => array(
-			'order' => 4,
-			'type' => 'string',
-			'label' => 'Phone',
-			'required' => true,
-			'errors' => array(
-				'required' => 'Field \'Phone\' is required.'
+				'required' => 'Field \'Message\' is required.'
 			)
 		),
 		'recaptcha_response_field' => array(
-			'order' => 7,
+			'order' => 4,
 			'type' => 'recaptcha',
 			'label' => 'Image Verification',
 			'required' => true,
 			'errors' => array(
 				'required' => 'Field \'Image Verification\' is required.',
 				'format' => 'Incorrect reCAPTCHA value.'
-			)
-		),
-		'custom_U10188' => array(
-			'order' => 5,
-			'type' => 'string',
-			'label' => 'Storage Space Needed',
-			'required' => true,
-			'errors' => array(
-				'required' => 'Field \'Storage Space Needed\' is required.'
-			)
-		),
-		'custom_U10184' => array(
-			'order' => 6,
-			'type' => 'string',
-			'label' => 'Amount of Users',
-			'required' => true,
-			'errors' => array(
-				'required' => 'Field \'Amount of Users\' is required.'
 			)
 		)
 	)
