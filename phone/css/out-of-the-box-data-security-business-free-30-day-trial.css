@@ -1,7 +1,7 @@
 .version.out_of_the_box_data_security_business_free_30_day_trial /* version checker */
 {
-	color: #0000E1;
-	background-color: #2F6347;
+	color: #0000FE;
+	background-color: #EA1C9A;
 }
 
 @-ms-viewport
@@ -86,10 +86,10 @@
 	opacity: 0.5;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
 	filter: alpha(opacity=50);
+	line-height: 1.1;
 	color: #000000;
 	font-size: 11px;
 	letter-spacing: 4px;
-	line-height: 1.1;
 	text-align: center;
 	font-family: open-sans, sans-serif;
 	font-weight: 600;
@@ -125,8 +125,8 @@
 	z-index: 6;
 	min-height: 298px;
 	background-color: transparent;
-	color: #FFFFFF;
 	line-height: 1.4;
+	color: #FFFFFF;
 	font-size: 30px;
 	text-align: center;
 	font-family: open-sans, sans-serif;
