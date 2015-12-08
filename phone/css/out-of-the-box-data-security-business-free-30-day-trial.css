@@ -1,7 +1,7 @@
 .version.out_of_the_box_data_security_business_free_30_day_trial /* version checker */
 {
-	color: #0000F0;
-	background-color: #CB4D2C;
+	color: #0000E1;
+	background-color: #2F6347;
 }
 
 @-ms-viewport
@@ -46,7 +46,7 @@
 	padding-bottom: 0px;
 }
 
-#pu11344
+#page_position_content,#pu11344
 {
 	width: 0.01px;
 }
@@ -86,10 +86,10 @@
 	opacity: 0.5;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
 	filter: alpha(opacity=50);
-	line-height: 1.1;
 	color: #000000;
 	font-size: 11px;
 	letter-spacing: 4px;
+	line-height: 1.1;
 	text-align: center;
 	font-family: open-sans, sans-serif;
 	font-weight: 600;
@@ -125,8 +125,8 @@
 	z-index: 6;
 	min-height: 298px;
 	background-color: transparent;
-	line-height: 1.4;
 	color: #FFFFFF;
+	line-height: 1.4;
 	font-size: 30px;
 	text-align: center;
 	font-family: open-sans, sans-serif;
