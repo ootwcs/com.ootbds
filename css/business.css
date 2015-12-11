@@ -1,7 +1,7 @@
 .version.business /* version checker */
 {
-	color: #0000E2;
-	background-color: #A079AC;
+	color: #00001C;
+	background-color: #63BD7A;
 }
 
 .html
@@ -24,7 +24,6 @@
 
 #page_position_content
 {
-	margin-top: -13px;
 	margin-bottom: -9px;
 	width: 0.01px;
 }
@@ -33,20 +32,19 @@
 {
 	z-index: 147;
 	width: 0.01px;
-	height: 84px;
-	margin-left: 785px;
+	height: 70px;
+	padding-bottom: 15px;
+	margin-left: 820px;
 	position: relative;
 }
 
 #u10788
 {
 	z-index: 148;
-	width: 70px;
-	margin-bottom: -1px;
+	width: 85px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 42px;
-	left: 35px;
+	margin-top: 25px;
 }
 
 #u10789
@@ -55,8 +53,8 @@
 	width: 379px;
 	border-style: none;
 	background-color: transparent;
-	top: -42px;
-	left: -35px;
+	padding-bottom: 15px;
+	top: -24px;
 }
 
 #u10789:hover
@@ -70,8 +68,8 @@
 #u10790-3
 {
 	z-index: 150;
-	width: 58px;
-	min-height: 24px;
+	width: 73px;
+	min-height: 33px;
 	border-style: none;
 	border-color: transparent;
 	padding: 6px;
@@ -80,11 +78,9 @@
 	letter-spacing: 3px;
 	font-family: open-sans, sans-serif;
 	font-weight: 700;
-	margin-bottom: -1px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 42px;
-	left: 35px;
+	margin-top: 25px;
 }
 
 #u10789:hover #u10790-3
@@ -93,9 +89,9 @@
 	border-color: transparent;
 	padding-top: 6px;
 	padding-bottom: 6px;
-	min-height: 24px;
-	width: 58px;
-	margin: 42px -10000px -1px 0px;
+	min-height: 33px;
+	width: 73px;
+	margin: 25px -10000px 0px 0px;
 }
 
 #u10789.PamphletThumbSelected #u10790-3
@@ -104,9 +100,9 @@
 	border-color: transparent;
 	padding-top: 6px;
 	padding-bottom: 6px;
-	min-height: 24px;
-	width: 58px;
-	margin: 42px -10000px -1px 0px;
+	min-height: 33px;
+	width: 73px;
+	margin: 25px -10000px 0px 0px;
 }
 
 .Form
@@ -141,11 +137,12 @@
 #u10770
 {
 	position: absolute;
-	width: 1026px;
+	width: 1024px;
 	background-color: #627686;
 	background-color: rgba(71,94,113,0.85);
-	padding-bottom: 46px;
-	left: 342px;
+	padding-bottom: 44px;
+	top: -13px;
+	left: 307px;
 	-pie-background: rgba(71,94,113,0.85);
 }
 
@@ -164,8 +161,8 @@
 	background-color: #FFFFFF;
 	margin-right: -10000px;
 	position: relative;
-	top: 23px;
-	left: 23px;
+	top: 22px;
+	left: 22px;
 	padding: 19px 10px 22px;
 }
 
@@ -489,7 +486,8 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	left: 1346px;
+	top: -13px;
+	left: 1311px;
 }
 
 #u10793:hover
@@ -524,7 +522,7 @@
 {
 	width: 0.01px;
 	margin-left: -100px;
-	margin-top: -71px;
+	margin-top: -85px;
 }
 
 #top

@@ -1,7 +1,7 @@
 .version.ootbds_privacy_policy /* version checker */
 {
-	color: #0000E4;
-	background-color: #7D151A;
+	color: #000009;
+	background-color: #AB30DF;
 }
 
 .html
@@ -13,40 +13,82 @@
 {
 	z-index: 1;
 	width: 960px;
-	min-height: 3449px;
+	min-height: 3448.9381615304387px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
 	background-color: transparent;
+	padding-bottom: 0px;
 	margin-left: auto;
 	margin-right: auto;
 }
 
 #page_position_content
 {
-	margin-top: -7px;
 	margin-bottom: -9px;
 	width: 0.01px;
+}
+
+#pu8719
+{
+	width: 0.01px;
+	padding-bottom: 396px;
+	margin-left: 17px;
+}
+
+#u8719
+{
+	z-index: 39;
+	width: 165px;
+	height: 154px;
+	border-style: none;
+	border-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	background: transparent url("../images/ootbdslogo1.png") no-repeat center center;
+}
+
+#top
+{
+	position: relative;
+	width: 22px;
+	margin-right: -10000px;
+	left: 484px;
+}
+
+#u8755-5
+{
+	z-index: 28;
+	width: 70px;
+	min-height: 22px;
+	background-color: transparent;
+	font-family: advent-pro, sans-serif;
+	font-weight: 600;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 37px;
+	left: 733px;
 }
 
 #pamphletu11411
 {
 	z-index: 278;
 	width: 0.01px;
-	height: 80px;
-	padding-bottom: 4px;
-	margin-left: 785px;
+	height: 64px;
+	padding-bottom: 20px;
 	position: relative;
+	margin-right: -10000px;
+	margin-top: 9px;
+	left: 803px;
 }
 
 #u11414
 {
 	z-index: 279;
-	width: 70px;
+	width: 93px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 37px;
-	left: 35px;
+	margin-top: 18px;
 }
 
 #u11415
@@ -55,9 +97,8 @@
 	width: 306px;
 	border-style: none;
 	background-color: transparent;
-	padding-bottom: 4px;
-	top: -37px;
-	left: -35px;
+	padding-bottom: 20px;
+	top: -18px;
 }
 
 #u11415:hover
@@ -71,8 +112,8 @@
 #u11416-3
 {
 	z-index: 281;
-	width: 58px;
-	min-height: 10px;
+	width: 81px;
+	min-height: 34px;
 	border-style: none;
 	border-color: transparent;
 	padding: 6px;
@@ -83,8 +124,7 @@
 	font-weight: 700;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 37px;
-	left: 35px;
+	margin-top: 18px;
 }
 
 #u11415:hover #u11416-3
@@ -93,9 +133,9 @@
 	border-color: transparent;
 	padding-top: 6px;
 	padding-bottom: 6px;
-	min-height: 10px;
-	width: 58px;
-	margin: 37px -10000px 0px 0px;
+	min-height: 34px;
+	width: 81px;
+	margin: 18px -10000px 0px 0px;
 }
 
 #u11415.PamphletThumbSelected #u11416-3
@@ -104,9 +144,9 @@
 	border-color: transparent;
 	padding-top: 6px;
 	padding-bottom: 6px;
-	min-height: 10px;
-	width: 58px;
-	margin: 37px -10000px 0px 0px;
+	min-height: 34px;
+	width: 81px;
+	margin: 18px -10000px 0px 0px;
 }
 
 .Form
@@ -145,8 +185,8 @@
 	background-color: #26C8F4;
 	background-color: rgba(0,191,243,0.85);
 	padding-bottom: 44px;
-	top: 70px;
-	left: 363px;
+	top: 55px;
+	left: 328px;
 	-pie-background: rgba(0,191,243,0.85);
 }
 
@@ -527,8 +567,8 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	top: 69px;
-	left: 1365px;
+	top: 54px;
+	left: 1330px;
 }
 
 #u11417:hover
@@ -557,47 +597,6 @@
 .PamphletWidget .ThumbGroup .Thumb,.PamphletNextButton,.PamphletPrevButton,.PamphletCloseButton /* pamphlet2 */
 {
 	cursor: pointer;
-}
-
-#pu8719
-{
-	width: 0.01px;
-	margin-left: 17px;
-	margin-top: -77px;
-}
-
-#u8719
-{
-	z-index: 39;
-	width: 165px;
-	height: 154px;
-	border-style: none;
-	border-color: transparent;
-	position: relative;
-	margin-right: -10000px;
-	background: transparent url("../images/ootbdslogo1.png") no-repeat center center;
-}
-
-#top
-{
-	position: relative;
-	width: 22px;
-	margin-right: -10000px;
-	left: 484px;
-}
-
-#u8755-5
-{
-	z-index: 28;
-	width: 70px;
-	min-height: 22px;
-	background-color: transparent;
-	font-family: advent-pro, sans-serif;
-	font-weight: 600;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 37px;
-	left: 733px;
 }
 
 #u8756-5
@@ -641,8 +640,16 @@
 	font-family: open-sans, sans-serif;
 	font-weight: 600;
 	margin-left: 51px;
-	margin-top: 52px;
+	top: -344px;
+	margin-bottom: -48px;
 	position: relative;
+}
+
+#pu8715-5
+{
+	width: 0.01px;
+	margin-left: 51px;
+	margin-top: -270px;
 }
 
 #u8715-5
@@ -703,11 +710,11 @@
 	margin: 0px -10000px 0px 0px;
 }
 
-#pu8715-5,#pu8769
+#pu8769
 {
 	width: 0.01px;
 	margin-left: 51px;
-	margin-top: 26px;
+	margin-top: -217px;
 }
 
 #u8769
