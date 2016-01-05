@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000E9;
-	background-color: #7091B7;
+	color: #0000E3;
+	background-color: #7E1631;
 }
 
 @-ms-viewport
@@ -203,11 +203,11 @@
 	opacity: 0.5;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
 	filter: alpha(opacity=50);
-	line-height: 1.1;
 	color: #000000;
 	font-size: 11px;
-	letter-spacing: 4px;
 	text-align: center;
+	letter-spacing: 4px;
+	line-height: 1.1;
 	font-family: open-sans, sans-serif;
 	font-weight: 600;
 	position: relative;

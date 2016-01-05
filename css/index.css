@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #00000A;
-	background-color: #606F91;
+	color: #0000F5;
+	background-color: #4416AE;
 }
 
 .html
@@ -349,9 +349,9 @@
 	width: 496px;
 	min-height: 230px;
 	background-color: transparent;
-	line-height: 1.4;
 	color: #FFFFFF;
 	font-size: 36px;
+	line-height: 1.4;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -476,11 +476,11 @@
 	opacity: 0.5;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
 	filter: alpha(opacity=50);
-	line-height: 1.1;
 	color: #FFFFFF;
 	font-size: 11px;
-	letter-spacing: 4px;
 	text-align: center;
+	letter-spacing: 4px;
+	line-height: 1.1;
 	font-family: open-sans, sans-serif;
 	font-weight: 600;
 	position: relative;
