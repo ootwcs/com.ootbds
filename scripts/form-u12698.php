@@ -12,7 +12,7 @@ require_once('form_process.php');
 $form = array(
 	'subject' => 'Refer a Friend Form Submission',
 	'heading' => 'New Form Submission',
-	'success_redirect' => '',
+	'success_redirect' => 'refer-a-friend-thank-you.html',
 	'resources' => array(
 		'checkbox_checked' => 'Checked',
 		'checkbox_unchecked' => 'Unchecked',
