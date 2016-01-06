@@ -18,12 +18,12 @@
 	font-family: josefin-n3, sans-serif;
 }
 
-#u10803-14,#u10801-5
+#u10803-17,#u10801-5
 {
 	font-family: open-sans-n3, sans-serif;
 }
 
-#u10803,#u10803-3,#u10803-4,#u10803-6,#u10803-7,#u10803-8,#u10803-10,#u10801,#u10800-4
+#u10803,#u10803-3,#u10803-4,#u10803-6,#u10803-7,#u10803-9,#u10803-10,#u10803-11,#u10803-13,#u10801,#u10800-4
 {
 	font-family: open-sans-n6, sans-serif;
 }
@@ -83,12 +83,27 @@
 	font-family: open-sans-n3, sans-serif;
 }
 
+#widgetu12162.frm-sub-st #u12177-4 p,#u12177-4
+{
+	font-family: open-sans-n3, sans-serif;
+}
+
+#widgetu12162.frm-subm-err-st #u12167-4 p,#u12167-4
+{
+	font-family: open-sans-n3, sans-serif;
+}
+
+#widgetu12162.frm-subm-ok-st #u12178-4 p,#u12178-4
+{
+	font-family: open-sans-n3, sans-serif;
+}
+
 #u12182-4
 {
 	font-family: open-sans-n3, sans-serif;
 }
 
-#u12183-5
+#u12183-4
 {
 	font-family: open-sans-n3, sans-serif;
 }
@@ -98,7 +113,7 @@
 	font-family: open-sans-n3, sans-serif;
 }
 
-#u12186-5
+#u12186-4
 {
 	font-family: open-sans-n3, sans-serif;
 }

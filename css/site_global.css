@@ -141,14 +141,6 @@ a.nontext /* used to override default properties of 'a' tag */
 	text-decoration: none;
 }
 
-.OoTBDS-com a:active
-{
-	color: #000000;
-	font-style: normal;
-	font-weight: normal;
-	text-decoration: none;
-}
-
 .Style2 a:link
 {
 	color: #25C4AA;
@@ -205,12 +197,6 @@ a.nontext /* used to override default properties of 'a' tag */
 	text-decoration: none;
 }
 
-.OoTBDS-com a,.Style3 a,.OoTBDS-com-Bottom a
-{
-	color: inherit;
-	text-decoration: inherit;
-}
-
 .Style3 a:active,.OoTBDS-com-Bottom a:link
 {
 	color: #FFFFFF;
@@ -235,7 +221,31 @@ a.nontext /* used to override default properties of 'a' tag */
 	text-decoration: none;
 }
 
-.OoTBDS-com-Bottom a:active
+.OoTBDS-com a:active,.OoTBDS-com-Black a:link
+{
+	color: #000000;
+	font-style: normal;
+	font-weight: normal;
+	text-decoration: none;
+}
+
+.OoTBDS-com-Black a:visited
+{
+	color: #000000;
+	font-style: normal;
+	font-weight: normal;
+	text-decoration: none;
+}
+
+.OoTBDS-com-Black a:hover
+{
+	color: #000000;
+	font-style: normal;
+	font-weight: normal;
+	text-decoration: none;
+}
+
+.OoTBDS-com-Bottom a:active,.OoTBDS-com-Black a:active
 {
 	color: #FFFFFF;
 	font-style: normal;

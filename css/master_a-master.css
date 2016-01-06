@@ -9,7 +9,7 @@
 	position: relative;
 }
 
-#u10803-14
+#u10803-17
 {
 	background-color: transparent;
 	color: #FFFFFF;
@@ -24,14 +24,14 @@
 	background-color: transparent;
 	color: #25C4AA;
 	font-size: 12px;
-	text-align: center;
 	line-height: 1.4;
+	text-align: center;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
 	position: relative;
 }
 
-#u10803,#u10803-3,#u10803-4,#u10803-6,#u10803-7,#u10803-8,#u10803-10,#u10801
+#u10803,#u10803-3,#u10803-4,#u10803-6,#u10803-7,#u10803-9,#u10803-10,#u10803-11,#u10803-13,#u10801
 {
 	font-family: open-sans, sans-serif;
 	font-weight: 600;
@@ -40,10 +40,10 @@
 #u10800-4
 {
 	background-color: transparent;
-	line-height: 1.4;
 	color: #081631;
 	font-size: 12px;
 	text-align: center;
+	line-height: 1.4;
 	font-family: open-sans, sans-serif;
 	font-weight: 600;
 	position: relative;
