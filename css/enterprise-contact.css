@@ -52,8 +52,8 @@
 
 .version.enterprise_contact /* version checker */
 {
-	color: #000004;
-	background-color: #FB637B;
+	color: #000013;
+	background-color: #163947;
 }
 
 #page
@@ -698,7 +698,7 @@
 	position: relative;
 	margin-right: -10000px;
 	left: 117px;
-	background: transparent url("../images/out%20of%20the%20box%20data%20security-u11113-fr.png") no-repeat center center;
+	background: transparent url("../images/out%20of%20the%20box%20data%20security-u9076-fr.png") no-repeat center center;
 	background-size: contain;
 }
 
@@ -776,9 +776,9 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 1;
 	color: #FFFFFF;
 	text-align: left;
+	line-height: 1;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -807,8 +807,8 @@
 	border-color: #C4C4C4;
 	background-color: #F2F2F2;
 	padding: 6px;
-	line-height: 1;
 	color: #000000;
+	line-height: 1;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
 	font-style: italic;
@@ -894,9 +894,9 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 1;
 	color: #FFFFFF;
 	text-align: left;
+	line-height: 1;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -914,8 +914,8 @@
 	border-color: #C4C4C4;
 	background-color: #F2F2F2;
 	padding: 6px;
-	line-height: 1;
 	color: #000000;
+	line-height: 1;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
 	font-style: italic;
@@ -1039,9 +1039,9 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
 	padding-top: 4px;
-	line-height: 1;
 	color: #25FFAA;
 	font-size: 12px;
+	line-height: 1;
 	font-family: open-sans, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -1125,9 +1125,9 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 1;
 	color: #FFFFFF;
 	text-align: left;
+	line-height: 1;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -1145,8 +1145,8 @@
 	border-color: #C4C4C4;
 	background-color: #F2F2F2;
 	padding: 6px;
-	line-height: 1;
 	color: #000000;
+	line-height: 1;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
 	font-style: italic;
@@ -1243,9 +1243,9 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 1;
 	color: #FFFFFF;
 	text-align: left;
+	line-height: 1;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -1263,8 +1263,8 @@
 	border-color: #C4C4C4;
 	background-color: #F2F2F2;
 	padding: 6px;
-	line-height: 1;
 	color: #000000;
+	line-height: 1;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
 	font-style: italic;
@@ -1482,9 +1482,9 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 1;
 	color: #FFFFFF;
 	text-align: left;
+	line-height: 1;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
 	position: relative;

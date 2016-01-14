@@ -52,8 +52,8 @@
 
 .version.out_of_the_box_data_security_contact_us /* version checker */
 {
-	color: #0000EF;
-	background-color: #3B263E;
+	color: #0000F4;
+	background-color: #C5245B;
 }
 
 @-ms-viewport
@@ -232,9 +232,9 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 1;
 	color: #000000;
 	text-align: left;
+	line-height: 1;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -263,8 +263,8 @@
 	border-color: #C4C4C4;
 	background-color: #F2F2F2;
 	padding: 6px;
-	line-height: 1;
 	color: #000000;
+	line-height: 1;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
 	font-style: italic;
@@ -350,9 +350,9 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 1;
 	color: #000000;
 	text-align: left;
+	line-height: 1;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -370,8 +370,8 @@
 	border-color: #C4C4C4;
 	background-color: #F2F2F2;
 	padding: 6px;
-	line-height: 1;
 	color: #000000;
+	line-height: 1;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
 	font-style: italic;
@@ -495,9 +495,9 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
 	padding-top: 4px;
-	line-height: 1;
 	color: #25FFAA;
 	font-size: 12px;
+	line-height: 1;
 	font-family: open-sans, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -582,9 +582,9 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 1;
 	color: #000000;
 	text-align: left;
+	line-height: 1;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -602,8 +602,8 @@
 	border-color: #C4C4C4;
 	background-color: #F2F2F2;
 	padding: 6px;
-	line-height: 1;
 	color: #000000;
+	line-height: 1;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
 	font-style: italic;
@@ -689,9 +689,9 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 1;
 	color: #000000;
 	text-align: left;
+	line-height: 1;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -709,8 +709,8 @@
 	border-color: #C4C4C4;
 	background-color: #F2F2F2;
 	padding: 6px;
-	line-height: 1;
 	color: #000000;
+	line-height: 1;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
 	font-style: italic;
@@ -893,9 +893,9 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 1;
 	color: #FFFFFF;
 	text-align: left;
+	line-height: 1;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -1046,9 +1046,9 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 1;
 	color: #000000;
 	text-align: left;
+	line-height: 1;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -1080,8 +1080,8 @@
 	border-color: #C4C4C4;
 	background-color: #F2F2F2;
 	padding: 6px;
-	line-height: 1;
 	color: #000000;
+	line-height: 1;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
 	font-style: italic;
