@@ -52,8 +52,8 @@
 
 .version.refer_a_friend /* version checker */
 {
-	color: #000008;
-	background-color: #0F1825;
+	color: #0000E4;
+	background-color: #E8A420;
 }
 
 #page
@@ -163,7 +163,7 @@
 	position: relative;
 	margin-right: -10000px;
 	left: 117px;
-	background: transparent url("../images/out%20of%20the%20box%20data%20security-u9076-fr.png") no-repeat center center;
+	background: transparent url("../images/out%20of%20the%20box%20data%20security-u11113-fr.png") no-repeat center center;
 	background-size: contain;
 }
 

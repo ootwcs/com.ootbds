@@ -52,8 +52,8 @@
 
 .version.enterprise_contact /* version checker */
 {
-	color: #00000F;
-	background-color: #6D7D36;
+	color: #000004;
+	background-color: #FB637B;
 }
 
 #page
@@ -609,7 +609,7 @@
 	z-index: 31;
 	min-height: 605px;
 	padding-bottom: 110px;
-	background: transparent url("../images/at%20the%20office%20mac%20apple%20wallpapers%20creative%20planning-2982192420.jpg") no-repeat center bottom;
+	background: transparent url("../images/out%20of%20the%20box%20data%20security%20business%20wallpaper.jpg") no-repeat center bottom;
 	background-size: cover;
 }
 
@@ -698,7 +698,7 @@
 	position: relative;
 	margin-right: -10000px;
 	left: 117px;
-	background: transparent url("../images/out%20of%20the%20box%20data%20security-u9076-fr.png") no-repeat center center;
+	background: transparent url("../images/out%20of%20the%20box%20data%20security-u11113-fr.png") no-repeat center center;
 	background-size: contain;
 }
 
