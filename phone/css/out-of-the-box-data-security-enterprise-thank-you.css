@@ -1,0 +1,254 @@
+.version.out_of_the_box_data_security_enterprise_thank_you /* version checker */
+{
+	color: #000001;
+	background-color: #4A047A;
+}
+
+@-ms-viewport
+{
+	width: 380px;
+}
+
+@-webkit-viewport
+{
+	width: 380px;
+}
+
+@-o-viewport
+{
+	width: 380px;
+}
+
+@-moz-viewport
+{
+	width: 380px;
+}
+
+@viewport
+{
+	width: 380px;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 380px;
+	min-height: 672px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+}
+
+#pu13692
+{
+	width: 0.01px;
+	margin-right: -10000px;
+}
+
+#u13692
+{
+	z-index: 2;
+	min-height: 540px;
+	background: transparent url("../../images/at%20the%20office%20mac%20apple%20wallpapers%20creative%20planning-2982192420.jpg") no-repeat center bottom;
+	background-size: cover;
+}
+
+#u13692_position_content
+{
+	padding-bottom: 16px;
+}
+
+#u13709
+{
+	z-index: 3;
+	width: 165px;
+	height: 154px;
+	border-style: none;
+	border-color: transparent;
+	margin-left: 108px;
+	position: relative;
+	background: transparent url("../../images/out%20of%20the%20box%20data%20security-u9076-fr.png") no-repeat center center;
+	background-size: contain;
+}
+
+#u13702
+{
+	z-index: 51;
+	width: 345px;
+	border-width: 11px;
+	border-style: solid;
+	border-color: #F3AE00;
+	background-color: #F3AE00;
+	border-radius: 10px;
+	margin-left: 6px;
+	margin-top: 320px;
+	position: relative;
+}
+
+#u13702:hover
+{
+	border-color: #BFF300;
+	background-color: #BFF300;
+	width: 345px;
+	min-height: 0px;
+	margin: 320px 0px 0px 6px;
+}
+
+#u13701-4
+{
+	z-index: 52;
+	width: 318px;
+	min-height: 40px;
+	background-color: transparent;
+	color: #FFFFFF;
+	font-size: 30px;
+	text-align: center;
+	font-family: open-sans, sans-serif;
+	font-weight: 600;
+	margin-bottom: -5px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: -6px;
+	left: 13px;
+}
+
+#u13692-bw
+{
+	z-index: 2;
+	min-height: 540px;
+}
+
+#u13707
+{
+	z-index: 4;
+	height: 303px;
+	background-color: #99ADBA;
+	background-color: rgba(88,121,142,0.61);
+	-pie-background: rgba(88,121,142,0.61);
+}
+
+#u13707-bw
+{
+	z-index: 4;
+	margin-top: 154px;
+	height: 303px;
+}
+
+#u13708-11
+{
+	z-index: 5;
+	min-height: 303px;
+	background-color: transparent;
+	color: #FFFFFF;
+	line-height: 1.4;
+	text-align: center;
+	font-family: open-sans, sans-serif;
+	font-weight: 400;
+}
+
+#u13708-2
+{
+	font-size: 48px;
+}
+
+#u13708-3,#u13708-5,#u13708-7,#u13708-9
+{
+	font-size: 30px;
+}
+
+#u13708-11-bw
+{
+	z-index: 5;
+	min-height: 303px;
+	margin-top: 154px;
+}
+
+#pu10933
+{
+	width: 0.01px;
+	margin-right: -10000px;
+	margin-top: 538px;
+}
+
+#u10933
+{
+	z-index: 16;
+	min-height: 112.88915382610116px;
+	padding: 32px 90px 0px;
+}
+
+#u11111-9
+{
+	z-index: 42;
+	width: 200px;
+	min-height: 21px;
+}
+
+#u10935-5
+{
+	z-index: 21;
+	width: 180px;
+	min-height: 18px;
+	margin-left: 10px;
+	margin-top: 2px;
+}
+
+#u10936
+{
+	z-index: 26;
+	width: 35px;
+	height: 47px;
+	margin-left: 82px;
+	margin-top: 25px;
+}
+
+#u10933-bw
+{
+	z-index: 16;
+	min-height: 112.88915382610116px;
+}
+
+#u10934-4
+{
+	z-index: 17;
+	min-height: 18px;
+}
+
+#u10934-4-bw
+{
+	z-index: 17;
+	min-height: 18px;
+	margin-top: 80px;
+}
+
+#u10937-15
+{
+	z-index: 27;
+	min-height: 22px;
+}
+
+#u10937-15-bw
+{
+	z-index: 27;
+	min-height: 22px;
+	margin-top: 7px;
+}
+
+body
+{
+	position: relative;
+	min-width: 380px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+	margin-bottom: -538px;
+}
+

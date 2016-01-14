@@ -1,7 +1,7 @@
 .version.ootbds_terms_of_service /* version checker */
 {
-	color: #0000FD;
-	background-color: #6C2EF1;
+	color: #0000FE;
+	background-color: #E02429;
 }
 
 .html
@@ -45,7 +45,8 @@
 	border-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	background: transparent url("../images/ootbdslogo1.png") no-repeat center center;
+	background: transparent url("../images/out%20of%20the%20box%20data%20security-u9076-fr.png") no-repeat center center;
+	background-size: contain;
 }
 
 #top
@@ -211,7 +212,7 @@
 
 #u11455-4
 {
-	z-index: 321;
+	z-index: 315;
 	width: 960px;
 	min-height: 69px;
 	background-color: transparent;
@@ -230,7 +231,7 @@
 
 #u11458
 {
-	z-index: 296;
+	z-index: 292;
 	width: 317px;
 	border-color: #FFFFFF;
 	background-color: #00BFF3;
@@ -250,7 +251,7 @@
 
 #u11452-4
 {
-	z-index: 297;
+	z-index: 293;
 	width: 316px;
 	min-height: 60px;
 	background-color: transparent;
@@ -262,38 +263,38 @@
 	position: relative;
 }
 
-#u11450-8
+#u11450-6
 {
-	z-index: 309;
+	z-index: 305;
 	width: 316px;
-	min-height: 84px;
+	min-height: 97px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	margin-top: 13px;
+	font-weight: 400;
 	position: relative;
 }
 
-#u11450-8:hover
+#u11450-6:hover
 {
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
 	padding-top: 0px;
 	padding-bottom: 0px;
-	min-height: 84px;
+	min-height: 97px;
 	width: 316px;
-	margin: 13px 0px 0px;
+	margin: 0px;
 }
 
 #u11462-4
 {
-	z-index: 317;
+	z-index: 311;
 	width: 136px;
 	min-height: 36px;
 	background-color: transparent;
 	color: #000000;
-	font-size: 24px;
+	font-size: 30px;
 	text-align: center;
 	font-family: open-sans, sans-serif;
 	font-weight: 600;
@@ -304,7 +305,7 @@
 
 #u11463
 {
-	z-index: 283;
+	z-index: 281;
 	width: 317px;
 	border-color: #FFFFFF;
 	background-color: #F3AE00;
@@ -325,7 +326,7 @@
 
 #u11464-4
 {
-	z-index: 301;
+	z-index: 297;
 	width: 317px;
 	min-height: 60px;
 	background-color: transparent;
@@ -337,32 +338,26 @@
 	position: relative;
 }
 
-#u11457-8
+#u11457-6
 {
-	z-index: 284;
+	z-index: 282;
 	width: 317px;
-	min-height: 84px;
+	min-height: 97px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	margin-top: 13px;
+	font-weight: 400;
 	position: relative;
-}
-
-#u11450-4,#u11450-6,#u11457-4,#u11457-6
-{
-	font-size: 18px;
-	color: #000000;
 }
 
 #u11456-4
 {
-	z-index: 292;
+	z-index: 288;
 	width: 136px;
 	min-height: 36px;
 	background-color: transparent;
 	color: #000000;
-	font-size: 24px;
+	font-size: 30px;
 	text-align: center;
 	font-family: open-sans, sans-serif;
 	font-weight: 600;
@@ -419,7 +414,7 @@
 
 #u11461-4
 {
-	z-index: 305;
+	z-index: 301;
 	width: 317px;
 	min-height: 60px;
 	background-color: transparent;
@@ -431,64 +426,56 @@
 	position: relative;
 }
 
-#u11460-8
+#u11460-6
 {
 	z-index: 271;
 	width: 317px;
-	min-height: 84px;
+	min-height: 97px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	margin-top: 13px;
+	font-weight: 400;
 	position: relative;
 }
 
-#u11457-8:hover,#u11460-8:hover
+#u11457-6:hover,#u11460-6:hover
 {
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
 	padding-top: 0px;
 	padding-bottom: 0px;
-	min-height: 84px;
+	min-height: 97px;
 	width: 317px;
-	margin: 13px 0px 0px;
+	margin: 0px;
 }
 
-#u11460-8:active
+#u11460-6:active
 {
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
 	padding-top: 0px;
 	padding-bottom: 0px;
-	min-height: 84px;
+	min-height: 97px;
 	width: 317px;
-	margin: 13px 0px 0px;
+	margin: 0px;
 }
 
-#u11450-2,#u11457-2,#u11460-2
+#u11450-2,#u11450-4,#u11457-2,#u11457-4,#u11460-2,#u11460-4
 {
-	font-size: 18px;
+	font-size: 30px;
 	color: #000000;
-	font-weight: 400;
-}
-
-#u11460-4,#u11460-6
-{
-	font-size: 18px;
-	color: #000000;
-	font-weight: 300;
 }
 
 #u11453-4
 {
-	z-index: 279;
+	z-index: 277;
 	width: 208px;
 	min-height: 36px;
 	background-color: transparent;
 	color: #000000;
-	font-size: 24px;
+	font-size: 30px;
 	text-align: center;
 	font-family: open-sans, sans-serif;
 	font-weight: 600;
@@ -506,7 +493,7 @@
 	margin: 14px 0px 0px 54px;
 }
 
-#u11450-8:hover p,#u11462-4:hover p,#u11457-8:hover p,#u11456-4:hover p,#u11453-4:hover p
+#u11450-6:hover p,#u11462-4:hover p,#u11457-6:hover p,#u11456-4:hover p,#u11453-4:hover p
 {
 	color: #000000;
 	visibility: inherit;
@@ -521,7 +508,7 @@
 
 #u11449
 {
-	z-index: 329;
+	z-index: 323;
 	width: 220px;
 	height: 57px;
 	position: relative;
@@ -533,7 +520,7 @@
 
 #u11451-4
 {
-	z-index: 325;
+	z-index: 319;
 	width: 137px;
 	min-height: 21px;
 	background-color: transparent;
@@ -548,7 +535,7 @@
 
 #u11459
 {
-	z-index: 330;
+	z-index: 324;
 	width: 220px;
 	height: 57px;
 	position: relative;
@@ -580,7 +567,7 @@
 
 #u11446-4
 {
-	z-index: 332;
+	z-index: 326;
 	width: 22px;
 	min-height: 22px;
 	background-color: transparent;

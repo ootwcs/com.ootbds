@@ -1,7 +1,7 @@
 .version.out_of_the_box_data_security_contact_us_thank_you /* version checker */
 {
-	color: #0000E3;
-	background-color: #2E9853;
+	color: #000019;
+	background-color: #8C5FE2;
 }
 
 @-ms-viewport
@@ -82,8 +82,9 @@
 	border-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	left: 107px;
-	background: transparent url("../../images/ootbdslogo1.png") no-repeat center center;
+	left: 108px;
+	background: transparent url("../../images/out%20of%20the%20box%20data%20security-u9076-fr.png") no-repeat center center;
+	background-size: contain;
 }
 
 #u12479-13

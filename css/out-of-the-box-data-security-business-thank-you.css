@@ -1,7 +1,7 @@
 .version.out_of_the_box_data_security_business_thank_you /* version checker */
 {
-	color: #000004;
-	background-color: #C2D921;
+	color: #000010;
+	background-color: #104256;
 }
 
 .html
@@ -169,7 +169,7 @@
 
 #u11951-4
 {
-	z-index: 107;
+	z-index: 101;
 	width: 960px;
 	min-height: 69px;
 	background-color: transparent;
@@ -188,7 +188,7 @@
 
 #u11955
 {
-	z-index: 82;
+	z-index: 78;
 	width: 317px;
 	border-color: #FFFFFF;
 	background-color: #00BFF3;
@@ -208,7 +208,7 @@
 
 #u11965-4
 {
-	z-index: 83;
+	z-index: 79;
 	width: 316px;
 	min-height: 60px;
 	background-color: transparent;
@@ -220,38 +220,38 @@
 	position: relative;
 }
 
-#u11956-8
+#u11956-6
 {
-	z-index: 95;
+	z-index: 91;
 	width: 316px;
-	min-height: 84px;
+	min-height: 97px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	margin-top: 13px;
+	font-weight: 400;
 	position: relative;
 }
 
-#u11956-8:hover
+#u11956-6:hover
 {
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
 	padding-top: 0px;
 	padding-bottom: 0px;
-	min-height: 84px;
+	min-height: 97px;
 	width: 316px;
-	margin: 13px 0px 0px;
+	margin: 0px;
 }
 
 #u11961-4
 {
-	z-index: 103;
+	z-index: 97;
 	width: 136px;
 	min-height: 36px;
 	background-color: transparent;
 	color: #000000;
-	font-size: 24px;
+	font-size: 30px;
 	text-align: center;
 	font-family: open-sans, sans-serif;
 	font-weight: 600;
@@ -262,7 +262,7 @@
 
 #u11954
 {
-	z-index: 69;
+	z-index: 67;
 	width: 317px;
 	border-color: #FFFFFF;
 	background-color: #F3AE00;
@@ -283,7 +283,7 @@
 
 #u11957-4
 {
-	z-index: 87;
+	z-index: 83;
 	width: 317px;
 	min-height: 60px;
 	background-color: transparent;
@@ -295,32 +295,26 @@
 	position: relative;
 }
 
-#u11962-8
+#u11962-6
 {
-	z-index: 70;
+	z-index: 68;
 	width: 317px;
-	min-height: 84px;
+	min-height: 97px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	margin-top: 13px;
+	font-weight: 400;
 	position: relative;
-}
-
-#u11956-4,#u11956-6,#u11962-4,#u11962-6
-{
-	font-size: 18px;
-	color: #000000;
 }
 
 #u11966-4
 {
-	z-index: 78;
+	z-index: 74;
 	width: 136px;
 	min-height: 36px;
 	background-color: transparent;
 	color: #000000;
-	font-size: 24px;
+	font-size: 30px;
 	text-align: center;
 	font-family: open-sans, sans-serif;
 	font-weight: 600;
@@ -377,7 +371,7 @@
 
 #u11952-4
 {
-	z-index: 91;
+	z-index: 87;
 	width: 317px;
 	min-height: 60px;
 	background-color: transparent;
@@ -389,64 +383,56 @@
 	position: relative;
 }
 
-#u11958-8
+#u11958-6
 {
 	z-index: 57;
 	width: 317px;
-	min-height: 84px;
+	min-height: 97px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	margin-top: 13px;
+	font-weight: 400;
 	position: relative;
 }
 
-#u11962-8:hover,#u11958-8:hover
+#u11962-6:hover,#u11958-6:hover
 {
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
 	padding-top: 0px;
 	padding-bottom: 0px;
-	min-height: 84px;
+	min-height: 97px;
 	width: 317px;
-	margin: 13px 0px 0px;
+	margin: 0px;
 }
 
-#u11958-8:active
+#u11958-6:active
 {
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
 	padding-top: 0px;
 	padding-bottom: 0px;
-	min-height: 84px;
+	min-height: 97px;
 	width: 317px;
-	margin: 13px 0px 0px;
+	margin: 0px;
 }
 
-#u11956-2,#u11962-2,#u11958-2
+#u11956-2,#u11956-4,#u11962-2,#u11962-4,#u11958-2,#u11958-4
 {
-	font-size: 18px;
+	font-size: 30px;
 	color: #000000;
-	font-weight: 400;
-}
-
-#u11958-4,#u11958-6
-{
-	font-size: 18px;
-	color: #000000;
-	font-weight: 300;
 }
 
 #u11959-4
 {
-	z-index: 65;
+	z-index: 63;
 	width: 208px;
 	min-height: 36px;
 	background-color: transparent;
 	color: #000000;
-	font-size: 24px;
+	font-size: 30px;
 	text-align: center;
 	font-family: open-sans, sans-serif;
 	font-weight: 600;
@@ -464,7 +450,7 @@
 	margin: 14px 0px 0px 54px;
 }
 
-#u11956-8:hover p,#u11961-4:hover p,#u11962-8:hover p,#u11966-4:hover p,#u11959-4:hover p
+#u11956-6:hover p,#u11961-4:hover p,#u11962-6:hover p,#u11966-4:hover p,#u11959-4:hover p
 {
 	color: #000000;
 	visibility: inherit;
@@ -479,7 +465,7 @@
 
 #u11960
 {
-	z-index: 115;
+	z-index: 109;
 	width: 220px;
 	height: 57px;
 	position: relative;
@@ -491,7 +477,7 @@
 
 #u11963-4
 {
-	z-index: 111;
+	z-index: 105;
 	width: 137px;
 	min-height: 21px;
 	background-color: transparent;
@@ -506,7 +492,7 @@
 
 #u11964
 {
-	z-index: 116;
+	z-index: 110;
 	width: 220px;
 	height: 57px;
 	position: relative;
@@ -538,7 +524,7 @@
 
 #u11948-4
 {
-	z-index: 118;
+	z-index: 112;
 	width: 22px;
 	min-height: 22px;
 	background-color: transparent;
@@ -605,7 +591,7 @@
 
 #u11991
 {
-	z-index: 130;
+	z-index: 124;
 	width: 345px;
 	border-width: 11px;
 	border-style: solid;
@@ -629,7 +615,7 @@
 
 #u11992-4
 {
-	z-index: 131;
+	z-index: 125;
 	width: 318px;
 	min-height: 40px;
 	background-color: transparent;
@@ -702,7 +688,8 @@
 	position: relative;
 	margin-right: -10000px;
 	left: 117px;
-	background: transparent url("../images/ootbdslogo1.png") no-repeat center center;
+	background: transparent url("../images/out%20of%20the%20box%20data%20security-u9076-fr.png") no-repeat center center;
+	background-size: contain;
 }
 
 #u11974-4
@@ -722,7 +709,7 @@
 
 #u11936-8
 {
-	z-index: 122;
+	z-index: 116;
 	width: 960px;
 	min-height: 180px;
 	background-color: transparent;

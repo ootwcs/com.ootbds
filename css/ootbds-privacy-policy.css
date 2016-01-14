@@ -1,7 +1,7 @@
 .version.ootbds_privacy_policy /* version checker */
 {
-	color: #000015;
-	background-color: #3FD9D3;
+	color: #0000EB;
+	background-color: #C44CD4;
 }
 
 .html
@@ -45,7 +45,8 @@
 	border-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	background: transparent url("../images/ootbdslogo1.png") no-repeat center center;
+	background: transparent url("../images/out%20of%20the%20box%20data%20security-u9076-fr.png") no-repeat center center;
+	background-size: contain;
 }
 
 #top
@@ -212,7 +213,7 @@
 
 #u11427-4
 {
-	z-index: 340;
+	z-index: 334;
 	width: 960px;
 	min-height: 69px;
 	background-color: transparent;
@@ -231,7 +232,7 @@
 
 #u11430
 {
-	z-index: 315;
+	z-index: 311;
 	width: 317px;
 	border-color: #FFFFFF;
 	background-color: #00BFF3;
@@ -251,7 +252,7 @@
 
 #u11424-4
 {
-	z-index: 316;
+	z-index: 312;
 	width: 316px;
 	min-height: 60px;
 	background-color: transparent;
@@ -263,38 +264,38 @@
 	position: relative;
 }
 
-#u11422-8
+#u11422-6
 {
-	z-index: 328;
+	z-index: 324;
 	width: 316px;
-	min-height: 84px;
+	min-height: 97px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	margin-top: 13px;
+	font-weight: 400;
 	position: relative;
 }
 
-#u11422-8:hover
+#u11422-6:hover
 {
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
 	padding-top: 0px;
 	padding-bottom: 0px;
-	min-height: 84px;
+	min-height: 97px;
 	width: 316px;
-	margin: 13px 0px 0px;
+	margin: 0px;
 }
 
 #u11434-4
 {
-	z-index: 336;
+	z-index: 330;
 	width: 136px;
 	min-height: 36px;
 	background-color: transparent;
 	color: #000000;
-	font-size: 24px;
+	font-size: 30px;
 	text-align: center;
 	font-family: open-sans, sans-serif;
 	font-weight: 600;
@@ -305,7 +306,7 @@
 
 #u11435
 {
-	z-index: 302;
+	z-index: 300;
 	width: 317px;
 	border-color: #FFFFFF;
 	background-color: #F3AE00;
@@ -326,7 +327,7 @@
 
 #u11436-4
 {
-	z-index: 320;
+	z-index: 316;
 	width: 317px;
 	min-height: 60px;
 	background-color: transparent;
@@ -338,32 +339,26 @@
 	position: relative;
 }
 
-#u11429-8
+#u11429-6
 {
-	z-index: 303;
+	z-index: 301;
 	width: 317px;
-	min-height: 84px;
+	min-height: 97px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	margin-top: 13px;
+	font-weight: 400;
 	position: relative;
-}
-
-#u11422-4,#u11422-6,#u11429-4,#u11429-6
-{
-	font-size: 18px;
-	color: #000000;
 }
 
 #u11428-4
 {
-	z-index: 311;
+	z-index: 307;
 	width: 136px;
 	min-height: 36px;
 	background-color: transparent;
 	color: #000000;
-	font-size: 24px;
+	font-size: 30px;
 	text-align: center;
 	font-family: open-sans, sans-serif;
 	font-weight: 600;
@@ -420,7 +415,7 @@
 
 #u11433-4
 {
-	z-index: 324;
+	z-index: 320;
 	width: 317px;
 	min-height: 60px;
 	background-color: transparent;
@@ -432,64 +427,56 @@
 	position: relative;
 }
 
-#u11432-8
+#u11432-6
 {
 	z-index: 290;
 	width: 317px;
-	min-height: 84px;
+	min-height: 97px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	margin-top: 13px;
+	font-weight: 400;
 	position: relative;
 }
 
-#u11429-8:hover,#u11432-8:hover
+#u11429-6:hover,#u11432-6:hover
 {
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
 	padding-top: 0px;
 	padding-bottom: 0px;
-	min-height: 84px;
+	min-height: 97px;
 	width: 317px;
-	margin: 13px 0px 0px;
+	margin: 0px;
 }
 
-#u11432-8:active
+#u11432-6:active
 {
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
 	padding-top: 0px;
 	padding-bottom: 0px;
-	min-height: 84px;
+	min-height: 97px;
 	width: 317px;
-	margin: 13px 0px 0px;
+	margin: 0px;
 }
 
-#u11422-2,#u11429-2,#u11432-2
+#u11422-2,#u11422-4,#u11429-2,#u11429-4,#u11432-2,#u11432-4
 {
-	font-size: 18px;
+	font-size: 30px;
 	color: #000000;
-	font-weight: 400;
-}
-
-#u11432-4,#u11432-6
-{
-	font-size: 18px;
-	color: #000000;
-	font-weight: 300;
 }
 
 #u11425-4
 {
-	z-index: 298;
+	z-index: 296;
 	width: 208px;
 	min-height: 36px;
 	background-color: transparent;
 	color: #000000;
-	font-size: 24px;
+	font-size: 30px;
 	text-align: center;
 	font-family: open-sans, sans-serif;
 	font-weight: 600;
@@ -507,7 +494,7 @@
 	margin: 14px 0px 0px 54px;
 }
 
-#u11422-8:hover p,#u11434-4:hover p,#u11429-8:hover p,#u11428-4:hover p,#u11425-4:hover p
+#u11422-6:hover p,#u11434-4:hover p,#u11429-6:hover p,#u11428-4:hover p,#u11425-4:hover p
 {
 	color: #000000;
 	visibility: inherit;
@@ -522,7 +509,7 @@
 
 #u11421
 {
-	z-index: 348;
+	z-index: 342;
 	width: 220px;
 	height: 57px;
 	position: relative;
@@ -534,7 +521,7 @@
 
 #u11423-4
 {
-	z-index: 344;
+	z-index: 338;
 	width: 137px;
 	min-height: 21px;
 	background-color: transparent;
@@ -549,7 +536,7 @@
 
 #u11431
 {
-	z-index: 349;
+	z-index: 343;
 	width: 220px;
 	height: 57px;
 	position: relative;
@@ -581,7 +568,7 @@
 
 #u11418-4
 {
-	z-index: 351;
+	z-index: 345;
 	width: 22px;
 	min-height: 22px;
 	background-color: transparent;

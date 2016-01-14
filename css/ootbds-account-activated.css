@@ -1,7 +1,7 @@
 .version.ootbds_account_activated /* version checker */
 {
-	color: #0000EE;
-	background-color: #21D8D5;
+	color: #000014;
+	background-color: #56DA84;
 }
 
 .html
@@ -36,7 +36,7 @@
 	height: 320px;
 	margin-left: 313px;
 	position: relative;
-	background: transparent url("../images/ootbdslogoalpha-u9530-fr.png") no-repeat center center;
+	background: transparent url("../images/out%20of%20the%20box%20data%20security-u9530-fr.png") no-repeat center center;
 	background-size: cover;
 }
 

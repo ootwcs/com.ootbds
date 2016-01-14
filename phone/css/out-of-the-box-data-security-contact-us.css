@@ -52,8 +52,8 @@
 
 .version.out_of_the_box_data_security_contact_us /* version checker */
 {
-	color: #000002;
-	background-color: #C56021;
+	color: #0000EF;
+	background-color: #3B263E;
 }
 
 @-ms-viewport
@@ -129,8 +129,9 @@
 	border-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	left: 107px;
-	background: transparent url("../../images/ootbdslogo1.png") no-repeat center center;
+	left: 108px;
+	background: transparent url("../../images/out%20of%20the%20box%20data%20security-u9076-fr.png") no-repeat center center;
+	background-size: contain;
 }
 
 #u11104-4
@@ -231,8 +232,8 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	color: #000000;
 	line-height: 1;
+	color: #000000;
 	text-align: left;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
@@ -349,8 +350,8 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	color: #000000;
 	line-height: 1;
+	color: #000000;
 	text-align: left;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
@@ -446,8 +447,8 @@
 #widgetu12411.frm-sub-st #u12430-4 p
 {
 	color: #999999;
-	font-size: 14px;
 	line-height: 1;
+	font-size: 14px;
 	font-family: open-sans, sans-serif;
 	font-weight: 400;
 	font-style: italic;
@@ -477,8 +478,8 @@
 #widgetu12411.frm-subm-err-st #u12420-4 p
 {
 	color: #D7244C;
-	font-size: 14px;
 	line-height: 1;
+	font-size: 14px;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
 	font-style: normal;
@@ -494,8 +495,8 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
 	padding-top: 4px;
-	color: #25FFAA;
 	line-height: 1;
+	color: #25FFAA;
 	font-size: 12px;
 	font-family: open-sans, sans-serif;
 	font-weight: 400;
@@ -581,8 +582,8 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	color: #000000;
 	line-height: 1;
+	color: #000000;
 	text-align: left;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
@@ -688,8 +689,8 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	color: #000000;
 	line-height: 1;
+	color: #000000;
 	text-align: left;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
@@ -892,8 +893,8 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	color: #FFFFFF;
 	line-height: 1;
+	color: #FFFFFF;
 	text-align: left;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
@@ -1045,8 +1046,8 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	color: #000000;
 	line-height: 1;
+	color: #000000;
 	text-align: left;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;

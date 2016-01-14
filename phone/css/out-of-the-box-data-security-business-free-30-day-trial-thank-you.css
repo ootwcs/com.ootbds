@@ -1,7 +1,7 @@
 .version.out_of_the_box_data_security_business_free_30_day_trial_thank_you /* version checker */
 {
-	color: #0000E4;
-	background-color: #5A4131;
+	color: #00001E;
+	background-color: #28C250;
 }
 
 @-ms-viewport
@@ -71,9 +71,10 @@
 	height: 154px;
 	border-style: none;
 	border-color: transparent;
-	margin-left: 107px;
+	margin-left: 108px;
 	position: relative;
-	background: transparent url("../../images/ootbdslogo1.png") no-repeat center center;
+	background: transparent url("../../images/out%20of%20the%20box%20data%20security-u9076-fr.png") no-repeat center center;
+	background-size: contain;
 }
 
 #u12407

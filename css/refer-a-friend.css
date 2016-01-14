@@ -1,12 +1,12 @@
-.recaptcha_isnot_showing_audio #u12810.mode-image
-{
-	background: transparent url("../images/recaptchamodeaudio.png") no-repeat center center;
-	background-size: contain;
-}
-
 .recaptcha_is_showing_audio #u12810.mode-audio
 {
 	background: transparent url("../images/recaptchamodeimage.png") no-repeat center center;
+	background-size: contain;
+}
+
+.recaptcha_isnot_showing_audio #u12810.mode-image
+{
+	background: transparent url("../images/recaptchamodeaudio.png") no-repeat center center;
 	background-size: contain;
 }
 
@@ -52,8 +52,8 @@
 
 .version.refer_a_friend /* version checker */
 {
-	color: #000007;
-	background-color: #8FFC26;
+	color: #000008;
+	background-color: #0F1825;
 }
 
 #page
@@ -163,7 +163,8 @@
 	position: relative;
 	margin-right: -10000px;
 	left: 117px;
-	background: transparent url("../images/ootbdslogo1.png") no-repeat center center;
+	background: transparent url("../images/out%20of%20the%20box%20data%20security-u9076-fr.png") no-repeat center center;
+	background-size: contain;
 }
 
 #u12697-6
@@ -235,8 +236,8 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	color: #000000;
 	line-height: 1;
+	color: #000000;
 	text-align: left;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
@@ -330,8 +331,8 @@
 	opacity: 0;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
-	color: #999999;
 	line-height: 1;
+	color: #999999;
 	text-align: right;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	font-weight: normal;
@@ -372,8 +373,8 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	color: #000000;
 	line-height: 1;
+	color: #000000;
 	text-align: left;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
@@ -456,8 +457,8 @@
 	opacity: 0;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
-	color: #999999;
 	line-height: 1;
+	color: #999999;
 	text-align: right;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	font-weight: normal;
@@ -489,8 +490,8 @@
 #widgetu12698.frm-sub-st #u12725-4 p
 {
 	color: #FFFFFF;
-	font-size: 14px;
 	line-height: 1;
+	font-size: 14px;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
 	font-style: italic;
@@ -520,8 +521,8 @@
 #widgetu12698.frm-subm-err-st #u12734-4 p
 {
 	color: #D7244C;
-	font-size: 14px;
 	line-height: 1;
+	font-size: 14px;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
 	font-style: italic;
@@ -537,8 +538,8 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
 	padding-top: 4px;
-	color: #00FF00;
 	line-height: 1;
+	color: #00FF00;
 	font-size: 12px;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
@@ -623,8 +624,8 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	color: #000000;
 	line-height: 1;
+	color: #000000;
 	text-align: left;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
@@ -707,8 +708,8 @@
 	opacity: 0;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
-	color: #999999;
 	line-height: 1;
+	color: #999999;
 	text-align: right;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	font-weight: normal;
@@ -749,8 +750,8 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	color: #000000;
 	line-height: 1;
+	color: #000000;
 	text-align: left;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
@@ -833,8 +834,8 @@
 	opacity: 0;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
-	color: #999999;
 	line-height: 1;
+	color: #999999;
 	text-align: right;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	font-weight: normal;
@@ -875,8 +876,8 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	color: #000000;
 	line-height: 1;
+	color: #000000;
 	text-align: left;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
@@ -959,8 +960,8 @@
 	opacity: 0;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
-	color: #999999;
 	line-height: 1;
+	color: #999999;
 	text-align: right;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	font-weight: normal;
@@ -1001,8 +1002,8 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	color: #000000;
 	line-height: 1;
+	color: #000000;
 	text-align: left;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
@@ -1085,8 +1086,8 @@
 	opacity: 0;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
-	color: #999999;
 	line-height: 1;
+	color: #999999;
 	text-align: right;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	font-weight: normal;
@@ -1127,8 +1128,8 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	color: #000000;
 	line-height: 1;
+	color: #000000;
 	text-align: left;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
@@ -1220,8 +1221,8 @@
 	opacity: 0;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
-	color: #999999;
 	line-height: 1;
+	color: #999999;
 	text-align: right;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	font-weight: normal;
@@ -1334,8 +1335,8 @@
 	opacity: 0;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
-	color: #999999;
 	line-height: 1;
+	color: #999999;
 	text-align: right;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	font-weight: normal;
@@ -1442,8 +1443,8 @@
 	opacity: 0;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
-	color: #999999;
 	line-height: 1;
+	color: #999999;
 	text-align: right;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	font-weight: normal;
@@ -1550,8 +1551,8 @@
 	opacity: 0;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
-	color: #999999;
 	line-height: 1;
+	color: #999999;
 	text-align: right;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	font-weight: normal;
@@ -1658,8 +1659,8 @@
 	opacity: 0;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
-	color: #999999;
 	line-height: 1;
+	color: #999999;
 	text-align: right;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	font-weight: normal;
@@ -1777,8 +1778,8 @@
 	opacity: 0;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
-	color: #999999;
 	line-height: 1;
+	color: #999999;
 	text-align: right;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	font-weight: normal;
@@ -1818,8 +1819,8 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	color: #FFFFFF;
 	line-height: 1;
+	color: #FFFFFF;
 	text-align: left;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
@@ -1852,8 +1853,8 @@
 	opacity: 0;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
-	color: #999999;
 	line-height: 1;
+	color: #999999;
 	text-align: right;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	font-weight: normal;
@@ -1895,23 +1896,6 @@
 	background-size: contain;
 }
 
-#u12786 input.not_checked:active + label
-{
-	width: 16px;
-	height: 16px;
-	min-height: 0px;
-	background: transparent url("../images/checkboxuncheckedmousedown.jpg") no-repeat center center;
-	background-size: contain;
-}
-#u12786 input:not(:checked):active + label
-{
-	width: 16px;
-	height: 16px;
-	min-height: 0px;
-	background: transparent url("../images/checkboxuncheckedmousedown.jpg") no-repeat center center;
-	background-size: contain;
-}
-
 #u12786 input.checked:active + label
 {
 	width: 16px;
@@ -1926,6 +1910,23 @@
 	height: 16px;
 	min-height: 0px;
 	background: transparent url("../images/checkboxcheckedmousedown.jpg") no-repeat center center;
+	background-size: contain;
+}
+
+#u12786 input.not_checked:active + label
+{
+	width: 16px;
+	height: 16px;
+	min-height: 0px;
+	background: transparent url("../images/checkboxuncheckedmousedown.jpg") no-repeat center center;
+	background-size: contain;
+}
+#u12786 input:not(:checked):active + label
+{
+	width: 16px;
+	height: 16px;
+	min-height: 0px;
+	background: transparent url("../images/checkboxuncheckedmousedown.jpg") no-repeat center center;
 	background-size: contain;
 }
 
@@ -2078,8 +2079,8 @@
 	opacity: 0;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
-	color: #999999;
 	line-height: 1;
+	color: #999999;
 	text-align: right;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	font-weight: normal;
@@ -2435,7 +2436,7 @@
 
 #u12655-4
 {
-	z-index: 308;
+	z-index: 303;
 	width: 960px;
 	min-height: 69px;
 	background-color: transparent;
@@ -2454,7 +2455,7 @@
 
 #u12652
 {
-	z-index: 283;
+	z-index: 280;
 	width: 317px;
 	border-color: #FFFFFF;
 	background-color: #00BFF3;
@@ -2474,7 +2475,7 @@
 
 #u12659-4
 {
-	z-index: 284;
+	z-index: 281;
 	width: 316px;
 	min-height: 60px;
 	background-color: transparent;
@@ -2486,38 +2487,38 @@
 	position: relative;
 }
 
-#u12647-8
+#u12647-6
 {
-	z-index: 296;
+	z-index: 293;
 	width: 316px;
-	min-height: 84px;
+	min-height: 97px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	margin-top: 13px;
+	font-weight: 400;
 	position: relative;
 }
 
-#u12647-8:hover
+#u12647-6:hover
 {
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
 	padding-top: 0px;
 	padding-bottom: 0px;
-	min-height: 84px;
+	min-height: 97px;
 	width: 316px;
-	margin: 13px 0px 0px;
+	margin: 0px;
 }
 
 #u12650-4
 {
-	z-index: 304;
+	z-index: 299;
 	width: 136px;
 	min-height: 36px;
 	background-color: transparent;
 	color: #000000;
-	font-size: 24px;
+	font-size: 30px;
 	text-align: center;
 	font-family: open-sans, sans-serif;
 	font-weight: 600;
@@ -2528,7 +2529,7 @@
 
 #u12653
 {
-	z-index: 270;
+	z-index: 269;
 	width: 317px;
 	border-color: #FFFFFF;
 	background-color: #F3AE00;
@@ -2549,7 +2550,7 @@
 
 #u12651-4
 {
-	z-index: 288;
+	z-index: 285;
 	width: 317px;
 	min-height: 60px;
 	background-color: transparent;
@@ -2561,32 +2562,32 @@
 	position: relative;
 }
 
-#u12656-8
+#u12656-6
 {
-	z-index: 271;
+	z-index: 270;
 	width: 317px;
-	min-height: 84px;
+	min-height: 97px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	margin-top: 13px;
+	font-weight: 400;
 	position: relative;
 }
 
-#u12647-4,#u12647-6,#u12656-4,#u12656-6
+#u12647-2,#u12647-4,#u12656-2,#u12656-4
 {
-	font-size: 18px;
+	font-size: 30px;
 	color: #000000;
 }
 
 #u12644-4
 {
-	z-index: 279;
+	z-index: 276;
 	width: 136px;
 	min-height: 36px;
 	background-color: transparent;
 	color: #000000;
-	font-size: 24px;
+	font-size: 30px;
 	text-align: center;
 	font-family: open-sans, sans-serif;
 	font-weight: 600;
@@ -2643,7 +2644,7 @@
 
 #u12658-4
 {
-	z-index: 292;
+	z-index: 289;
 	width: 317px;
 	min-height: 60px;
 	background-color: transparent;
@@ -2655,64 +2656,75 @@
 	position: relative;
 }
 
-#u12654-8
+#u12654-7
 {
 	z-index: 258;
 	width: 317px;
-	min-height: 84px;
+	min-height: 97px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	margin-top: 13px;
 	position: relative;
 }
 
-#u12656-8:hover,#u12654-8:hover
+#u12656-6:hover,#u12654-7:hover
 {
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
 	padding-top: 0px;
 	padding-bottom: 0px;
-	min-height: 84px;
+	min-height: 97px;
 	width: 317px;
-	margin: 13px 0px 0px;
+	margin: 0px;
 }
 
-#u12654-8:active
+#u12654-7:active
 {
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
 	padding-top: 0px;
 	padding-bottom: 0px;
-	min-height: 84px;
+	min-height: 97px;
 	width: 317px;
-	margin: 13px 0px 0px;
+	margin: 0px;
 }
 
-#u12647-2,#u12656-2,#u12654-2
+#u12654-2
 {
-	font-size: 18px;
+	font-size: 30px;
 	color: #000000;
 	font-weight: 400;
 }
 
-#u12654-4,#u12654-6
+#u12654-5
 {
 	font-size: 18px;
 	color: #000000;
 	font-weight: 300;
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u12654-5  span /* line-height set on spans of mixed font sized paras */
+{
+	line-height: 1.4;
+}
+
+#u12654-3
+{
+	font-size: 30px;
+	font-weight: 400;
 }
 
 #u12645-4
 {
-	z-index: 266;
+	z-index: 265;
 	width: 208px;
 	min-height: 36px;
 	background-color: transparent;
 	color: #000000;
-	font-size: 24px;
+	font-size: 30px;
 	text-align: center;
 	font-family: open-sans, sans-serif;
 	font-weight: 600;
@@ -2730,7 +2742,7 @@
 	margin: 14px 0px 0px 54px;
 }
 
-#u12647-8:hover p,#u12650-4:hover p,#u12656-8:hover p,#u12644-4:hover p,#u12645-4:hover p
+#u12647-6:hover p,#u12650-4:hover p,#u12656-6:hover p,#u12644-4:hover p,#u12645-4:hover p
 {
 	color: #000000;
 	visibility: inherit;
@@ -2745,7 +2757,7 @@
 
 #u12657
 {
-	z-index: 316;
+	z-index: 311;
 	width: 220px;
 	height: 57px;
 	position: relative;
@@ -2757,7 +2769,7 @@
 
 #u12649-4
 {
-	z-index: 312;
+	z-index: 307;
 	width: 137px;
 	min-height: 21px;
 	background-color: transparent;
@@ -2772,14 +2784,14 @@
 
 #u12648
 {
-	z-index: 317;
+	z-index: 312;
 	width: 220px;
 	height: 57px;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 10px;
 	left: 644px;
-	background: transparent url("../images/appstore-u12648-fr.png") no-repeat center center;
+	background: transparent url("../images/appstore-u10767-fr.png") no-repeat center center;
 	background-size: contain;
 }
 
@@ -2803,7 +2815,7 @@
 
 #u12641-4
 {
-	z-index: 319;
+	z-index: 314;
 	width: 22px;
 	min-height: 22px;
 	background-color: transparent;

@@ -1,7 +1,7 @@
 .version.refer_a_friend_thank_you /* version checker */
 {
-	color: #0000E6;
-	background-color: #119C52;
+	color: #00000F;
+	background-color: #8EB756;
 }
 
 .html
@@ -65,7 +65,7 @@
 
 #u13003
 {
-	z-index: 125;
+	z-index: 119;
 	width: 345px;
 	border-width: 11px;
 	border-style: solid;
@@ -89,7 +89,7 @@
 
 #u13004-4
 {
-	z-index: 126;
+	z-index: 120;
 	width: 318px;
 	min-height: 40px;
 	background-color: transparent;
@@ -168,7 +168,8 @@
 	position: relative;
 	margin-right: -10000px;
 	left: 117px;
-	background: transparent url("../images/ootbdslogo1.png") no-repeat center center;
+	background: transparent url("../images/out%20of%20the%20box%20data%20security-u9076-fr.png") no-repeat center center;
+	background-size: contain;
 }
 
 #u12994-8
@@ -345,7 +346,7 @@
 
 #u12882-4
 {
-	z-index: 110;
+	z-index: 104;
 	width: 960px;
 	min-height: 69px;
 	background-color: transparent;
@@ -364,7 +365,7 @@
 
 #u12877
 {
-	z-index: 85;
+	z-index: 81;
 	width: 317px;
 	border-color: #FFFFFF;
 	background-color: #00BFF3;
@@ -384,7 +385,7 @@
 
 #u12880-4
 {
-	z-index: 86;
+	z-index: 82;
 	width: 316px;
 	min-height: 60px;
 	background-color: transparent;
@@ -396,38 +397,38 @@
 	position: relative;
 }
 
-#u12888-8
+#u12888-6
 {
-	z-index: 98;
+	z-index: 94;
 	width: 316px;
-	min-height: 84px;
+	min-height: 97px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	margin-top: 13px;
+	font-weight: 400;
 	position: relative;
 }
 
-#u12888-8:hover
+#u12888-6:hover
 {
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
 	padding-top: 0px;
 	padding-bottom: 0px;
-	min-height: 84px;
+	min-height: 97px;
 	width: 316px;
-	margin: 13px 0px 0px;
+	margin: 0px;
 }
 
 #u12889-4
 {
-	z-index: 106;
+	z-index: 100;
 	width: 136px;
 	min-height: 36px;
 	background-color: transparent;
 	color: #000000;
-	font-size: 24px;
+	font-size: 30px;
 	text-align: center;
 	font-family: open-sans, sans-serif;
 	font-weight: 600;
@@ -438,7 +439,7 @@
 
 #u12886
 {
-	z-index: 72;
+	z-index: 70;
 	width: 317px;
 	border-color: #FFFFFF;
 	background-color: #F3AE00;
@@ -459,7 +460,7 @@
 
 #u12883-4
 {
-	z-index: 90;
+	z-index: 86;
 	width: 317px;
 	min-height: 60px;
 	background-color: transparent;
@@ -471,32 +472,26 @@
 	position: relative;
 }
 
-#u12885-8
+#u12885-6
 {
-	z-index: 73;
+	z-index: 71;
 	width: 317px;
-	min-height: 84px;
+	min-height: 97px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	margin-top: 13px;
+	font-weight: 400;
 	position: relative;
-}
-
-#u12888-4,#u12888-6,#u12885-4,#u12885-6
-{
-	font-size: 18px;
-	color: #000000;
 }
 
 #u12881-4
 {
-	z-index: 81;
+	z-index: 77;
 	width: 136px;
 	min-height: 36px;
 	background-color: transparent;
 	color: #000000;
-	font-size: 24px;
+	font-size: 30px;
 	text-align: center;
 	font-family: open-sans, sans-serif;
 	font-weight: 600;
@@ -553,7 +548,7 @@
 
 #u12876-4
 {
-	z-index: 94;
+	z-index: 90;
 	width: 317px;
 	min-height: 60px;
 	background-color: transparent;
@@ -565,64 +560,56 @@
 	position: relative;
 }
 
-#u12887-8
+#u12887-6
 {
 	z-index: 60;
 	width: 317px;
-	min-height: 84px;
+	min-height: 97px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	margin-top: 13px;
+	font-weight: 400;
 	position: relative;
 }
 
-#u12885-8:hover,#u12887-8:hover
+#u12885-6:hover,#u12887-6:hover
 {
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
 	padding-top: 0px;
 	padding-bottom: 0px;
-	min-height: 84px;
+	min-height: 97px;
 	width: 317px;
-	margin: 13px 0px 0px;
+	margin: 0px;
 }
 
-#u12887-8:active
+#u12887-6:active
 {
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
 	padding-top: 0px;
 	padding-bottom: 0px;
-	min-height: 84px;
+	min-height: 97px;
 	width: 317px;
-	margin: 13px 0px 0px;
+	margin: 0px;
 }
 
-#u12888-2,#u12885-2,#u12887-2
+#u12888-2,#u12888-4,#u12885-2,#u12885-4,#u12887-2,#u12887-4
 {
-	font-size: 18px;
+	font-size: 30px;
 	color: #000000;
-	font-weight: 400;
-}
-
-#u12887-4,#u12887-6
-{
-	font-size: 18px;
-	color: #000000;
-	font-weight: 300;
 }
 
 #u12874-4
 {
-	z-index: 68;
+	z-index: 66;
 	width: 208px;
 	min-height: 36px;
 	background-color: transparent;
 	color: #000000;
-	font-size: 24px;
+	font-size: 30px;
 	text-align: center;
 	font-family: open-sans, sans-serif;
 	font-weight: 600;
@@ -640,7 +627,7 @@
 	margin: 14px 0px 0px 54px;
 }
 
-#u12888-8:hover p,#u12889-4:hover p,#u12885-8:hover p,#u12881-4:hover p,#u12874-4:hover p
+#u12888-6:hover p,#u12889-4:hover p,#u12885-6:hover p,#u12881-4:hover p,#u12874-4:hover p
 {
 	color: #000000;
 	visibility: inherit;
@@ -655,7 +642,7 @@
 
 #u12878
 {
-	z-index: 118;
+	z-index: 112;
 	width: 220px;
 	height: 57px;
 	position: relative;
@@ -667,7 +654,7 @@
 
 #u12879-4
 {
-	z-index: 114;
+	z-index: 108;
 	width: 137px;
 	min-height: 21px;
 	background-color: transparent;
@@ -682,14 +669,14 @@
 
 #u12884
 {
-	z-index: 119;
+	z-index: 113;
 	width: 220px;
 	height: 57px;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 10px;
 	left: 644px;
-	background: transparent url("../images/appstore-u12648-fr.png") no-repeat center center;
+	background: transparent url("../images/appstore-u10767-fr.png") no-repeat center center;
 	background-size: contain;
 }
 
@@ -713,7 +700,7 @@
 
 #u12868-4
 {
-	z-index: 121;
+	z-index: 115;
 	width: 22px;
 	min-height: 22px;
 	background-color: transparent;
