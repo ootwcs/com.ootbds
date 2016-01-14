@@ -1,7 +1,7 @@
 .version.out_of_the_box_data_security_business_pro_thank_you /* version checker */
 {
-	color: #000006;
-	background-color: #486A8C;
+	color: #0000EB;
+	background-color: #0A33CE;
 }
 
 @-ms-viewport
@@ -39,10 +39,9 @@
 	z-index: 1;
 	width: 380px;
 	min-height: 672px;
-	background-image: none;
 	border-style: none;
 	border-color: #000000;
-	background-color: transparent;
+	background: transparent url("../../images/out%20of%20the%20box%20data%20security%20business%20wallpaper.jpg") no-repeat left top;
 }
 
 #pu13650
@@ -55,7 +54,7 @@
 {
 	z-index: 2;
 	min-height: 540px;
-	background: transparent url("../../images/out%20of%20the%20box%20data%20security%20business%20wallpaper.jpg") no-repeat center bottom;
+	background: transparent url("../../images/out%20of%20the%20box%20data%20security%20business%20wallpaper2.jpg") no-repeat center bottom;
 	background-size: cover;
 }
 
