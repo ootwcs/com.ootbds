@@ -1,14 +1,14 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="ootbds.com" resolutions="1x" timestamp="1453756230144">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="ootbds.com" resolutions="1x" timestamp="1453758496737">
   <folder name="css">
     <file name="site_global.css" crc="265381595"/>
-    <file name="master_a-master.css" crc="451846901" ref="business-pro-contact:business-30-day-free-trial:ootbds-terms-of-service:business:refer-a-friend-thank-you:out-of-the-box-data-security-business-pro-thank-you:out-of-the-box-data-security-business-thank-you:enterprise-contact:out-of-the-box-data-security-enterprise-thank-you:ootbds-privacy-policy:refer-a-friend:index:ootbds-account-activated"/>
+    <file name="master_a-master.css" crc="185272538" ref="business-pro-contact:business-30-day-free-trial:ootbds-terms-of-service:business:refer-a-friend-thank-you:out-of-the-box-data-security-business-pro-thank-you:out-of-the-box-data-security-business-thank-you:enterprise-contact:out-of-the-box-data-security-enterprise-thank-you:ootbds-privacy-policy:refer-a-friend:index:ootbds-account-activated"/>
     <file name="business-pro-contact.css" crc="3979010545" ref="business-pro-contact"/>
     <file name="iefonts_business-pro-contact.css" crc="3871372239" ref="business-pro-contact"/>
     <file name="business-30-day-free-trial.css" crc="3816691026" ref="business-30-day-free-trial"/>
     <file name="iefonts_business-30-day-free-trial.css" crc="3844644342" ref="business-30-day-free-trial"/>
     <file name="ootbds-terms-of-service.css" crc="124743702" ref="ootbds-terms-of-service"/>
     <file name="iefonts_ootbds-terms-of-service.css" crc="134298126" ref="ootbds-terms-of-service"/>
-    <file name="business.css" crc="485087975" ref="business"/>
+    <file name="business.css" crc="112935433" ref="business"/>
     <file name="iefonts_business.css" crc="460075229" ref="business"/>
     <file name="refer-a-friend-thank-you.css" crc="4141474325" ref="refer-a-friend-thank-you"/>
     <file name="iefonts_refer-a-friend-thank-you.css" crc="3841515934" ref="refer-a-friend-thank-you"/>
@@ -28,7 +28,7 @@
     <file name="iefonts_index.css" crc="4228918206" ref="index"/>
     <file name="ootbds-account-activated.css" crc="341236356" ref="ootbds-account-activated"/>
     <file name="iefonts_ootbds-account-activated.css" crc="3965504558" ref="ootbds-account-activated"/>
-    <file name="desktop-client-download.css" crc="3829192285" ref="desktop-client-download"/>
+    <file name="desktop-client-download.css" crc="3964076381" ref="desktop-client-download"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="196614522" ref="phone>index:phone>out-of-the-box-data-security-business:phone>out-of-the-box-data-security-contact-us:phone>out-of-the-box-data-security-business-free-30-day-trial:phone>out-of-the-box-data-security-business-free-30-day-trial-thank-you:phone>out-of-the-box-data-security-contact-us-thank-you:phone>out-of-the-box-data-security-business-pro-contact:phone>out-of-the-box-data-security-enterprise-contact:phone>out-of-the-box-data-security-business-pro-thank-you:phone>out-of-the-box-data-security-enterprise-thank-you:index:ootbds-terms-of-service:business:ootbds-privacy-policy:ootbds-account-activated:business-30-day-free-trial:out-of-the-box-data-security-business-thank-you:refer-a-friend:refer-a-friend-thank-you:business-pro-contact:enterprise-contact:out-of-the-box-data-security-business-pro-thank-you:out-of-the-box-data-security-enterprise-thank-you:desktop-client-download"/>
@@ -119,7 +119,7 @@
     <file name="out of the box files.jpg" crc="3832545381" ref="index"/>
     <file name="collaboration.jpg" crc="3834352471" ref="index:business"/>
     <file name="versioning.jpg" crc="57472196" ref="index:business"/>
-    <file name="ootwcs250x250.png" crc="334981527" ref="index"/>
+    <file name="ootwcs250x250.png" crc="334981527" ref="index:business"/>
     <file name="ootbds-terms-of-service-favicon.ico" crc="4246783373" ref="ootbds-terms-of-service"/>
     <file name="business-favicon.ico" crc="4246783373" ref="business"/>
     <file name="out of the box sharing.jpg" crc="291583752" ref="business"/>
@@ -150,11 +150,13 @@
     <file name="u13207-17-r.png" crc="3925927386" ref="enterprise-contact"/>
     <file name="u13207-17-m.png" crc="4206130614" ref="enterprise-contact"/>
     <file name="u13207-17-fs.png" crc="367417684" ref="enterprise-contact"/>
-    <file name="out of the box data security-u11113-fr.png" crc="147177400" ref="phone>out-of-the-box-data-security-business:phone>out-of-the-box-data-security-business-free-30-day-trial:phone>out-of-the-box-data-security-business-free-30-day-trial-thank-you:phone>out-of-the-box-data-security-business-pro-contact:phone>out-of-the-box-data-security-enterprise-contact:phone>out-of-the-box-data-security-business-pro-thank-you:phone>out-of-the-box-data-security-enterprise-thank-you:index:ootbds-terms-of-service:business:ootbds-privacy-policy:business-30-day-free-trial:out-of-the-box-data-security-business-thank-you:refer-a-friend:refer-a-friend-thank-you:business-pro-contact:enterprise-contact:out-of-the-box-data-security-business-pro-thank-you:out-of-the-box-data-security-enterprise-thank-you:desktop-client-download"/>
+    <file name="out of the box data security-u11113-fr.png" crc="147177400" ref="phone>out-of-the-box-data-security-business:phone>out-of-the-box-data-security-business-free-30-day-trial:phone>out-of-the-box-data-security-business-free-30-day-trial-thank-you:phone>out-of-the-box-data-security-business-pro-contact:phone>out-of-the-box-data-security-enterprise-contact:phone>out-of-the-box-data-security-business-pro-thank-you:phone>out-of-the-box-data-security-enterprise-thank-you:index:ootbds-terms-of-service:ootbds-privacy-policy:business-30-day-free-trial:out-of-the-box-data-security-business-thank-you:refer-a-friend:refer-a-friend-thank-you:business-pro-contact:enterprise-contact:out-of-the-box-data-security-business-pro-thank-you:out-of-the-box-data-security-enterprise-thank-you"/>
     <file name="versioning-u11203-fr.jpg" crc="3879395152" ref="phone>out-of-the-box-data-security-business"/>
     <file name="collaboration-u11197-fr.jpg" crc="355703579" ref="phone>out-of-the-box-data-security-business"/>
     <file name="windows.png" crc="489747286" ref="desktop-client-download"/>
     <file name="os_x_el_capitan_logo.png" crc="362367131" ref="desktop-client-download"/>
+    <file name="out of the box data security-u8292-fr.png" crc="147177400" ref="business:desktop-client-download"/>
+    <file name="desktop-client-download-favicon.ico" crc="4246783373" ref="desktop-client-download"/>
   </folder>
   <folder name="phone">
     <folder name="css">
@@ -193,7 +195,7 @@
   </folder>
   <file name="index.html" crc="10952447" seo="true" mt="1453750825961" redirect="true"/>
   <file name="ootbds-terms-of-service.html" crc="149967611" seo="true" mt="1453750825983" redirect="true"/>
-  <file name="business.html" crc="3780483196" seo="true" mt="1453750826012" redirect="true"/>
+  <file name="business.html" crc="124396624" seo="true" mt="1453758483219" redirect="true"/>
   <file name="ootbds-privacy-policy.html" crc="8673972" seo="true" mt="1453750826028" redirect="true"/>
   <file name="ootbds-account-activated.html" crc="176112960" seo="true" mt="1452785420046" redirect="true"/>
   <file name="business-30-day-free-trial.html" crc="310473796" seo="true" mt="1453750826050" redirect="true"/>
@@ -204,5 +206,5 @@
   <file name="enterprise-contact.html" crc="233155104" seo="true" mt="1453750825953" redirect="true"/>
   <file name="out-of-the-box-data-security-business-pro-thank-you.html" crc="4281374451" seo="true" mt="1453750826020" redirect="true"/>
   <file name="out-of-the-box-data-security-enterprise-thank-you.html" crc="4291036880" seo="true" mt="1453750826058" redirect="true"/>
-  <file name="desktop-client-download.html" crc="3808155819" seo="true" mt="1453756188714" redirect="true"/>
+  <file name="desktop-client-download.html" crc="287621628" seo="true" mt="1453758076184" redirect="true"/>
 </manifest>
