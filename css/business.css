@@ -1,7 +1,7 @@
 .version.business /* version checker */
 {
-	color: #000006;
-	background-color: #01836B;
+	color: #00001C;
+	background-color: #E9DAE7;
 }
 
 .html
@@ -661,9 +661,9 @@
 	filter: alpha(opacity=50);
 	color: #000000;
 	font-size: 11px;
-	text-align: center;
 	letter-spacing: 4px;
 	line-height: 1.1;
+	text-align: center;
 	font-family: open-sans, sans-serif;
 	font-weight: 600;
 	position: relative;
@@ -717,7 +717,7 @@
 	position: relative;
 	margin-right: -10000px;
 	left: 117px;
-	background: transparent url("../images/out%20of%20the%20box%20data%20security-u9076-fr.png") no-repeat center center;
+	background: transparent url("../images/out%20of%20the%20box%20data%20security-u11113-fr.png") no-repeat center center;
 	background-size: contain;
 }
 

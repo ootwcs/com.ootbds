@@ -1,7 +1,7 @@
 .version.out_of_the_box_data_security_business /* version checker */
 {
-	color: #0000E8;
-	background-color: #5DC3BC;
+	color: #0000F6;
+	background-color: #CC59D7;
 }
 
 @-ms-viewport
@@ -117,9 +117,9 @@
 	filter: alpha(opacity=50);
 	color: #000000;
 	font-size: 11px;
-	text-align: center;
 	letter-spacing: 4px;
 	line-height: 1.1;
+	text-align: center;
 	font-family: open-sans, sans-serif;
 	font-weight: 600;
 	margin-left: 103px;
@@ -162,7 +162,7 @@
 	position: relative;
 	margin-right: -10000px;
 	left: 108px;
-	background: transparent url("../../images/out%20of%20the%20box%20data%20security-u9076-fr.png") no-repeat center center;
+	background: transparent url("../../images/out%20of%20the%20box%20data%20security-u11113-fr.png") no-repeat center center;
 	background-size: contain;
 }
 
@@ -396,7 +396,7 @@
 	width: 380px;
 	height: 180px;
 	position: relative;
-	background: transparent url("../../images/versioning-u10892-fr.jpg") no-repeat center center;
+	background: transparent url("../../images/versioning-u11203-fr.jpg") no-repeat center center;
 	background-size: contain;
 }
 
@@ -520,7 +520,7 @@
 	width: 380px;
 	height: 180px;
 	position: relative;
-	background: transparent url("../../images/collaboration-u10905-fr.jpg") no-repeat center center;
+	background: transparent url("../../images/collaboration-u11197-fr.jpg") no-repeat center center;
 	background-size: contain;
 }
 

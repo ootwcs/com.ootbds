@@ -52,8 +52,8 @@
 
 .version.out_of_the_box_data_security_business_pro_contact /* version checker */
 {
-	color: #000016;
-	background-color: #ACF5C3;
+	color: #00000F;
+	background-color: #EB71B6;
 }
 
 @-ms-viewport
@@ -120,7 +120,7 @@
 	border-color: transparent;
 	margin-left: 108px;
 	position: relative;
-	background: transparent url("../../images/out%20of%20the%20box%20data%20security-u9076-fr.png") no-repeat center center;
+	background: transparent url("../../images/out%20of%20the%20box%20data%20security-u11113-fr.png") no-repeat center center;
 	background-size: contain;
 }
 
@@ -135,9 +135,9 @@
 	filter: alpha(opacity=50);
 	color: #000000;
 	font-size: 11px;
-	text-align: center;
 	letter-spacing: 4px;
 	line-height: 1.1;
+	text-align: center;
 	font-family: open-sans, sans-serif;
 	font-weight: 600;
 	margin-left: 129px;
@@ -253,9 +253,9 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
+	line-height: 1;
 	color: #000000;
 	text-align: left;
-	line-height: 1;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -284,8 +284,8 @@
 	border-color: #C4C4C4;
 	background-color: #F2F2F2;
 	padding: 6px;
-	color: #000000;
 	line-height: 1;
+	color: #000000;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
 	font-style: italic;
@@ -371,9 +371,9 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
+	line-height: 1;
 	color: #000000;
 	text-align: left;
-	line-height: 1;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -391,8 +391,8 @@
 	border-color: #C4C4C4;
 	background-color: #F2F2F2;
 	padding: 6px;
-	color: #000000;
 	line-height: 1;
+	color: #000000;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
 	font-style: italic;
@@ -516,9 +516,9 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
 	padding-top: 4px;
+	line-height: 1;
 	color: #25FFAA;
 	font-size: 12px;
-	line-height: 1;
 	font-family: open-sans, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -602,9 +602,9 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
+	line-height: 1;
 	color: #000000;
 	text-align: left;
-	line-height: 1;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -622,8 +622,8 @@
 	border-color: #C4C4C4;
 	background-color: #F2F2F2;
 	padding: 6px;
-	color: #000000;
 	line-height: 1;
+	color: #000000;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
 	font-style: italic;
@@ -720,9 +720,9 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
+	line-height: 1;
 	color: #000000;
 	text-align: left;
-	line-height: 1;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -740,8 +740,8 @@
 	border-color: #C4C4C4;
 	background-color: #F2F2F2;
 	padding: 6px;
-	color: #000000;
 	line-height: 1;
+	color: #000000;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
 	font-style: italic;
@@ -959,9 +959,9 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
+	line-height: 1;
 	color: #FFFFFF;
 	text-align: left;
-	line-height: 1;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
 	position: relative;

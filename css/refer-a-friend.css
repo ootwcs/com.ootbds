@@ -52,8 +52,8 @@
 
 .version.refer_a_friend /* version checker */
 {
-	color: #000001;
-	background-color: #E187C4;
+	color: #0000E4;
+	background-color: #E8A420;
 }
 
 #page
@@ -163,7 +163,7 @@
 	position: relative;
 	margin-right: -10000px;
 	left: 117px;
-	background: transparent url("../images/out%20of%20the%20box%20data%20security-u9076-fr.png") no-repeat center center;
+	background: transparent url("../images/out%20of%20the%20box%20data%20security-u11113-fr.png") no-repeat center center;
 	background-size: contain;
 }
 
@@ -236,9 +236,9 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
+	line-height: 1;
 	color: #000000;
 	text-align: left;
-	line-height: 1;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -267,8 +267,8 @@
 	border-color: #C4C4C4;
 	background-color: #F2F2F2;
 	padding: 6px;
-	color: #000000;
 	line-height: 1;
+	color: #000000;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
 	font-style: italic;
@@ -331,9 +331,9 @@
 	opacity: 0;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
+	line-height: 1;
 	color: #999999;
 	text-align: right;
-	line-height: 1;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	font-weight: normal;
 	position: relative;
@@ -373,9 +373,9 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
+	line-height: 1;
 	color: #000000;
 	text-align: left;
-	line-height: 1;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -393,8 +393,8 @@
 	border-color: #C4C4C4;
 	background-color: #F2F2F2;
 	padding: 6px;
-	color: #000000;
 	line-height: 1;
+	color: #000000;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
 	font-style: italic;
@@ -457,9 +457,9 @@
 	opacity: 0;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
+	line-height: 1;
 	color: #999999;
 	text-align: right;
-	line-height: 1;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	font-weight: normal;
 	position: relative;
@@ -538,9 +538,9 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
 	padding-top: 4px;
+	line-height: 1;
 	color: #00FF00;
 	font-size: 12px;
-	line-height: 1;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -624,9 +624,9 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
+	line-height: 1;
 	color: #000000;
 	text-align: left;
-	line-height: 1;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -644,8 +644,8 @@
 	border-color: #C4C4C4;
 	background-color: #F2F2F2;
 	padding: 6px;
-	color: #000000;
 	line-height: 1;
+	color: #000000;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
 	font-style: italic;
@@ -708,9 +708,9 @@
 	opacity: 0;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
+	line-height: 1;
 	color: #999999;
 	text-align: right;
-	line-height: 1;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	font-weight: normal;
 	position: relative;
@@ -750,9 +750,9 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
+	line-height: 1;
 	color: #000000;
 	text-align: left;
-	line-height: 1;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -770,8 +770,8 @@
 	border-color: #C4C4C4;
 	background-color: #F2F2F2;
 	padding: 6px;
-	color: #000000;
 	line-height: 1;
+	color: #000000;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
 	font-style: italic;
@@ -834,9 +834,9 @@
 	opacity: 0;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
+	line-height: 1;
 	color: #999999;
 	text-align: right;
-	line-height: 1;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	font-weight: normal;
 	position: relative;
@@ -876,9 +876,9 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
+	line-height: 1;
 	color: #000000;
 	text-align: left;
-	line-height: 1;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -896,8 +896,8 @@
 	border-color: #C4C4C4;
 	background-color: #F2F2F2;
 	padding: 6px;
-	color: #000000;
 	line-height: 1;
+	color: #000000;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
 	font-style: italic;
@@ -960,9 +960,9 @@
 	opacity: 0;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
+	line-height: 1;
 	color: #999999;
 	text-align: right;
-	line-height: 1;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	font-weight: normal;
 	position: relative;
@@ -1002,9 +1002,9 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
+	line-height: 1;
 	color: #000000;
 	text-align: left;
-	line-height: 1;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -1022,8 +1022,8 @@
 	border-color: #C4C4C4;
 	background-color: #F2F2F2;
 	padding: 6px;
-	color: #000000;
 	line-height: 1;
+	color: #000000;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
 	font-style: italic;
@@ -1086,9 +1086,9 @@
 	opacity: 0;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
+	line-height: 1;
 	color: #999999;
 	text-align: right;
-	line-height: 1;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	font-weight: normal;
 	position: relative;
@@ -1128,9 +1128,9 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
+	line-height: 1;
 	color: #000000;
 	text-align: left;
-	line-height: 1;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -1157,8 +1157,8 @@
 	border-color: #C4C4C4;
 	background-color: #F2F2F2;
 	padding: 6px;
-	color: #000000;
 	line-height: 1;
+	color: #000000;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
 	font-style: italic;
@@ -1221,9 +1221,9 @@
 	opacity: 0;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
+	line-height: 1;
 	color: #999999;
 	text-align: right;
-	line-height: 1;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	font-weight: normal;
 	position: relative;
@@ -1271,8 +1271,8 @@
 	border-color: #C4C4C4;
 	background-color: #F2F2F2;
 	padding: 6px;
-	color: #000000;
 	line-height: 1;
+	color: #000000;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
 	font-style: italic;
@@ -1335,9 +1335,9 @@
 	opacity: 0;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
+	line-height: 1;
 	color: #999999;
 	text-align: right;
-	line-height: 1;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	font-weight: normal;
 	position: relative;
@@ -1379,8 +1379,8 @@
 	border-color: #C4C4C4;
 	background-color: #F2F2F2;
 	padding: 6px;
-	color: #000000;
 	line-height: 1;
+	color: #000000;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
 	font-style: italic;
@@ -1443,9 +1443,9 @@
 	opacity: 0;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
+	line-height: 1;
 	color: #999999;
 	text-align: right;
-	line-height: 1;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	font-weight: normal;
 	position: relative;
@@ -1487,8 +1487,8 @@
 	border-color: #C4C4C4;
 	background-color: #F2F2F2;
 	padding: 6px;
-	color: #000000;
 	line-height: 1;
+	color: #000000;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
 	font-style: italic;
@@ -1551,9 +1551,9 @@
 	opacity: 0;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
+	line-height: 1;
 	color: #999999;
 	text-align: right;
-	line-height: 1;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	font-weight: normal;
 	position: relative;
@@ -1595,8 +1595,8 @@
 	border-color: #C4C4C4;
 	background-color: #F2F2F2;
 	padding: 6px;
-	color: #000000;
 	line-height: 1;
+	color: #000000;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
 	font-style: italic;
@@ -1659,9 +1659,9 @@
 	opacity: 0;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
+	line-height: 1;
 	color: #999999;
 	text-align: right;
-	line-height: 1;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	font-weight: normal;
 	position: relative;
@@ -1703,8 +1703,8 @@
 	border-color: #C4C4C4;
 	background-color: #F2F2F2;
 	padding: 6px;
-	color: #000000;
 	line-height: 1;
+	color: #000000;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
 	font-style: italic;
@@ -1778,9 +1778,9 @@
 	opacity: 0;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
+	line-height: 1;
 	color: #999999;
 	text-align: right;
-	line-height: 1;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	font-weight: normal;
 	position: relative;
@@ -1819,9 +1819,9 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
+	line-height: 1;
 	color: #FFFFFF;
 	text-align: left;
-	line-height: 1;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -1853,9 +1853,9 @@
 	opacity: 0;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
+	line-height: 1;
 	color: #999999;
 	text-align: right;
-	line-height: 1;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	font-weight: normal;
 	position: relative;
@@ -2004,8 +2004,8 @@
 	border-color: #C4C4C4;
 	background-color: #F2F2F2;
 	padding: 6px;
-	color: #000000;
 	line-height: 1;
+	color: #000000;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
 	font-style: italic;
@@ -2079,9 +2079,9 @@
 	opacity: 0;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
+	line-height: 1;
 	color: #999999;
 	text-align: right;
-	line-height: 1;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	font-weight: normal;
 	position: relative;

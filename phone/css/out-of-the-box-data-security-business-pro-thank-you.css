@@ -1,7 +1,7 @@
 .version.out_of_the_box_data_security_business_pro_thank_you /* version checker */
 {
-	color: #0000F6;
-	background-color: #C53767;
+	color: #0000F8;
+	background-color: #76F734;
 }
 
 @-ms-viewport
@@ -72,7 +72,7 @@
 	border-color: transparent;
 	margin-left: 108px;
 	position: relative;
-	background: transparent url("../../images/out%20of%20the%20box%20data%20security-u9076-fr.png") no-repeat center center;
+	background: transparent url("../../images/out%20of%20the%20box%20data%20security-u11113-fr.png") no-repeat center center;
 	background-size: contain;
 }
 
@@ -145,8 +145,8 @@
 	min-height: 303px;
 	background-color: transparent;
 	color: #FFFFFF;
-	text-align: center;
 	line-height: 1.4;
+	text-align: center;
 	font-family: open-sans, sans-serif;
 	font-weight: 400;
 }
