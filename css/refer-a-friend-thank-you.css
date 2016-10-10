@@ -1,12 +1,7 @@
 .version.refer_a_friend_thank_you /* version checker */
 {
-	color: #0000F6;
-	background-color: #D9E215;
-}
-
-.html
-{
-	background-color: #FFFFFF;
+	color: #0000FC;
+	background-color: #629D41;
 }
 
 #page
@@ -15,7 +10,7 @@
 	width: 960px;
 	min-height: 891px;
 	background-image: none;
-	border-style: none;
+	border-width: 0px;
 	border-color: #000000;
 	background-color: transparent;
 	margin-left: auto;
@@ -34,7 +29,7 @@
 	z-index: 30;
 	width: 200px;
 	min-height: 100px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	position: relative;
@@ -47,8 +42,8 @@
 {
 	z-index: 31;
 	min-height: 508px;
-	border-width: 1px;
 	border-style: solid;
+	border-width: 1px;
 	border-color: #00BFF3;
 	background-color: #00BFF3;
 	padding-bottom: 206px;
@@ -58,8 +53,8 @@
 {
 	margin-left: auto;
 	margin-right: auto;
-	width: 959px;
 	position: relative;
+	width: 959px;
 	left: -100px;
 }
 
@@ -67,8 +62,8 @@
 {
 	z-index: 119;
 	width: 345px;
-	border-width: 11px;
 	border-style: solid;
+	border-width: 11px;
 	border-color: #F3AE00;
 	background-color: #F3AE00;
 	border-radius: 10px;
@@ -103,6 +98,16 @@
 	margin-right: -10000px;
 	margin-top: -6px;
 	left: 13px;
+}
+
+.js body
+{
+	visibility: hidden;
+}
+
+.js body.initialized
+{
+	visibility: visible;
 }
 
 #u12993-bw
@@ -146,7 +151,7 @@
 	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
 }
 
-#u12990-3  span,#u12990-3  a,#u12922-2  span /* line-height set on spans of mixed font sized paras */
+#u12990-3 span,#u12990-3 a,#u12922-2 span /* line-height set on spans of mixed font sized paras */
 {
 	line-height: 1.2;
 }
@@ -163,12 +168,12 @@
 	z-index: 41;
 	width: 165px;
 	height: 154px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 	left: 117px;
-	background: transparent url("../images/out%20of%20the%20box%20data%20security-u11113-fr.png") no-repeat center center;
+	background: transparent url("../images/out%20of%20the%20box%20data%20security-u11061-fr.png") no-repeat center center;
 	background-size: contain;
 }
 
@@ -230,7 +235,7 @@
 {
 	position: absolute;
 	width: 131px;
-	border-style: none;
+	border-width: 0px;
 	background-color: transparent;
 	padding-bottom: 4px;
 	top: -37px;
@@ -249,7 +254,7 @@
 	z-index: 54;
 	width: 84px;
 	min-height: 10px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	padding: 6px;
 	color: #474747;
@@ -264,7 +269,7 @@
 
 #u12870:hover #u12871-3
 {
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	padding-top: 6px;
 	padding-bottom: 6px;
@@ -275,7 +280,7 @@
 
 #u12870.PamphletThumbSelected #u12871-3
 {
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	padding-top: 6px;
 	padding-bottom: 6px;
@@ -287,7 +292,6 @@
 .Form
 {
 	border-width: 3px;
-	border-style: solid;
 	border-color: #353535;
 	background-color: transparent;
 }
@@ -334,7 +338,7 @@
 	z-index: 58;
 	width: 960px;
 	height: 402px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: #FFFFFF;
 	margin-right: -10000px;
@@ -375,12 +379,19 @@
 
 #u12877:hover
 {
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	border-radius: 2px;
 	width: 317px;
 	min-height: 0px;
 	margin: 0px -10000px 0px 0px;
+}
+
+#u12877_position_content
+{
+	padding-top: 8px;
+	padding-bottom: 13px;
+	width: 100%;
 }
 
 #u12880-4
@@ -402,7 +413,7 @@
 	z-index: 94;
 	width: 316px;
 	min-height: 97px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	font-weight: 400;
@@ -411,7 +422,7 @@
 
 #u12888-6:hover
 {
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	padding-top: 0px;
@@ -443,6 +454,8 @@
 	width: 317px;
 	border-color: #FFFFFF;
 	background-color: #F3AE00;
+	padding-top: 8px;
+	padding-bottom: 13px;
 	position: relative;
 	margin-right: -10000px;
 	left: 321px;
@@ -450,7 +463,17 @@
 
 #u12877:active,#u12886:hover
 {
-	border-style: none;
+	border-width: 0px;
+	border-color: transparent;
+	border-radius: 2px;
+	width: 317px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u12886:active
+{
+	border-width: 0px;
 	border-color: transparent;
 	border-radius: 2px;
 	width: 317px;
@@ -477,7 +500,7 @@
 	z-index: 71;
 	width: 317px;
 	min-height: 97px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	font-weight: 400;
@@ -512,38 +535,35 @@
 #u12875
 {
 	z-index: 59;
-	width: 317px;
+	width: 316px;
 	border-color: #FFFFFF;
 	background-color: #F33400;
+	padding-top: 8px;
+	padding-right: 1px;
+	padding-bottom: 13px;
 	position: relative;
 	margin-right: -10000px;
 	left: 643px;
 }
 
-#u12886:active,#u12875:hover
+#u12875:hover
 {
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	border-radius: 2px;
-	width: 317px;
+	width: 316px;
 	min-height: 0px;
 	margin: 0px -10000px 0px 0px;
 }
 
 #u12875:active
 {
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	border-radius: 2px;
-	width: 317px;
+	width: 316px;
 	min-height: 0px;
 	margin: 0px -10000px 0px 0px;
-}
-
-#u12877_position_content,#u12886_position_content,#u12875_position_content
-{
-	padding-top: 8px;
-	padding-bottom: 13px;
 }
 
 #u12876-4
@@ -565,7 +585,7 @@
 	z-index: 60;
 	width: 317px;
 	min-height: 97px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	font-weight: 400;
@@ -574,7 +594,7 @@
 
 #u12885-6:hover,#u12887-6:hover
 {
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	padding-top: 0px;
@@ -586,7 +606,7 @@
 
 #u12887-6:active
 {
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	padding-top: 0px;
@@ -684,7 +704,7 @@
 {
 	position: absolute;
 	width: 22px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	left: 1311px;
@@ -729,6 +749,7 @@
 {
 	margin-left: auto;
 	margin-right: auto;
+	position: relative;
 	width: 960px;
 	left: -100px;
 	padding-top: 37px;
@@ -741,6 +762,7 @@
 	width: 490px;
 	min-height: 18px;
 	left: 335px;
+	position: relative;
 }
 
 #u10801-5
@@ -750,6 +772,7 @@
 	min-height: 18px;
 	left: 491px;
 	margin-top: 7px;
+	position: relative;
 }
 
 #u10800-4
@@ -759,6 +782,7 @@
 	min-height: 18px;
 	left: 326px;
 	margin-top: 6px;
+	position: relative;
 }
 
 #u10802
@@ -768,6 +792,7 @@
 	height: 70px;
 	left: 545px;
 	margin-top: 3px;
+	position: relative;
 }
 
 #u10799-bw
@@ -775,7 +800,12 @@
 	z-index: 2;
 	min-height: 184.63056818311975px;
 	margin-bottom: -9px;
-	margin-top: 790px;
+	margin-top: -3px;
+}
+
+#muse_css_mq,.html
+{
+	background-color: #FFFFFF;
 }
 
 body
@@ -784,9 +814,8 @@ body
 	min-width: 960px;
 }
 
-#page .verticalspacer
+.verticalspacer
 {
-	clear: both;
-	margin-bottom: -789px;
+	min-height: 1px;
 }
 

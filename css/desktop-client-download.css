@@ -1,72 +1,35 @@
 .version.desktop_client_download /* version checker */
 {
-	color: #0000EC;
-	background-color: #47015D;
-}
-
-.html
-{
-	background-color: #FFFFFF;
+	color: #0000FC;
+	background-color: #89F733;
 }
 
 #page
 {
 	z-index: 1;
-	width: 960px;
+	width: 665px;
 	min-height: 517px;
 	background-image: none;
-	border-style: none;
+	border-width: 0px;
 	border-color: #000000;
 	background-color: transparent;
+	padding-left: 148px;
+	padding-right: 147px;
 	padding-bottom: 87px;
 	margin-left: auto;
 	margin-right: auto;
-}
-
-#pu14037
-{
-	width: 0.01px;
-	padding-bottom: 0px;
-	margin-right: -10000px;
-	margin-top: 190px;
-	margin-left: 148px;
-}
-
-#u14037
-{
-	z-index: 3;
-	width: 250px;
-	height: 250px;
-	position: relative;
-	background: transparent url("../images/windows.png") no-repeat center center;
-	background-size: contain;
-}
-
-#u14045-8
-{
-	z-index: 4;
-	width: 190px;
-	min-height: 68px;
-	background-color: transparent;
-	text-align: center;
-	font-family: open-sans, sans-serif;
-	font-weight: 300;
-	margin-left: 30px;
-	margin-top: 9px;
-	position: relative;
 }
 
 #u13853
 {
 	z-index: 20;
 	width: 165px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	padding-bottom: 136px;
+	margin-left: 250px;
 	position: relative;
-	margin-right: -10000px;
-	left: 398px;
-	background: transparent url("../images/out%20of%20the%20box%20data%20security-u8292-fr.png") no-repeat center center;
+	background: transparent url("../images/out%20of%20the%20box%20data%20security-u11061-fr.png") no-repeat center center;
 	background-size: contain;
 }
 
@@ -78,13 +41,22 @@
 	left: 72px;
 }
 
-#pu14030
+#pu14037
 {
 	width: 0.01px;
-	padding-bottom: 0px;
+	margin-left: -1px;
+	margin-top: 36px;
+}
+
+#u14037
+{
+	z-index: 3;
+	width: 250px;
+	height: 250px;
+	position: relative;
 	margin-right: -10000px;
-	margin-top: 190px;
-	margin-left: 563px;
+	background: transparent url("../images/windows.png") no-repeat center center;
+	background-size: contain;
 }
 
 #u14030
@@ -93,8 +65,30 @@
 	width: 250px;
 	height: 250px;
 	position: relative;
+	margin-right: -10000px;
+	left: 415px;
 	background: transparent url("../images/os_x_el_capitan_logo.png") no-repeat center center;
 	background-size: contain;
+}
+
+#pu14045-8
+{
+	width: 0.01px;
+	margin-left: 30px;
+	margin-top: 9px;
+}
+
+#u14045-8
+{
+	z-index: 4;
+	width: 190px;
+	min-height: 68px;
+	background-color: transparent;
+	text-align: center;
+	font-family: open-sans, sans-serif;
+	font-weight: 300;
+	position: relative;
+	margin-right: -10000px;
 }
 
 #u14046-8
@@ -106,19 +100,19 @@
 	text-align: center;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
-	margin-left: 30px;
-	margin-top: 9px;
 	position: relative;
+	margin-right: -10000px;
+	left: 415px;
+}
+
+#muse_css_mq,.html
+{
+	background-color: #FFFFFF;
 }
 
 body
 {
 	position: relative;
 	min-width: 960px;
-}
-
-#page .verticalspacer
-{
-	clear: both;
 }
 

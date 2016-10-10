@@ -28,12 +28,17 @@
 	font-family: open-sans-n6, sans-serif;
 }
 
+#u13261-5,#u13260-5
+{
+	font-family: advent-pro-n6, sans-serif;
+}
+
 #u13167.PamphletThumbSelected #u13168-3 p,#u13168-3
 {
 	font-family: open-sans-n7, sans-serif;
 }
 
-#u13182-4
+#u13261,#u13260,#u13262-4,#u13182-4
 {
 	font-family: open-sans-n6, sans-serif;
 }
@@ -53,12 +58,7 @@
 	font-family: open-sans-n6, sans-serif;
 }
 
-#u13261-5,#u13260-5
-{
-	font-family: advent-pro-n6, sans-serif;
-}
-
-#u13190-4,#u13261,#u13260,#u13262-4
+#u13190-4
 {
 	font-family: open-sans-n6, sans-serif;
 }
@@ -127,4 +127,5 @@
 {
 	font-family: open-sans-n3, sans-serif;
 }
+
 

@@ -1,32 +1,198 @@
 .version.out_of_the_box_data_security_business_thank_you /* version checker */
 {
-	color: #000013;
-	background-color: #F7AEF7;
-}
-
-.html
-{
-	background-color: #FFFFFF;
+	color: #0000FF;
+	background-color: #B1AC04;
 }
 
 #page
 {
 	z-index: 1;
 	width: 960px;
-	min-height: 853.6131615304379px;
+	min-height: 854px;
 	background-image: none;
-	border-style: none;
+	border-width: 0px;
 	border-color: #000000;
 	background-color: transparent;
-	padding-bottom: 0px;
 	margin-left: auto;
 	margin-right: auto;
 }
 
-#page_position_content
+#ptop
 {
-	margin-bottom: -9px;
 	width: 0.01px;
+	margin-right: -10000px;
+	margin-top: -13px;
+	margin-left: -100px;
+}
+
+#top
+{
+	position: relative;
+	width: 22px;
+	margin-right: -10000px;
+	margin-top: 13px;
+	left: 569px;
+}
+
+#u11884
+{
+	z-index: 31;
+	min-height: 605px;
+	padding-bottom: 110px;
+	background: transparent url("../images/out%20of%20the%20box%20data%20security%20business%20wallpaper.jpg") no-repeat center bottom;
+	background-size: cover;
+}
+
+#u11884_align_to_page
+{
+	margin-left: auto;
+	margin-right: auto;
+	position: relative;
+	width: 960px;
+	left: -100px;
+}
+
+#u11937
+{
+	z-index: 47;
+	width: 960px;
+	background-color: #98A2B2;
+	background-color: rgba(45,67,99,0.49);
+	padding-bottom: 196px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 96px;
+	left: 100px;
+	-pie-background: rgba(45,67,99,0.49);
+}
+
+#u11991
+{
+	z-index: 124;
+	width: 345px;
+	border-style: solid;
+	border-width: 11px;
+	border-color: #F3AE00;
+	background-color: #F3AE00;
+	border-radius: 10px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 262px;
+	left: 286px;
+}
+
+#u11991:hover
+{
+	border-color: #BFF300;
+	background-color: #BFF300;
+	width: 345px;
+	min-height: 0px;
+	margin: 262px -10000px 0px 0px;
+}
+
+#u11992-4
+{
+	z-index: 125;
+	width: 318px;
+	min-height: 40px;
+	background-color: transparent;
+	color: #FFFFFF;
+	font-size: 30px;
+	text-align: center;
+	font-family: open-sans, sans-serif;
+	font-weight: 600;
+	margin-bottom: -5px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: -6px;
+	left: 13px;
+}
+
+.js body
+{
+	visibility: hidden;
+}
+
+.js body.initialized
+{
+	visibility: visible;
+}
+
+#u11884-bw
+{
+	z-index: 31;
+	min-height: 605px;
+	margin-top: 90px;
+}
+
+#u11973-5
+{
+	z-index: 32;
+	width: 70px;
+	min-height: 22px;
+	background-color: transparent;
+	font-family: advent-pro, sans-serif;
+	font-weight: 600;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 50px;
+	left: 850px;
+}
+
+#u11975-5
+{
+	z-index: 37;
+	width: 70px;
+	min-height: 22px;
+	background-color: transparent;
+	font-family: advent-pro, sans-serif;
+	font-weight: 600;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 50px;
+	left: 920px;
+}
+
+#u11973-3,#u11975-3
+{
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u11973,#u11975
+{
+	font-size: 18px;
+	font-family: open-sans, sans-serif;
+	font-weight: 600;
+}
+
+#u11972
+{
+	z-index: 42;
+	width: 165px;
+	height: 154px;
+	border-width: 0px;
+	border-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 13px;
+	left: 117px;
+	background: transparent url("../images/out%20of%20the%20box%20data%20security-u11061-fr.png") no-repeat center center;
+	background-size: contain;
+}
+
+#u11974-4
+{
+	z-index: 43;
+	width: 174px;
+	min-height: 43px;
+	background-color: transparent;
+	font-size: 36px;
+	font-family: open-sans, sans-serif;
+	font-weight: 600;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 47px;
+	left: 282px;
 }
 
 #pamphletu11939
@@ -35,8 +201,10 @@
 	width: 0.01px;
 	height: 70px;
 	padding-bottom: 15px;
-	margin-left: 820px;
 	position: relative;
+	margin-right: -10000px;
+	margin-top: 13px;
+	left: 920px;
 }
 
 #u11942
@@ -52,7 +220,7 @@
 {
 	position: absolute;
 	width: 134px;
-	border-style: none;
+	border-width: 0px;
 	background-color: transparent;
 	padding-bottom: 15px;
 	top: -26px;
@@ -71,7 +239,7 @@
 	z-index: 51;
 	width: 78px;
 	min-height: 24px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	padding: 6px;
 	color: #474747;
@@ -86,7 +254,7 @@
 
 #u11943:hover #u11944-3
 {
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	padding-top: 6px;
 	padding-bottom: 6px;
@@ -97,7 +265,7 @@
 
 #u11943.PamphletThumbSelected #u11944-3
 {
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	padding-top: 6px;
 	padding-bottom: 6px;
@@ -109,7 +277,6 @@
 .Form
 {
 	border-width: 3px;
-	border-style: solid;
 	border-color: #353535;
 	background-color: transparent;
 }
@@ -157,7 +324,7 @@
 	z-index: 55;
 	width: 960px;
 	height: 402px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: #FFFFFF;
 	margin-right: -10000px;
@@ -198,12 +365,19 @@
 
 #u11955:hover
 {
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	border-radius: 2px;
 	width: 317px;
 	min-height: 0px;
 	margin: 0px -10000px 0px 0px;
+}
+
+#u11955_position_content
+{
+	padding-top: 8px;
+	padding-bottom: 13px;
+	width: 100%;
 }
 
 #u11965-4
@@ -225,7 +399,7 @@
 	z-index: 91;
 	width: 316px;
 	min-height: 97px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	font-weight: 400;
@@ -234,7 +408,7 @@
 
 #u11956-6:hover
 {
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	padding-top: 0px;
@@ -266,6 +440,8 @@
 	width: 317px;
 	border-color: #FFFFFF;
 	background-color: #F3AE00;
+	padding-top: 8px;
+	padding-bottom: 13px;
 	position: relative;
 	margin-right: -10000px;
 	left: 321px;
@@ -273,7 +449,17 @@
 
 #u11955:active,#u11954:hover
 {
-	border-style: none;
+	border-width: 0px;
+	border-color: transparent;
+	border-radius: 2px;
+	width: 317px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u11954:active
+{
+	border-width: 0px;
 	border-color: transparent;
 	border-radius: 2px;
 	width: 317px;
@@ -300,7 +486,7 @@
 	z-index: 68;
 	width: 317px;
 	min-height: 97px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	font-weight: 400;
@@ -335,38 +521,35 @@
 #u11953
 {
 	z-index: 56;
-	width: 317px;
+	width: 316px;
 	border-color: #FFFFFF;
 	background-color: #F33400;
+	padding-top: 8px;
+	padding-right: 1px;
+	padding-bottom: 13px;
 	position: relative;
 	margin-right: -10000px;
 	left: 643px;
 }
 
-#u11954:active,#u11953:hover
+#u11953:hover
 {
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	border-radius: 2px;
-	width: 317px;
+	width: 316px;
 	min-height: 0px;
 	margin: 0px -10000px 0px 0px;
 }
 
 #u11953:active
 {
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	border-radius: 2px;
-	width: 317px;
+	width: 316px;
 	min-height: 0px;
 	margin: 0px -10000px 0px 0px;
-}
-
-#u11955_position_content,#u11954_position_content,#u11953_position_content
-{
-	padding-top: 8px;
-	padding-bottom: 13px;
 }
 
 #u11952-4
@@ -388,7 +571,7 @@
 	z-index: 57;
 	width: 317px;
 	min-height: 97px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	font-weight: 400;
@@ -397,7 +580,7 @@
 
 #u11962-6:hover,#u11958-6:hover
 {
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	padding-top: 0px;
@@ -409,7 +592,7 @@
 
 #u11958-6:active
 {
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	padding-top: 0px;
@@ -507,7 +690,7 @@
 {
 	position: absolute;
 	width: 22px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	top: -13px;
@@ -542,171 +725,6 @@
 	cursor: pointer;
 }
 
-#ptop
-{
-	width: 0.01px;
-	margin-left: -100px;
-	margin-top: -85px;
-}
-
-#top
-{
-	position: relative;
-	width: 22px;
-	margin-right: -10000px;
-	left: 569px;
-}
-
-#u11884
-{
-	z-index: 31;
-	min-height: 605px;
-	padding-bottom: 110px;
-	background: transparent url("../images/out%20of%20the%20box%20data%20security%20business%20wallpaper.jpg") no-repeat center bottom;
-	background-size: cover;
-}
-
-#u11884_align_to_page
-{
-	margin-left: auto;
-	margin-right: auto;
-	width: 960px;
-	position: relative;
-	left: -100px;
-}
-
-#u11937
-{
-	z-index: 47;
-	width: 960px;
-	background-color: #98A2B2;
-	background-color: rgba(45,67,99,0.49);
-	padding-bottom: 196px;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 96px;
-	left: 100px;
-	-pie-background: rgba(45,67,99,0.49);
-}
-
-#u11991
-{
-	z-index: 124;
-	width: 345px;
-	border-width: 11px;
-	border-style: solid;
-	border-color: #F3AE00;
-	background-color: #F3AE00;
-	border-radius: 10px;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 262px;
-	left: 286px;
-}
-
-#u11991:hover
-{
-	border-color: #BFF300;
-	background-color: #BFF300;
-	width: 345px;
-	min-height: 0px;
-	margin: 262px -10000px 0px 0px;
-}
-
-#u11992-4
-{
-	z-index: 125;
-	width: 318px;
-	min-height: 40px;
-	background-color: transparent;
-	color: #FFFFFF;
-	font-size: 30px;
-	text-align: center;
-	font-family: open-sans, sans-serif;
-	font-weight: 600;
-	margin-bottom: -5px;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: -6px;
-	left: 13px;
-}
-
-#u11884-bw
-{
-	z-index: 31;
-	min-height: 605px;
-	margin-top: 77px;
-}
-
-#u11973-5
-{
-	z-index: 32;
-	width: 70px;
-	min-height: 22px;
-	background-color: transparent;
-	font-family: advent-pro, sans-serif;
-	font-weight: 600;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 37px;
-	left: 850px;
-}
-
-#u11975-5
-{
-	z-index: 37;
-	width: 70px;
-	min-height: 22px;
-	background-color: transparent;
-	font-family: advent-pro, sans-serif;
-	font-weight: 600;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 37px;
-	left: 920px;
-}
-
-#u11973-3,#u11975-3
-{
-	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
-}
-
-#u11973,#u11975
-{
-	font-size: 18px;
-	font-family: open-sans, sans-serif;
-	font-weight: 600;
-}
-
-#u11972
-{
-	z-index: 42;
-	width: 165px;
-	height: 154px;
-	border-style: none;
-	border-color: transparent;
-	position: relative;
-	margin-right: -10000px;
-	left: 117px;
-	background: transparent url("../images/out%20of%20the%20box%20data%20security-u11113-fr.png") no-repeat center center;
-	background-size: contain;
-}
-
-#u11974-4
-{
-	z-index: 43;
-	width: 174px;
-	min-height: 43px;
-	background-color: transparent;
-	font-size: 36px;
-	font-family: open-sans, sans-serif;
-	font-weight: 600;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 34px;
-	left: 282px;
-}
-
 #u11936-8
 {
 	z-index: 116;
@@ -719,7 +737,7 @@
 	font-weight: 400;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 173px;
+	margin-top: 186px;
 	left: 100px;
 }
 
@@ -729,7 +747,7 @@
 	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
 }
 
-#u11973-3  span,#u11973-3  a,#u11975-3  span,#u11936-3  span /* line-height set on spans of mixed font sized paras */
+#u11973-3 span,#u11973-3 a,#u11975-3 span,#u11936-3 span /* line-height set on spans of mixed font sized paras */
 {
 	line-height: 1.2;
 }
@@ -760,11 +778,11 @@
 {
 	margin-left: auto;
 	margin-right: auto;
+	position: relative;
 	width: 960px;
 	left: -100px;
 	padding-top: 37px;
 	padding-bottom: 8px;
-	margin-bottom: -3px;
 }
 
 #u10803-17
@@ -773,6 +791,7 @@
 	width: 490px;
 	min-height: 18px;
 	left: 335px;
+	position: relative;
 }
 
 #u10801-5
@@ -782,6 +801,7 @@
 	min-height: 18px;
 	left: 491px;
 	margin-top: 7px;
+	position: relative;
 }
 
 #u10800-4
@@ -791,6 +811,7 @@
 	min-height: 18px;
 	left: 326px;
 	margin-top: 6px;
+	position: relative;
 }
 
 #u10802
@@ -800,13 +821,20 @@
 	height: 70px;
 	left: 545px;
 	margin-top: 3px;
+	position: relative;
 }
 
 #u10799-bw
 {
 	z-index: 2;
 	min-height: 184.63056818311975px;
+	margin-bottom: -9px;
 	margin-top: -3px;
+}
+
+#muse_css_mq,.html
+{
+	background-color: #FFFFFF;
 }
 
 body
@@ -815,8 +843,8 @@ body
 	min-width: 960px;
 }
 
-#page .verticalspacer
+.verticalspacer
 {
-	clear: both;
+	min-height: 1px;
 }
 

@@ -1,12 +1,12 @@
 .version.ootbds_account_activated /* version checker */
 {
-	color: #000014;
-	background-color: #56DA84;
+	color: #0000E4;
+	background-color: #60C904;
 }
 
-.html
+#muse_css_mq
 {
-	background-color: #00BFF3;
+	background-color: #FFFFFF;
 }
 
 #page
@@ -15,7 +15,7 @@
 	width: 960px;
 	min-height: 681px;
 	background-image: none;
-	border-style: none;
+	border-width: 0px;
 	border-color: #000000;
 	background-color: #00BFF3;
 	margin-left: auto;
@@ -26,7 +26,7 @@
 {
 	margin-bottom: -9px;
 	padding-top: 20px;
-	width: 0.01px;
+	width: 0.01px;/* should not cover content below */
 }
 
 #u9530
@@ -87,6 +87,7 @@
 {
 	margin-left: auto;
 	margin-right: auto;
+	position: relative;
 	width: 960px;
 	left: -100px;
 	padding-top: 37px;
@@ -100,6 +101,7 @@
 	width: 490px;
 	min-height: 18px;
 	left: 335px;
+	position: relative;
 }
 
 #u10801-5
@@ -109,6 +111,7 @@
 	min-height: 18px;
 	left: 491px;
 	margin-top: 7px;
+	position: relative;
 }
 
 #u10800-4
@@ -118,6 +121,7 @@
 	min-height: 18px;
 	left: 326px;
 	margin-top: 6px;
+	position: relative;
 }
 
 #u10802
@@ -127,6 +131,17 @@
 	height: 70px;
 	left: 545px;
 	margin-top: 3px;
+	position: relative;
+}
+
+.js body
+{
+	visibility: hidden;
+}
+
+.js body.initialized
+{
+	visibility: visible;
 }
 
 #u10799-bw
@@ -136,14 +151,14 @@
 	margin-top: -3px;
 }
 
+.html
+{
+	background-color: #00BFF3;
+}
+
 body
 {
 	position: relative;
 	min-width: 960px;
-}
-
-#page .verticalspacer
-{
-	clear: both;
 }
 

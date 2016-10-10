@@ -1,22 +1,12 @@
-.recaptcha_is_showing_audio #u12810.mode-audio
-{
-	background: transparent url("../images/recaptchamodeimage.png") no-repeat center center;
-	background-size: contain;
-}
-
 .recaptcha_isnot_showing_audio #u12810.mode-image
 {
 	background: transparent url("../images/recaptchamodeaudio.png") no-repeat center center;
 	background-size: contain;
 }
 
-.recaptcha_is_showing_audio #u12810.mode-audio:hover
+.recaptcha_is_showing_audio #u12810.mode-audio
 {
-	width: 18px;
-	height: 18px;
-	min-height: 0px;
-	margin: 20px -10000px 0px 0px;
-	background: transparent url("../images/recaptchamodeimagerollover.jpg") no-repeat center center;
+	background: transparent url("../images/recaptchamodeimage.png") no-repeat center center;
 	background-size: contain;
 }
 
@@ -30,13 +20,13 @@
 	background-size: contain;
 }
 
-.recaptcha_is_showing_audio #u12810.mode-audio:active
+.recaptcha_is_showing_audio #u12810.mode-audio:hover
 {
 	width: 18px;
 	height: 18px;
 	min-height: 0px;
 	margin: 20px -10000px 0px 0px;
-	background: transparent url("../images/recaptchamodeimagemousedown.jpg") no-repeat center center;
+	background: transparent url("../images/recaptchamodeimagerollover.jpg") no-repeat center center;
 	background-size: contain;
 }
 
@@ -50,10 +40,20 @@
 	background-size: contain;
 }
 
+.recaptcha_is_showing_audio #u12810.mode-audio:active
+{
+	width: 18px;
+	height: 18px;
+	min-height: 0px;
+	margin: 20px -10000px 0px 0px;
+	background: transparent url("../images/recaptchamodeimagemousedown.jpg") no-repeat center center;
+	background-size: contain;
+}
+
 .version.refer_a_friend /* version checker */
 {
-	color: #0000E4;
-	background-color: #E8A420;
+	color: #000013;
+	background-color: #25CED9;
 }
 
 #page
@@ -62,7 +62,7 @@
 	width: 960px;
 	min-height: 891px;
 	background-image: none;
-	border-style: none;
+	border-width: 0px;
 	border-color: #000000;
 	background-color: transparent;
 	margin-left: auto;
@@ -81,7 +81,7 @@
 	z-index: 30;
 	width: 200px;
 	min-height: 100px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	position: relative;
@@ -94,10 +94,15 @@
 {
 	z-index: 31;
 	height: 714px;
-	border-width: 1px;
 	border-style: solid;
+	border-width: 1px;
 	border-color: #00BFF3;
 	background-color: #00BFF3;
+}
+
+.js body.initialized
+{
+	visibility: visible;
 }
 
 #u12671-bw
@@ -141,7 +146,7 @@
 	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
 }
 
-#u12669-3  span,#u12669-3  a,#u12670-2  span /* line-height set on spans of mixed font sized paras */
+#u12669-3 span,#u12669-3 a,#u12670-2 span /* line-height set on spans of mixed font sized paras */
 {
 	line-height: 1.2;
 }
@@ -158,12 +163,12 @@
 	z-index: 41;
 	width: 165px;
 	height: 154px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 	left: 117px;
-	background: transparent url("../images/out%20of%20the%20box%20data%20security-u11113-fr.png") no-repeat center center;
+	background: transparent url("../images/out%20of%20the%20box%20data%20security-u11061-fr.png") no-repeat center center;
 	background-size: contain;
 }
 
@@ -209,7 +214,7 @@
 	z-index: 49;
 	width: 251px;
 	height: 47px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	position: relative;
@@ -233,7 +238,7 @@
 	z-index: 50;
 	width: 244px;
 	min-height: 20px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	line-height: 1;
@@ -248,7 +253,7 @@
 
 #widgetu12726.fld-err-st #u12729-4
 {
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	padding-top: 0px;
 	padding-bottom: 0px;
@@ -262,8 +267,8 @@
 	z-index: 54;
 	width: 188px;
 	min-height: 14px;
-	border-width: 1px;
 	border-style: solid;
+	border-width: 1px;
 	border-color: #C4C4C4;
 	background-color: #F2F2F2;
 	padding: 6px;
@@ -277,7 +282,7 @@
 	margin-top: 19px;
 }
 
-.html,#widgetu12726.non-empty-st #u12728-4
+#muse_css_mq,#widgetu12726.non-empty-st #u12728-4
 {
 	background-color: #FFFFFF;
 }
@@ -346,7 +351,7 @@
 	z-index: 62;
 	width: 251px;
 	height: 47px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	position: relative;
@@ -370,7 +375,7 @@
 	z-index: 63;
 	width: 244px;
 	min-height: 20px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	line-height: 1;
@@ -388,8 +393,8 @@
 	z-index: 67;
 	width: 188px;
 	min-height: 14px;
-	border-width: 1px;
 	border-style: solid;
+	border-width: 1px;
 	border-color: #C4C4C4;
 	background-color: #F2F2F2;
 	padding: 6px;
@@ -575,22 +580,22 @@
 	margin-right: -10000px;
 	margin-top: 334px;
 	left: 369px;
-	background: url("../images/u12699-17.png") no-repeat 0px 0px;
+	background: transparent url("../images/u12699-17.png") no-repeat 0px 0px;
 }
 
 #u12699-17:hover
 {
-	background: url("../images/u12699-17-r.png") no-repeat 0px 0px;
+	background: transparent url("../images/u12699-17-r.png") no-repeat 0px 0px;
 }
 
 #u12699-17:active
 {
-	background: url("../images/u12699-17-m.png") no-repeat 0px 0px;
+	background: transparent url("../images/u12699-17-m.png") no-repeat 0px 0px;
 }
 
 #widgetu12698.frm-sub-st #u12699-17
 {
-	background: url("../images/u12699-17-fs.png") no-repeat 0px 0px;
+	background: transparent url("../images/u12699-17-fs.png") no-repeat 0px 0px;
 }
 
 #widgetu12739
@@ -598,7 +603,7 @@
 	z-index: 104;
 	width: 245px;
 	height: 47px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	position: relative;
@@ -621,7 +626,7 @@
 	z-index: 105;
 	width: 244px;
 	min-height: 20px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	line-height: 1;
@@ -639,8 +644,8 @@
 	z-index: 109;
 	width: 188px;
 	min-height: 14px;
-	border-width: 1px;
 	border-style: solid;
+	border-width: 1px;
 	border-color: #C4C4C4;
 	background-color: #F2F2F2;
 	padding: 6px;
@@ -723,7 +728,7 @@
 	z-index: 117;
 	width: 245px;
 	height: 47px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	position: relative;
@@ -747,7 +752,7 @@
 	z-index: 118;
 	width: 244px;
 	min-height: 20px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	line-height: 1;
@@ -765,8 +770,8 @@
 	z-index: 122;
 	width: 188px;
 	min-height: 14px;
-	border-width: 1px;
 	border-style: solid;
+	border-width: 1px;
 	border-color: #C4C4C4;
 	background-color: #F2F2F2;
 	padding: 6px;
@@ -849,7 +854,7 @@
 	z-index: 130;
 	width: 245px;
 	height: 47px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	position: relative;
@@ -873,7 +878,7 @@
 	z-index: 131;
 	width: 244px;
 	min-height: 20px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	line-height: 1;
@@ -891,8 +896,8 @@
 	z-index: 135;
 	width: 188px;
 	min-height: 14px;
-	border-width: 1px;
 	border-style: solid;
+	border-width: 1px;
 	border-color: #C4C4C4;
 	background-color: #F2F2F2;
 	padding: 6px;
@@ -975,7 +980,7 @@
 	z-index: 143;
 	width: 245px;
 	height: 47px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	position: relative;
@@ -999,7 +1004,7 @@
 	z-index: 144;
 	width: 244px;
 	min-height: 20px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	line-height: 1;
@@ -1017,8 +1022,8 @@
 	z-index: 148;
 	width: 188px;
 	min-height: 14px;
-	border-width: 1px;
 	border-style: solid;
+	border-width: 1px;
 	border-color: #C4C4C4;
 	background-color: #F2F2F2;
 	padding: 6px;
@@ -1101,7 +1106,7 @@
 	z-index: 156;
 	width: 245px;
 	height: 47px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	position: relative;
@@ -1125,7 +1130,7 @@
 	z-index: 157;
 	width: 244px;
 	min-height: 20px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	line-height: 1;
@@ -1152,8 +1157,8 @@
 	z-index: 161;
 	width: 188px;
 	min-height: 14px;
-	border-width: 1px;
 	border-style: solid;
+	border-width: 1px;
 	border-color: #C4C4C4;
 	background-color: #F2F2F2;
 	padding: 6px;
@@ -1243,7 +1248,7 @@
 	z-index: 169;
 	width: 202px;
 	height: 47px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	position: relative;
@@ -1266,8 +1271,8 @@
 	z-index: 170;
 	width: 188px;
 	min-height: 14px;
-	border-width: 1px;
 	border-style: solid;
+	border-width: 1px;
 	border-color: #C4C4C4;
 	background-color: #F2F2F2;
 	padding: 6px;
@@ -1350,7 +1355,7 @@
 	z-index: 178;
 	width: 202px;
 	height: 47px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	position: relative;
@@ -1374,8 +1379,8 @@
 	z-index: 179;
 	width: 188px;
 	min-height: 14px;
-	border-width: 1px;
 	border-style: solid;
+	border-width: 1px;
 	border-color: #C4C4C4;
 	background-color: #F2F2F2;
 	padding: 6px;
@@ -1458,7 +1463,7 @@
 	z-index: 187;
 	width: 202px;
 	height: 47px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	position: relative;
@@ -1482,8 +1487,8 @@
 	z-index: 188;
 	width: 188px;
 	min-height: 14px;
-	border-width: 1px;
 	border-style: solid;
+	border-width: 1px;
 	border-color: #C4C4C4;
 	background-color: #F2F2F2;
 	padding: 6px;
@@ -1566,7 +1571,7 @@
 	z-index: 196;
 	width: 202px;
 	height: 47px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	position: relative;
@@ -1590,8 +1595,8 @@
 	z-index: 197;
 	width: 188px;
 	min-height: 14px;
-	border-width: 1px;
 	border-style: solid;
+	border-width: 1px;
 	border-color: #C4C4C4;
 	background-color: #F2F2F2;
 	padding: 6px;
@@ -1674,7 +1679,7 @@
 	z-index: 205;
 	width: 202px;
 	height: 47px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	position: relative;
@@ -1698,8 +1703,8 @@
 	z-index: 206;
 	width: 188px;
 	min-height: 14px;
-	border-width: 1px;
 	border-style: solid;
+	border-width: 1px;
 	border-color: #C4C4C4;
 	background-color: #F2F2F2;
 	padding: 6px;
@@ -1793,7 +1798,7 @@
 	z-index: 214;
 	width: 270px;
 	height: 40px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	position: relative;
@@ -1816,7 +1821,7 @@
 	z-index: 215;
 	width: 244px;
 	min-height: 20px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	line-height: 1;
@@ -1975,7 +1980,7 @@
 	z-index: 226;
 	width: 331px;
 	height: 109px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	position: relative;
@@ -1999,8 +2004,8 @@
 	z-index: 227;
 	width: 188px;
 	min-height: 14px;
-	border-width: 1px;
 	border-style: solid;
+	border-width: 1px;
 	border-color: #C4C4C4;
 	background-color: #F2F2F2;
 	padding: 6px;
@@ -2211,7 +2216,7 @@
 	padding-bottom: 6px;
 }
 
-#widgetu12726.non-empty-st #widgetu12726_prompt,#widgetu12721.non-empty-st #widgetu12721_prompt,#widgetu12739.non-empty-st #widgetu12739_prompt,#widgetu12743.non-empty-st #widgetu12743_prompt,#widgetu12747.non-empty-st #widgetu12747_prompt,#widgetu12751.non-empty-st #widgetu12751_prompt,#widgetu12755.non-empty-st #widgetu12755_prompt,#widgetu12762.non-empty-st #widgetu12762_prompt,#widgetu12766.non-empty-st #widgetu12766_prompt,#widgetu12770.non-empty-st #widgetu12770_prompt,#widgetu12774.non-empty-st #widgetu12774_prompt,#widgetu12778.non-empty-st #widgetu12778_prompt,#widgetu12805.non-empty-st #widgetu12805_prompt
+.js body,#widgetu12726.non-empty-st #widgetu12726_prompt,#widgetu12721.non-empty-st #widgetu12721_prompt,#widgetu12739.non-empty-st #widgetu12739_prompt,#widgetu12743.non-empty-st #widgetu12743_prompt,#widgetu12747.non-empty-st #widgetu12747_prompt,#widgetu12751.non-empty-st #widgetu12751_prompt,#widgetu12755.non-empty-st #widgetu12755_prompt,#widgetu12762.non-empty-st #widgetu12762_prompt,#widgetu12766.non-empty-st #widgetu12766_prompt,#widgetu12770.non-empty-st #widgetu12770_prompt,#widgetu12774.non-empty-st #widgetu12774_prompt,#widgetu12778.non-empty-st #widgetu12778_prompt,#widgetu12805.non-empty-st #widgetu12805_prompt
 {
 	visibility: hidden;
 }
@@ -2234,8 +2239,8 @@
 {
 	z-index: 243;
 	width: 345px;
-	border-width: 11px;
 	border-style: solid;
+	border-width: 11px;
 	border-color: #F3AE00;
 	background-color: #F3AE00;
 	border-radius: 10px;
@@ -2320,7 +2325,7 @@
 {
 	position: absolute;
 	width: 131px;
-	border-style: none;
+	border-width: 0px;
 	background-color: transparent;
 	padding-bottom: 4px;
 	top: -37px;
@@ -2339,7 +2344,7 @@
 	z-index: 252;
 	width: 84px;
 	min-height: 10px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	padding: 6px;
 	color: #474747;
@@ -2354,7 +2359,7 @@
 
 #u12638:hover #u12639-3
 {
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	padding-top: 6px;
 	padding-bottom: 6px;
@@ -2365,7 +2370,7 @@
 
 #u12638.PamphletThumbSelected #u12639-3
 {
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	padding-top: 6px;
 	padding-bottom: 6px;
@@ -2377,7 +2382,6 @@
 .Form
 {
 	border-width: 3px;
-	border-style: solid;
 	border-color: #353535;
 	background-color: transparent;
 }
@@ -2424,7 +2428,7 @@
 	z-index: 256;
 	width: 960px;
 	height: 402px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: #FFFFFF;
 	margin-right: -10000px;
@@ -2465,12 +2469,19 @@
 
 #u12652:hover
 {
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	border-radius: 2px;
 	width: 317px;
 	min-height: 0px;
 	margin: 0px -10000px 0px 0px;
+}
+
+#u12652_position_content
+{
+	padding-top: 8px;
+	padding-bottom: 13px;
+	width: 100%;
 }
 
 #u12659-4
@@ -2492,7 +2503,7 @@
 	z-index: 293;
 	width: 316px;
 	min-height: 97px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	font-weight: 400;
@@ -2501,7 +2512,7 @@
 
 #u12647-6:hover
 {
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	padding-top: 0px;
@@ -2533,6 +2544,8 @@
 	width: 317px;
 	border-color: #FFFFFF;
 	background-color: #F3AE00;
+	padding-top: 8px;
+	padding-bottom: 13px;
 	position: relative;
 	margin-right: -10000px;
 	left: 321px;
@@ -2540,7 +2553,17 @@
 
 #u12652:active,#u12653:hover
 {
-	border-style: none;
+	border-width: 0px;
+	border-color: transparent;
+	border-radius: 2px;
+	width: 317px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u12653:active
+{
+	border-width: 0px;
 	border-color: transparent;
 	border-radius: 2px;
 	width: 317px;
@@ -2567,7 +2590,7 @@
 	z-index: 270;
 	width: 317px;
 	min-height: 97px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	font-weight: 400;
@@ -2608,38 +2631,35 @@
 #u12646
 {
 	z-index: 257;
-	width: 317px;
+	width: 316px;
 	border-color: #FFFFFF;
 	background-color: #F33400;
+	padding-top: 8px;
+	padding-right: 1px;
+	padding-bottom: 13px;
 	position: relative;
 	margin-right: -10000px;
 	left: 643px;
 }
 
-#u12653:active,#u12646:hover
+#u12646:hover
 {
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	border-radius: 2px;
-	width: 317px;
+	width: 316px;
 	min-height: 0px;
 	margin: 0px -10000px 0px 0px;
 }
 
 #u12646:active
 {
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	border-radius: 2px;
-	width: 317px;
+	width: 316px;
 	min-height: 0px;
 	margin: 0px -10000px 0px 0px;
-}
-
-#u12652_position_content,#u12653_position_content,#u12646_position_content
-{
-	padding-top: 8px;
-	padding-bottom: 13px;
 }
 
 #u12658-4
@@ -2661,7 +2681,7 @@
 	z-index: 258;
 	width: 317px;
 	min-height: 97px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	position: relative;
@@ -2669,7 +2689,7 @@
 
 #u12656-6:hover,#u12654-7:hover
 {
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	padding-top: 0px;
@@ -2681,7 +2701,7 @@
 
 #u12654-7:active
 {
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	padding-top: 0px;
@@ -2706,7 +2726,7 @@
 	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
 }
 
-#u12654-5  span /* line-height set on spans of mixed font sized paras */
+#u12654-5 span /* line-height set on spans of mixed font sized paras */
 {
 	line-height: 1.4;
 }
@@ -2799,7 +2819,7 @@
 {
 	position: absolute;
 	width: 22px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	left: 1311px;
@@ -2844,6 +2864,7 @@
 {
 	margin-left: auto;
 	margin-right: auto;
+	position: relative;
 	width: 960px;
 	left: -100px;
 	padding-top: 37px;
@@ -2856,6 +2877,7 @@
 	width: 490px;
 	min-height: 18px;
 	left: 335px;
+	position: relative;
 }
 
 #u10801-5
@@ -2865,6 +2887,7 @@
 	min-height: 18px;
 	left: 491px;
 	margin-top: 7px;
+	position: relative;
 }
 
 #u10800-4
@@ -2874,6 +2897,7 @@
 	min-height: 18px;
 	left: 326px;
 	margin-top: 6px;
+	position: relative;
 }
 
 #u10802
@@ -2883,6 +2907,7 @@
 	height: 70px;
 	left: 545px;
 	margin-top: 3px;
+	position: relative;
 }
 
 #u10799-bw
@@ -2890,7 +2915,12 @@
 	z-index: 2;
 	min-height: 184.63056818311975px;
 	margin-bottom: -9px;
-	margin-top: 790px;
+	margin-top: -3px;
+}
+
+.html
+{
+	background-color: #FFFFFF;
 }
 
 body
@@ -2899,9 +2929,8 @@ body
 	min-width: 960px;
 }
 
-#page .verticalspacer
+.verticalspacer
 {
-	clear: both;
-	margin-bottom: -789px;
+	min-height: 1px;
 }
 

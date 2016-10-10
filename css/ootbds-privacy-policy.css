@@ -1,12 +1,7 @@
 .version.ootbds_privacy_policy /* version checker */
 {
-	color: #00001B;
-	background-color: #980A67;
-}
-
-.html
-{
-	background-color: #FFFFFF;
+	color: #0000E7;
+	background-color: #88ADB9;
 }
 
 #page
@@ -15,7 +10,7 @@
 	width: 960px;
 	min-height: 3448.9381615304387px;
 	background-image: none;
-	border-style: none;
+	border-width: 0px;
 	border-color: #000000;
 	background-color: transparent;
 	padding-bottom: 0px;
@@ -26,7 +21,7 @@
 #page_position_content
 {
 	margin-bottom: -9px;
-	width: 0.01px;
+	width: 0.01px;/* should not cover content below */
 }
 
 #pu8719
@@ -41,11 +36,11 @@
 	z-index: 42;
 	width: 165px;
 	height: 154px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	background: transparent url("../images/out%20of%20the%20box%20data%20security-u11113-fr.png") no-repeat center center;
+	background: transparent url("../images/out%20of%20the%20box%20data%20security-u9076-fr.png") no-repeat center center;
 	background-size: contain;
 }
 
@@ -96,7 +91,7 @@
 {
 	position: absolute;
 	width: 122px;
-	border-style: none;
+	border-width: 0px;
 	background-color: transparent;
 	padding-bottom: 20px;
 	top: -18px;
@@ -115,7 +110,7 @@
 	z-index: 284;
 	width: 81px;
 	min-height: 34px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	padding: 6px;
 	color: #474747;
@@ -130,7 +125,7 @@
 
 #u11415:hover #u11416-3
 {
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	padding-top: 6px;
 	padding-bottom: 6px;
@@ -141,7 +136,7 @@
 
 #u11415.PamphletThumbSelected #u11416-3
 {
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	padding-top: 6px;
 	padding-bottom: 6px;
@@ -153,7 +148,6 @@
 .Form
 {
 	border-width: 3px;
-	border-style: solid;
 	border-color: #353535;
 	background-color: transparent;
 }
@@ -201,7 +195,7 @@
 	z-index: 288;
 	width: 960px;
 	height: 402px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: #FFFFFF;
 	margin-right: -10000px;
@@ -242,12 +236,19 @@
 
 #u11430:hover
 {
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	border-radius: 2px;
 	width: 317px;
 	min-height: 0px;
 	margin: 0px -10000px 0px 0px;
+}
+
+#u11430_position_content
+{
+	padding-top: 8px;
+	padding-bottom: 13px;
+	width: 100%;
 }
 
 #u11424-4
@@ -269,7 +270,7 @@
 	z-index: 324;
 	width: 316px;
 	min-height: 97px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	font-weight: 400;
@@ -278,7 +279,7 @@
 
 #u11422-6:hover
 {
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	padding-top: 0px;
@@ -310,6 +311,8 @@
 	width: 317px;
 	border-color: #FFFFFF;
 	background-color: #F3AE00;
+	padding-top: 8px;
+	padding-bottom: 13px;
 	position: relative;
 	margin-right: -10000px;
 	left: 321px;
@@ -317,7 +320,17 @@
 
 #u11430:active,#u11435:hover
 {
-	border-style: none;
+	border-width: 0px;
+	border-color: transparent;
+	border-radius: 2px;
+	width: 317px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u11435:active
+{
+	border-width: 0px;
 	border-color: transparent;
 	border-radius: 2px;
 	width: 317px;
@@ -344,7 +357,7 @@
 	z-index: 301;
 	width: 317px;
 	min-height: 97px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	font-weight: 400;
@@ -379,38 +392,35 @@
 #u11426
 {
 	z-index: 289;
-	width: 317px;
+	width: 316px;
 	border-color: #FFFFFF;
 	background-color: #F33400;
+	padding-top: 8px;
+	padding-right: 1px;
+	padding-bottom: 13px;
 	position: relative;
 	margin-right: -10000px;
 	left: 643px;
 }
 
-#u11435:active,#u11426:hover
+#u11426:hover
 {
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	border-radius: 2px;
-	width: 317px;
+	width: 316px;
 	min-height: 0px;
 	margin: 0px -10000px 0px 0px;
 }
 
 #u11426:active
 {
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	border-radius: 2px;
-	width: 317px;
+	width: 316px;
 	min-height: 0px;
 	margin: 0px -10000px 0px 0px;
-}
-
-#u11430_position_content,#u11435_position_content,#u11426_position_content
-{
-	padding-top: 8px;
-	padding-bottom: 13px;
 }
 
 #u11433-4
@@ -432,7 +442,7 @@
 	z-index: 290;
 	width: 317px;
 	min-height: 97px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	font-weight: 400;
@@ -441,7 +451,7 @@
 
 #u11429-6:hover,#u11432-6:hover
 {
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	padding-top: 0px;
@@ -453,7 +463,7 @@
 
 #u11432-6:active
 {
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	padding-top: 0px;
@@ -551,7 +561,7 @@
 {
 	position: absolute;
 	width: 22px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	top: 54px;
@@ -605,7 +615,7 @@
 	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
 }
 
-#u8755-3  span,#u8755-3  a,#u8756-3  span,#u8756-3  a /* line-height set on spans of mixed font sized paras */
+#u8755-3 span,#u8755-3 a,#u8756-3 span,#u8756-3 a /* line-height set on spans of mixed font sized paras */
 {
 	line-height: 1.2;
 }
@@ -656,8 +666,8 @@
 
 #u8715-5.MuseLinkActive
 {
-	border-width: 1px;
 	border-style: solid;
+	border-width: 1px;
 	border-color: #000000;
 	background-color: #D3D3D3;
 	padding-top: 0px;
@@ -709,7 +719,7 @@
 	z-index: 30;
 	width: 200px;
 	min-height: 100px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	position: relative;
@@ -723,7 +733,7 @@
 	z-index: 43;
 	width: 856px;
 	min-height: 2960px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	position: relative;
@@ -773,6 +783,7 @@
 {
 	margin-left: auto;
 	margin-right: auto;
+	position: relative;
 	width: 960px;
 	left: -100px;
 	padding-top: 37px;
@@ -786,6 +797,7 @@
 	width: 490px;
 	min-height: 18px;
 	left: 335px;
+	position: relative;
 }
 
 #u10801-5
@@ -795,6 +807,7 @@
 	min-height: 18px;
 	left: 491px;
 	margin-top: 7px;
+	position: relative;
 }
 
 #u10800-4
@@ -804,6 +817,7 @@
 	min-height: 18px;
 	left: 326px;
 	margin-top: 6px;
+	position: relative;
 }
 
 #u10802
@@ -813,6 +827,17 @@
 	height: 70px;
 	left: 545px;
 	margin-top: 3px;
+	position: relative;
+}
+
+.js body
+{
+	visibility: hidden;
+}
+
+.js body.initialized
+{
+	visibility: visible;
 }
 
 #u10799-bw
@@ -822,14 +847,14 @@
 	margin-top: -7px;
 }
 
+#muse_css_mq,.html
+{
+	background-color: #FFFFFF;
+}
+
 body
 {
 	position: relative;
 	min-width: 960px;
-}
-
-#page .verticalspacer
-{
-	clear: both;
 }
 

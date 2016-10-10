@@ -1,12 +1,7 @@
 .version.ootbds_terms_of_service /* version checker */
 {
-	color: #000007;
-	background-color: #6F7016;
-}
-
-.html
-{
-	background-color: #FFFFFF;
+	color: #000009;
+	background-color: #D065A1;
 }
 
 #page
@@ -15,7 +10,7 @@
 	width: 960px;
 	min-height: 4004.913161530438px;
 	background-image: none;
-	border-style: none;
+	border-width: 0px;
 	border-color: #000000;
 	background-color: transparent;
 	padding-bottom: 0px;
@@ -26,7 +21,7 @@
 #page_position_content
 {
 	margin-bottom: -9px;
-	width: 0.01px;
+	width: 0.01px;/* should not cover content below */
 }
 
 #pu7136
@@ -41,11 +36,11 @@
 	z-index: 42;
 	width: 165px;
 	height: 154px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	background: transparent url("../images/out%20of%20the%20box%20data%20security-u11113-fr.png") no-repeat center center;
+	background: transparent url("../images/out%20of%20the%20box%20data%20security-u9076-fr.png") no-repeat center center;
 	background-size: contain;
 }
 
@@ -95,7 +90,7 @@
 {
 	position: absolute;
 	width: 127px;
-	border-style: none;
+	border-width: 0px;
 	background-color: transparent;
 	padding-bottom: 14px;
 	top: -27px;
@@ -114,7 +109,7 @@
 	z-index: 265;
 	width: 108px;
 	min-height: 31px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	padding: 6px;
 	color: #474747;
@@ -129,7 +124,7 @@
 
 #u11443:hover #u11444-3
 {
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	padding-top: 6px;
 	padding-bottom: 6px;
@@ -140,7 +135,7 @@
 
 #u11443.PamphletThumbSelected #u11444-3
 {
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	padding-top: 6px;
 	padding-bottom: 6px;
@@ -152,7 +147,6 @@
 .Form
 {
 	border-width: 3px;
-	border-style: solid;
 	border-color: #353535;
 	background-color: transparent;
 }
@@ -200,7 +194,7 @@
 	z-index: 269;
 	width: 960px;
 	height: 402px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: #FFFFFF;
 	margin-right: -10000px;
@@ -241,12 +235,19 @@
 
 #u11458:hover
 {
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	border-radius: 2px;
 	width: 317px;
 	min-height: 0px;
 	margin: 0px -10000px 0px 0px;
+}
+
+#u11458_position_content
+{
+	padding-top: 8px;
+	padding-bottom: 13px;
+	width: 100%;
 }
 
 #u11452-4
@@ -268,7 +269,7 @@
 	z-index: 305;
 	width: 316px;
 	min-height: 97px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	font-weight: 400;
@@ -277,7 +278,7 @@
 
 #u11450-6:hover
 {
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	padding-top: 0px;
@@ -309,6 +310,8 @@
 	width: 317px;
 	border-color: #FFFFFF;
 	background-color: #F3AE00;
+	padding-top: 8px;
+	padding-bottom: 13px;
 	position: relative;
 	margin-right: -10000px;
 	left: 321px;
@@ -316,7 +319,17 @@
 
 #u11458:active,#u11463:hover
 {
-	border-style: none;
+	border-width: 0px;
+	border-color: transparent;
+	border-radius: 2px;
+	width: 317px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u11463:active
+{
+	border-width: 0px;
 	border-color: transparent;
 	border-radius: 2px;
 	width: 317px;
@@ -343,7 +356,7 @@
 	z-index: 282;
 	width: 317px;
 	min-height: 97px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	font-weight: 400;
@@ -378,38 +391,35 @@
 #u11454
 {
 	z-index: 270;
-	width: 317px;
+	width: 316px;
 	border-color: #FFFFFF;
 	background-color: #F33400;
+	padding-top: 8px;
+	padding-right: 1px;
+	padding-bottom: 13px;
 	position: relative;
 	margin-right: -10000px;
 	left: 643px;
 }
 
-#u11463:active,#u11454:hover
+#u11454:hover
 {
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	border-radius: 2px;
-	width: 317px;
+	width: 316px;
 	min-height: 0px;
 	margin: 0px -10000px 0px 0px;
 }
 
 #u11454:active
 {
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	border-radius: 2px;
-	width: 317px;
+	width: 316px;
 	min-height: 0px;
 	margin: 0px -10000px 0px 0px;
-}
-
-#u11458_position_content,#u11463_position_content,#u11454_position_content
-{
-	padding-top: 8px;
-	padding-bottom: 13px;
 }
 
 #u11461-4
@@ -431,7 +441,7 @@
 	z-index: 271;
 	width: 317px;
 	min-height: 97px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	font-weight: 400;
@@ -440,7 +450,7 @@
 
 #u11457-6:hover,#u11460-6:hover
 {
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	padding-top: 0px;
@@ -452,7 +462,7 @@
 
 #u11460-6:active
 {
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	padding-top: 0px;
@@ -550,7 +560,7 @@
 {
 	position: absolute;
 	width: 22px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	top: 142px;
@@ -604,7 +614,7 @@
 	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
 }
 
-#u7145-3  span,#u7145-3  a,#u7146-3  span,#u7146-3  a /* line-height set on spans of mixed font sized paras */
+#u7145-3 span,#u7145-3 a,#u7146-3 span,#u7146-3 a /* line-height set on spans of mixed font sized paras */
 {
 	line-height: 1.2;
 }
@@ -680,8 +690,8 @@
 
 #u8112-5.MuseLinkActive
 {
-	border-width: 1px;
 	border-style: solid;
+	border-width: 1px;
 	border-color: #000000;
 	background-color: #D3D3D3;
 	padding-top: 0px;
@@ -708,7 +718,7 @@
 	z-index: 30;
 	width: 200px;
 	min-height: 100px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	position: relative;
@@ -722,7 +732,7 @@
 	z-index: 47;
 	width: 856px;
 	min-height: 3504px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	position: relative;
@@ -772,6 +782,7 @@
 {
 	margin-left: auto;
 	margin-right: auto;
+	position: relative;
 	width: 960px;
 	left: -100px;
 	padding-top: 37px;
@@ -785,6 +796,7 @@
 	width: 490px;
 	min-height: 18px;
 	left: 335px;
+	position: relative;
 }
 
 #u10801-5
@@ -794,6 +806,7 @@
 	min-height: 18px;
 	left: 491px;
 	margin-top: 7px;
+	position: relative;
 }
 
 #u10800-4
@@ -803,6 +816,7 @@
 	min-height: 18px;
 	left: 326px;
 	margin-top: 6px;
+	position: relative;
 }
 
 #u10802
@@ -812,6 +826,17 @@
 	height: 70px;
 	left: 545px;
 	margin-top: 3px;
+	position: relative;
+}
+
+.js body
+{
+	visibility: hidden;
+}
+
+.js body.initialized
+{
+	visibility: visible;
 }
 
 #u10799-bw
@@ -821,14 +846,14 @@
 	margin-top: -7px;
 }
 
+#muse_css_mq,.html
+{
+	background-color: #FFFFFF;
+}
+
 body
 {
 	position: relative;
 	min-width: 960px;
-}
-
-#page .verticalspacer
-{
-	clear: both;
 }
 
