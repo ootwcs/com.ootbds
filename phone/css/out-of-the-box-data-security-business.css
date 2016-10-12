@@ -1,7 +1,7 @@
 .version.out_of_the_box_data_security_business /* version checker */
 {
-	color: #0000F8;
-	background-color: #6E2F27;
+	color: #0000E9;
+	background-color: #C7A6A3;
 }
 
 #page
@@ -120,11 +120,11 @@
 	opacity: 0.5;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
 	filter: alpha(opacity=50);
-	line-height: 1.1;
 	font-size: 11px;
 	letter-spacing: 4px;
 	color: #000000;
 	text-align: center;
+	line-height: 1.1;
 	font-family: open-sans, sans-serif;
 	font-weight: 600;
 	margin-left: 128px;

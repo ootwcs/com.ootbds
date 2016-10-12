@@ -52,8 +52,8 @@
 
 .version.out_of_the_box_data_security_enterprise_contact /* version checker */
 {
-	color: #0000E9;
-	background-color: #5E3DAF;
+	color: #0000FE;
+	background-color: #DE694E;
 }
 
 #page
@@ -102,7 +102,7 @@
 	border-color: transparent;
 	margin-left: 108px;
 	position: relative;
-	background: transparent url("../../images/out%20of%20the%20box%20data%20security-u11061-fr.png") no-repeat center center;
+	background: transparent url("../../images/out%20of%20the%20box%20data%20security-u9076-fr.png") no-repeat center center;
 	background-size: contain;
 }
 
@@ -115,11 +115,11 @@
 	opacity: 0.5;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
 	filter: alpha(opacity=50);
-	line-height: 1.1;
 	font-size: 11px;
 	letter-spacing: 4px;
 	color: #000000;
 	text-align: center;
+	line-height: 1.1;
 	font-family: open-sans, sans-serif;
 	font-weight: 600;
 	margin-left: 129px;
@@ -240,9 +240,9 @@
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 1;
 	color: #000000;
 	text-align: left;
+	line-height: 1;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -271,8 +271,8 @@
 	border-color: #C4C4C4;
 	background-color: #F2F2F2;
 	padding: 6px;
-	line-height: 1;
 	color: #000000;
+	line-height: 1;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
 	font-style: italic;
@@ -358,9 +358,9 @@
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 1;
 	color: #000000;
 	text-align: left;
+	line-height: 1;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -378,8 +378,8 @@
 	border-color: #C4C4C4;
 	background-color: #F2F2F2;
 	padding: 6px;
-	line-height: 1;
 	color: #000000;
+	line-height: 1;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
 	font-style: italic;
@@ -503,9 +503,9 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
 	padding-top: 4px;
-	line-height: 1;
 	color: #25FFAA;
 	font-size: 12px;
+	line-height: 1;
 	font-family: open-sans, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -589,9 +589,9 @@
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 1;
 	color: #000000;
 	text-align: left;
+	line-height: 1;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -609,8 +609,8 @@
 	border-color: #C4C4C4;
 	background-color: #F2F2F2;
 	padding: 6px;
-	line-height: 1;
 	color: #000000;
+	line-height: 1;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
 	font-style: italic;
@@ -707,9 +707,9 @@
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 1;
 	color: #000000;
 	text-align: left;
+	line-height: 1;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -727,8 +727,8 @@
 	border-color: #C4C4C4;
 	background-color: #F2F2F2;
 	padding: 6px;
-	line-height: 1;
 	color: #000000;
+	line-height: 1;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
 	font-style: italic;
@@ -946,9 +946,9 @@
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 1;
 	color: #FFFFFF;
 	text-align: left;
+	line-height: 1;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
 	position: relative;

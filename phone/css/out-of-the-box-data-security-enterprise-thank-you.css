@@ -1,7 +1,7 @@
 .version.out_of_the_box_data_security_enterprise_thank_you /* version checker */
 {
-	color: #0000E5;
-	background-color: #B2AD8D;
+	color: #0000FE;
+	background-color: #FEB5BE;
 }
 
 #page
@@ -126,9 +126,9 @@
 	z-index: 5;
 	min-height: 303px;
 	background-color: transparent;
-	line-height: 1.4;
 	color: #FFFFFF;
 	text-align: center;
+	line-height: 1.4;
 	font-family: open-sans, sans-serif;
 	font-weight: 400;
 }

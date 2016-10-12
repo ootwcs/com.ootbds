@@ -1,7 +1,8 @@
 #u10799
 {
 	border-color: #00BFF3;
-	background-color: #00BFF3;
+	background: transparent url("../images/background.jpg") no-repeat center center;
+	background-size: cover;
 }
 
 #u10803-17
@@ -16,15 +17,15 @@
 #u10801-5
 {
 	background-color: transparent;
-	line-height: 1.4;
 	font-size: 12px;
 	color: #25C4AA;
 	text-align: center;
+	line-height: 1.4;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
 }
 
-#u10803,#u10803-3,#u10803-4,#u10803-6,#u10803-7,#u10803-9,#u10803-10,#u10803-11,#u10803-13,#u10801
+#u10803,#u10803-3,#u10803-4,#u10803-6,#u10803-7,#u10803-9,#u10803-10,#u10803-12,#u10803-13,#u10801
 {
 	font-family: open-sans, sans-serif;
 	font-weight: 600;

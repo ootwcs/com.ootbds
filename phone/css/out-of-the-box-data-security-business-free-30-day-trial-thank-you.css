@@ -1,7 +1,7 @@
 .version.out_of_the_box_data_security_business_free_30_day_trial_thank_you /* version checker */
 {
-	color: #0000F3;
-	background-color: #384BF2;
+	color: #0000E8;
+	background-color: #7453C1;
 }
 
 #page
@@ -126,9 +126,9 @@
 	z-index: 5;
 	min-height: 303px;
 	background-color: transparent;
-	line-height: 1.4;
 	color: #FFFFFF;
 	text-align: center;
+	line-height: 1.4;
 	font-family: open-sans, sans-serif;
 	font-weight: 400;
 }

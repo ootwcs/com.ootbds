@@ -232,7 +232,7 @@ a.nontext /* used to override default properties of 'a' tag */
 	text-decoration: none;
 }
 
-.OoTBDS-com a,.Style3 a,.OoTBDS-com-Bottom a,.OoTBDS-com-Black a
+.OoTBDS-com a,.Style3 a,.OoTBDS-com-Black a
 {
 	color: inherit;
 	text-decoration: inherit;

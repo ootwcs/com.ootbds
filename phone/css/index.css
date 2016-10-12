@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000FB;
-	background-color: #B02AEC;
+	color: #0000E4;
+	background-color: #1408ED;
 }
 
 #page
@@ -40,7 +40,8 @@
 	height: 71px;
 	border-width: 0px;
 	border-color: transparent;
-	background-color: #00BFF3;
+	background: #00BFF3 url("../../images/2.jpg") no-repeat center center;
+	background-size: cover;
 }
 
 .js body
@@ -190,11 +191,11 @@
 	opacity: 0.5;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
 	filter: alpha(opacity=50);
-	line-height: 1.1;
 	font-size: 11px;
 	letter-spacing: 4px;
 	color: #000000;
 	text-align: center;
+	line-height: 1.1;
 	font-family: open-sans, sans-serif;
 	font-weight: 600;
 	position: relative;

@@ -1,7 +1,7 @@
 .version.ootbds_account_activated /* version checker */
 {
-	color: #0000E4;
-	background-color: #60C904;
+	color: #000002;
+	background-color: #DFD827;
 }
 
 #muse_css_mq
@@ -13,19 +13,20 @@
 {
 	z-index: 1;
 	width: 960px;
-	min-height: 681px;
+	min-height: 708.5381615304389px;
 	background-image: none;
 	border-width: 0px;
 	border-color: #000000;
 	background-color: #00BFF3;
+	padding-bottom: 0px;
 	margin-left: auto;
 	margin-right: auto;
 }
 
 #page_position_content
 {
-	margin-bottom: -9px;
 	padding-top: 20px;
+	padding-bottom: 1px;
 	width: 0.01px;/* should not cover content below */
 }
 
@@ -51,7 +52,7 @@
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
 	margin-left: 168px;
-	margin-top: 23px;
+	margin-top: 11px;
 	position: relative;
 }
 
@@ -66,7 +67,7 @@
 	font-family: advent-pro, sans-serif;
 	font-weight: 300;
 	margin-left: 226px;
-	margin-top: 23px;
+	margin-top: 12px;
 	position: relative;
 }
 
@@ -90,17 +91,16 @@
 	position: relative;
 	width: 960px;
 	left: -100px;
-	padding-top: 37px;
+	padding-top: 38px;
 	padding-bottom: 8px;
-	margin-bottom: -3px;
 }
 
 #u10803-17
 {
 	z-index: 13;
-	width: 490px;
+	width: 510px;
 	min-height: 18px;
-	left: 335px;
+	left: 326px;
 	position: relative;
 }
 
@@ -109,8 +109,8 @@
 	z-index: 7;
 	width: 180px;
 	min-height: 18px;
-	left: 491px;
-	margin-top: 7px;
+	left: 490px;
+	margin-top: 6px;
 	position: relative;
 }
 
@@ -148,7 +148,7 @@
 {
 	z-index: 2;
 	min-height: 184.63056818311975px;
-	margin-top: -3px;
+	margin-top: 8px;
 }
 
 .html

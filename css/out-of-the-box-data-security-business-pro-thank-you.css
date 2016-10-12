@@ -1,18 +1,19 @@
 .version.out_of_the_box_data_security_business_pro_thank_you /* version checker */
 {
-	color: #00001B;
-	background-color: #C9ED4F;
+	color: #000001;
+	background-color: #F0E7B1;
 }
 
 #page
 {
 	z-index: 1;
 	width: 960px;
-	min-height: 854px;
+	min-height: 853px;
 	background-image: none;
 	border-width: 0px;
 	border-color: #000000;
 	background-color: transparent;
+	padding-bottom: 1px;
 	margin-left: auto;
 	margin-right: auto;
 }
@@ -176,7 +177,7 @@
 	margin-right: -10000px;
 	margin-top: 13px;
 	left: 117px;
-	background: transparent url("../images/out%20of%20the%20box%20data%20security-u11061-fr.png") no-repeat center center;
+	background: transparent url("../images/out%20of%20the%20box%20data%20security-u9076-fr.png") no-repeat center center;
 	background-size: contain;
 }
 
@@ -781,16 +782,16 @@
 	position: relative;
 	width: 960px;
 	left: -100px;
-	padding-top: 37px;
+	padding-top: 38px;
 	padding-bottom: 8px;
 }
 
 #u10803-17
 {
 	z-index: 13;
-	width: 490px;
+	width: 510px;
 	min-height: 18px;
-	left: 335px;
+	left: 326px;
 	position: relative;
 }
 
@@ -799,8 +800,8 @@
 	z-index: 7;
 	width: 180px;
 	min-height: 18px;
-	left: 491px;
-	margin-top: 7px;
+	left: 490px;
+	margin-top: 6px;
 	position: relative;
 }
 
@@ -828,7 +829,6 @@
 {
 	z-index: 2;
 	min-height: 184.63056818311975px;
-	margin-bottom: -9px;
 	margin-top: -3px;
 }
 
