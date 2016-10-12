@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="ootbds.com" resolutions="1x" timestamp="1476270342990">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="ootbds.com" resolutions="1x" timestamp="1476275158532">
   <folder name="css">
     <file name="site_global.css" crc="151426904"/>
     <file name="master_a-master.css" crc="37039735" ref="enterprise-contact:out-of-the-box-data-security-business-thank-you:business-pro-contact:index:business-30-day-free-trial:out-of-the-box-data-security-enterprise-thank-you:ootbds-account-activated:out-of-the-box-data-security-business-pro-thank-you:business:refer-a-friend-thank-you:ootbds-terms-of-service:ootbds-privacy-policy:refer-a-friend"/>
@@ -8,7 +8,7 @@
     <file name="iefonts_out-of-the-box-data-security-business-thank-you.css" crc="4121041476" ref="out-of-the-box-data-security-business-thank-you"/>
     <file name="business-pro-contact.css" crc="219886634" ref="business-pro-contact"/>
     <file name="iefonts_business-pro-contact.css" crc="4025626553" ref="business-pro-contact"/>
-    <file name="index.css" crc="4072635666" ref="index"/>
+    <file name="index.css" crc="4250902285" ref="index"/>
     <file name="iefonts_index.css" crc="4222909153" ref="index"/>
     <file name="business-30-day-free-trial.css" crc="466686191" ref="business-30-day-free-trial"/>
     <file name="iefonts_business-30-day-free-trial.css" crc="161979548" ref="business-30-day-free-trial"/>
@@ -55,8 +55,8 @@
     <file name="form-u13191.php" crc="94367656" ref="enterprise-contact"/>
   </folder>
   <folder name="images">
-    <file name="out-of-the-box-data-security-favicon.ico" crc="4246783373" ref="phone>index"/>
-    <file name="out of the box data security-u9076-fr.png" crc="147177400" ref="phone>index:phone>out-of-the-box-data-security-business:phone>out-of-the-box-data-security-business-free-30-day-trial-thank-you:phone>out-of-the-box-data-security-contact-us-thank-you:phone>out-of-the-box-data-security-business-pro-thank-you:phone>out-of-the-box-data-security-enterprise-thank-you:phone>out-of-the-box-data-security-contact-us:phone>out-of-the-box-data-security-business-free-30-day-trial:phone>out-of-the-box-data-security-business-pro-contact:phone>out-of-the-box-data-security-enterprise-contact:index:ootbds-terms-of-service:business:ootbds-privacy-policy:business-30-day-free-trial:out-of-the-box-data-security-business-thank-you:refer-a-friend:refer-a-friend-thank-you:business-pro-contact:enterprise-contact:out-of-the-box-data-security-business-pro-thank-you:out-of-the-box-data-security-enterprise-thank-you:desktop-client-download"/>
+    <file name="out-of-the-box-data-security-favicon.ico" crc="4246783373" ref="phone>index:index"/>
+    <file name="out of the box data security-u9076-fr.png" crc="147177400" ref="phone>index:phone>out-of-the-box-data-security-business:phone>out-of-the-box-data-security-business-free-30-day-trial-thank-you:phone>out-of-the-box-data-security-contact-us-thank-you:phone>out-of-the-box-data-security-business-pro-thank-you:phone>out-of-the-box-data-security-enterprise-thank-you:phone>out-of-the-box-data-security-contact-us:phone>out-of-the-box-data-security-business-free-30-day-trial:phone>out-of-the-box-data-security-business-pro-contact:phone>out-of-the-box-data-security-enterprise-contact:ootbds-terms-of-service:business:ootbds-privacy-policy:business-30-day-free-trial:out-of-the-box-data-security-business-thank-you:refer-a-friend:refer-a-friend-thank-you:business-pro-contact:enterprise-contact:out-of-the-box-data-security-business-pro-thank-you:out-of-the-box-data-security-enterprise-thank-you:desktop-client-download"/>
     <file name="sharing-u10898-fr.jpg" crc="4168211202" ref="phone>index"/>
     <file name="out of the box videos-u10901-fr.jpg" crc="4067537870" ref="phone>index"/>
     <file name="out of the box files-u10896-fr.jpg" crc="3902281366" ref="phone>index"/>
@@ -158,6 +158,7 @@
     <file name="out of the box data security - movie screenshot.jpg" crc="236179385" ref="index"/>
     <file name="out of the box data security screenshot.jpg" crc="3792147463" ref="index"/>
     <file name="out of the box data security - versioning screenshot.jpg" crc="74324732" ref="index"/>
+    <file name="out of the box data security-u6149-fr.png" crc="147177400" ref="index"/>
   </folder>
   <folder name="phone">
     <folder name="css">
@@ -194,7 +195,7 @@
     <file name="out-of-the-box-data-security-business-pro-thank-you.html" crc="434392596" seo="true" mt="1476267152620" redirect="true"/>
     <file name="out-of-the-box-data-security-enterprise-thank-you.html" crc="475425785" seo="true" mt="1476267152625" redirect="true"/>
   </folder>
-  <file name="index.html" crc="4247062271" seo="true" mt="1476270199153" redirect="true"/>
+  <file name="index.html" crc="3926944606" seo="true" mt="1476275141502" redirect="true"/>
   <file name="ootbds-terms-of-service.html" crc="3903292965" seo="true" mt="1476267152309" redirect="true"/>
   <file name="business.html" crc="212534518" seo="true" mt="1476267152329" redirect="true"/>
   <file name="ootbds-privacy-policy.html" crc="519954832" seo="true" mt="1476267152334" redirect="true"/>

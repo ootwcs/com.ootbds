@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000F2;
-	background-color: #BF7D12;
+	color: #0000FD;
+	background-color: #5F9F0D;
 }
 
 #muse_css_mq
@@ -286,13 +286,6 @@
 	margin: 0px;
 }
 
-#u452
-{
-	position: absolute;
-	width: 1006px;
-	background-color: transparent;
-}
-
 #u452popup
 {
 	z-index: 122;
@@ -308,7 +301,7 @@
 	background-color: rgba(107,107,107,0.01);
 	margin-right: -10000px;
 	position: relative;
-	padding: 68px 63px 26px 17px;
+	padding: 68px 17px 26px;
 	-pie-background: rgba(107,107,107,0.01);
 }
 
@@ -382,7 +375,7 @@
 	background-color: rgba(107,107,107,0.01);
 	margin-right: -10000px;
 	position: relative;
-	padding: 68px 63px 26px 17px;
+	padding: 68px 17px 26px;
 	-pie-background: rgba(107,107,107,0.01);
 }
 
@@ -454,7 +447,7 @@
 	background-color: rgba(107,107,107,0.01);
 	margin-right: -10000px;
 	position: relative;
-	padding: 68px 63px 25px 17px;
+	padding: 68px 17px 25px;
 	-pie-background: rgba(107,107,107,0.01);
 }
 
@@ -587,7 +580,7 @@
 	position: relative;
 	margin-right: -10000px;
 	left: 117px;
-	background: transparent url("../images/out%20of%20the%20box%20data%20security-u9076-fr.png") no-repeat center center;
+	background: transparent url("../images/out%20of%20the%20box%20data%20security-u6149-fr.png") no-repeat center center;
 	background-size: contain;
 }
 
@@ -992,7 +985,7 @@
 	margin: 0px;
 }
 
-#u10584
+#u452,#u10584
 {
 	position: absolute;
 	width: 960px;
