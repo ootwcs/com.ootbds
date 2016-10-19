@@ -52,8 +52,8 @@
 
 .version.out_of_the_box_data_security_contact_us /* version checker */
 {
-	color: #00001B;
-	background-color: #35478E;
+	color: #00000A;
+	background-color: #D606BD;
 }
 
 #page
@@ -116,7 +116,7 @@
 	position: relative;
 	margin-right: -10000px;
 	left: 108px;
-	background: transparent url("../../images/out%20of%20the%20box%20data%20security-u9076-fr.png") no-repeat center center;
+	background: transparent url("../../images/out%20of%20the%20box%20data%20security-u11061-fr.png") no-repeat center center;
 	background-size: contain;
 }
 
@@ -219,8 +219,8 @@
 	border-color: transparent;
 	background-color: transparent;
 	color: #000000;
-	text-align: left;
 	line-height: 1;
+	text-align: left;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -337,8 +337,8 @@
 	border-color: transparent;
 	background-color: transparent;
 	color: #000000;
-	text-align: left;
 	line-height: 1;
+	text-align: left;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -482,8 +482,8 @@
 	filter: alpha(opacity=0);
 	padding-top: 4px;
 	color: #25FFAA;
-	font-size: 12px;
 	line-height: 1;
+	font-size: 12px;
 	font-family: open-sans, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -569,8 +569,8 @@
 	border-color: transparent;
 	background-color: transparent;
 	color: #000000;
-	text-align: left;
 	line-height: 1;
+	text-align: left;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -676,8 +676,8 @@
 	border-color: transparent;
 	background-color: transparent;
 	color: #000000;
-	text-align: left;
 	line-height: 1;
+	text-align: left;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -880,8 +880,8 @@
 	border-color: transparent;
 	background-color: transparent;
 	color: #FFFFFF;
-	text-align: left;
 	line-height: 1;
+	text-align: left;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -1033,8 +1033,8 @@
 	border-color: transparent;
 	background-color: transparent;
 	color: #000000;
-	text-align: left;
 	line-height: 1;
+	text-align: left;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
 	position: relative;

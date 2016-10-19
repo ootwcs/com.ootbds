@@ -52,8 +52,8 @@
 
 .version.enterprise_contact /* version checker */
 {
-	color: #00001B;
-	background-color: #FE50B2;
+	color: #000006;
+	background-color: #8A3A06;
 }
 
 #page
@@ -187,7 +187,7 @@
 	margin-right: -10000px;
 	margin-top: 13px;
 	left: 117px;
-	background: transparent url("../images/out%20of%20the%20box%20data%20security-u9076-fr.png") no-repeat center center;
+	background: transparent url("../images/out%20of%20the%20box%20data%20security-u7136-fr.png") no-repeat center center;
 	background-size: contain;
 }
 
@@ -796,8 +796,8 @@
 	border-color: transparent;
 	background-color: transparent;
 	color: #FFFFFF;
-	text-align: left;
 	line-height: 1;
+	text-align: left;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -914,8 +914,8 @@
 	border-color: transparent;
 	background-color: transparent;
 	color: #FFFFFF;
-	text-align: left;
 	line-height: 1;
+	text-align: left;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -1059,8 +1059,8 @@
 	filter: alpha(opacity=0);
 	padding-top: 4px;
 	color: #25FFAA;
-	font-size: 12px;
 	line-height: 1;
+	font-size: 12px;
 	font-family: open-sans, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -1145,8 +1145,8 @@
 	border-color: transparent;
 	background-color: transparent;
 	color: #FFFFFF;
-	text-align: left;
 	line-height: 1;
+	text-align: left;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -1263,8 +1263,8 @@
 	border-color: transparent;
 	background-color: transparent;
 	color: #FFFFFF;
-	text-align: left;
 	line-height: 1;
+	text-align: left;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -1502,8 +1502,8 @@
 	border-color: transparent;
 	background-color: transparent;
 	color: #FFFFFF;
-	text-align: left;
 	line-height: 1;
+	text-align: left;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
 	position: relative;

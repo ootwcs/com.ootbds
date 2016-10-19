@@ -1,7 +1,7 @@
 .version.ootbds_privacy_policy /* version checker */
 {
-	color: #0000E7;
-	background-color: #EB8059;
+	color: #0000E0;
+	background-color: #0CC0E7;
 }
 
 #page
@@ -101,7 +101,7 @@
 	border-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	background: transparent url("../images/out%20of%20the%20box%20data%20security-u9076-fr.png") no-repeat center center;
+	background: transparent url("../images/out%20of%20the%20box%20data%20security-u7136-fr.png") no-repeat center center;
 	background-size: contain;
 }
 
