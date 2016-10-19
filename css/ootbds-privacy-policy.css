@@ -1,7 +1,7 @@
 .version.ootbds_privacy_policy /* version checker */
 {
-	color: #0000E0;
-	background-color: #0CC0E7;
+	color: #0000EF;
+	background-color: #2B3A01;
 }
 
 #page
@@ -122,6 +122,11 @@
 #u8716-2,#u8716-3
 {
 	font-size: 30px;
+}
+
+#u8716-8,#u8716-14,#u8716-20,#u8716-36,#u8716-50,#u8716-72,#u8716-73,#u8716-78,#u8716-84,#u8716-103,#u8716-108,#u8716-114,#u8716-142,#u8716-150,#u8716-169,#u8716-205
+{
+	font-weight: bold;
 }
 
 #u8714-4

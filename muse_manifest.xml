@@ -1,7 +1,7 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="ootbds.com" resolutions="1x" timestamp="1476872974578">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="ootbds.com" resolutions="1x" timestamp="1476880650722">
   <folder name="css">
-    <file name="site_global.css" crc="151426904"/>
-    <file name="master_a-master.css" crc="362213138" ref="enterprise-contact:out-of-the-box-data-security-business-thank-you:business-pro-contact:index:business-30-day-free-trial:out-of-the-box-data-security-enterprise-thank-you:ootbds-account-activated:out-of-the-box-data-security-business-pro-thank-you:business:refer-a-friend-thank-you:ootbds-terms-of-service:ootbds-privacy-policy:refer-a-friend"/>
+    <file name="site_global.css" crc="4031405212"/>
+    <file name="master_a-master.css" crc="3980595195" ref="enterprise-contact:out-of-the-box-data-security-business-thank-you:business-pro-contact:index:business-30-day-free-trial:out-of-the-box-data-security-enterprise-thank-you:ootbds-account-activated:out-of-the-box-data-security-business-pro-thank-you:business:refer-a-friend-thank-you:ootbds-terms-of-service:ootbds-privacy-policy:refer-a-friend"/>
     <file name="enterprise-contact.css" crc="109722118" ref="enterprise-contact"/>
     <file name="iefonts_enterprise-contact.css" crc="3938758950" ref="enterprise-contact"/>
     <file name="out-of-the-box-data-security-business-thank-you.css" crc="4019468257" ref="out-of-the-box-data-security-business-thank-you"/>
@@ -23,9 +23,9 @@
     <file name="desktop-client-download.css" crc="3982871837" ref="desktop-client-download"/>
     <file name="refer-a-friend-thank-you.css" crc="133737705" ref="refer-a-friend-thank-you"/>
     <file name="iefonts_refer-a-friend-thank-you.css" crc="69521611" ref="refer-a-friend-thank-you"/>
-    <file name="ootbds-terms-of-service.css" crc="3949566148" ref="ootbds-terms-of-service"/>
+    <file name="ootbds-terms-of-service.css" crc="3915567350" ref="ootbds-terms-of-service"/>
     <file name="iefonts_ootbds-terms-of-service.css" crc="126585210" ref="ootbds-terms-of-service"/>
-    <file name="ootbds-privacy-policy.css" crc="3758932199" ref="ootbds-privacy-policy"/>
+    <file name="ootbds-privacy-policy.css" crc="4012587521" ref="ootbds-privacy-policy"/>
     <file name="iefonts_ootbds-privacy-policy.css" crc="3946245843" ref="ootbds-privacy-policy"/>
     <file name="refer-a-friend.css" crc="4126727849" ref="refer-a-friend"/>
     <file name="iefonts_refer-a-friend.css" crc="188525356" ref="refer-a-friend"/>
@@ -198,9 +198,9 @@
     <file name="out-of-the-box-data-security-enterprise-thank-you.html" crc="475425785" seo="true" mt="1476267152625" redirect="true"/>
   </folder>
   <file name="index.html" crc="3926944606" seo="true" mt="1476275550708" redirect="true"/>
-  <file name="ootbds-terms-of-service.html" crc="3969749915" seo="true" mt="1476872587103" redirect="true"/>
+  <file name="ootbds-terms-of-service.html" crc="3788337785" seo="true" mt="1476880593865" redirect="true"/>
   <file name="business.html" crc="206722949" seo="true" mt="1476872556143" redirect="true"/>
-  <file name="ootbds-privacy-policy.html" crc="3852299881" seo="true" mt="1476872605782" redirect="true"/>
+  <file name="ootbds-privacy-policy.html" crc="320859209" seo="true" mt="1476880478311" redirect="true"/>
   <file name="ootbds-account-activated.html" crc="4264860381" seo="true" mt="1476267152344" redirect="true"/>
   <file name="business-30-day-free-trial.html" crc="3927862298" seo="true" mt="1476872717447" redirect="true"/>
   <file name="out-of-the-box-data-security-business-thank-you.html" crc="3901903453" seo="true" mt="1476872701407" redirect="true"/>
